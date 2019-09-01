@@ -6,13 +6,15 @@ excerpt: Sometimes, we just can't make things run indefinitely faster on a singl
 ---
 ---
 Where: [Python User Group Singapore, August 2019 Meetup](https://www.meetup.com/Singapore-Python-User-Group/events/263765155/)
+
 When: 27 August 2019
+
 Location: Zendesk Singapore
 
 Resources used:
-[Official Python documentation on concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html)
-[Built-in Functions](https://docs.python.org/3/library/functions.html#map)
-[Accelerating Batch Processing of Images in Python — with gsutil, numba and concurrent.futures](2019-05-27-accelerating-batch-processing.md)
+- [Official Python documentation on concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html)
+- [Built-in Functions](https://docs.python.org/3/library/functions.html#map)
+- [Accelerating Batch Processing of Images in Python — with gsutil, numba and concurrent.futures](_posts/2019-05-27-accelerating-batch-processing.md)
 
 ## Recap
 
