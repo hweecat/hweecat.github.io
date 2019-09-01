@@ -14,7 +14,7 @@ Location: Zendesk Singapore
 Resources used:
 - [Official Python documentation on concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html)
 - [Built-in Functions](https://docs.python.org/3/library/functions.html#map)
-- [Accelerating Batch Processing of Images in Python — with gsutil, numba and concurrent.futures](_posts\2019-05-27-accelerating-batch-processing.md)
+- [Accelerating Batch Processing of Images in Python — with gsutil, numba and concurrent.futures](https://hweecat.github.io/2019-05-27-accelerating-batch-processing.md)
 
 ## Recap
 
