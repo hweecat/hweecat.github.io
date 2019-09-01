@@ -2,7 +2,7 @@
 layout: post
 title: "Talk: How to Make Your Data Processing Faster - Parallel Processing and JIT in Data Science"
 description: "Quick speaker notes on parallel processing and JIT in data science + talk reflection"
-excerpt: .
+excerpt: I did a little talk on how to make your data processing faster as my first-ever conference talk, and it was loads of fun. Toasts, coffee and a barista included in the talk. Oh, and did I mention that it was also my first-ever CFP submission?
 ---
 ---
 Where: [Women Who Code CONNECT Asia 2019](https://asia.womenwhocode.dev/)
@@ -73,3 +73,12 @@ As this was my first-ever conference talk, I had a practice talk on the Parallel
 5. I received a special Twitter mention from a WWCode Taipei Director for "transforming complicated idea into simple example". :)
 6. I managed to get plenty of photos of myself speaking on the conference stage from the conference attendees - on Twitter. I got more followers on Twitter too!
 7. Time management was much better this time - I kept to the 40-minute speaking slot, including Q&A!
+
+
+### "Thank You" Section
+
+I would like to thank:
+
+1. Women Who Code for trusting me with the opportunity to speak at a conference - even though I had no prior public speaking experience beforehand and am still relatively junior in my tech career at all counts.
+2. Chen Huijing (who also spoke at Women Who Code CONNECT Asia!) and Elisha Tan and the rest of the Singapore Global CFP Diversity Day folks who sparked that butterfly effect in the first place.
+3. Ying Ka Ho for sparking the barista idea, and the rest of the Singapore JS folks for responding to my Twitter thread on async with coffee. (The audience loved it!)
