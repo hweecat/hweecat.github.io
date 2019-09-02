@@ -9,9 +9,10 @@ Where: [Women Who Code CONNECT Asia 2019](https://asia.womenwhocode.dev/)
 
 When: 31 August 2019
 
-Location: Lifelong Learning Institute
+Location: Lifelong Learning Institute, Singapore
 
 Resources used:
+
 - [Official Python documentation on concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html)
 - [Built-in Functions](https://docs.python.org/3/library/functions.html#map)
 - [5-minute Guide to Numba](http://numba.pydata.org/numba-doc/latest/user/5minguide.html)
@@ -24,7 +25,7 @@ A recap of what I went through during my talk:
 1. Bottlenecks in a data science project
 2. What is parallel processing?
     - Sequential vs parallel processing
-    - Synchronous vs asynchronous processing (with input from the #javascript folks this time)
+    - Synchronous vs asynchronous execution (with input from the #javascript folks this time)
 3. When should you go for parallelism?
     - Practical considerations
         - Is your code already optimised?
@@ -38,7 +39,7 @@ A recap of what I went through during my talk:
         - Data processing tends to be more compute-intensive
     - How to do parallel processing in Python
         - concurrent.futures module in Python
-        -   map() in concurrent.futures
+        - map() in concurrent.futures
 5. JIT Compilation in Data Science
     - Compiled vs Interpreted Languages
     - JIT Compilation
@@ -73,7 +74,7 @@ As this was my first-ever conference talk, I had a practice talk on the Parallel
 5. I received a special Twitter mention from a WWCode Taipei Director for "transforming complicated idea into simple example". :)
 6. I managed to get plenty of photos of myself speaking on the conference stage from the conference attendees - on Twitter. I got more followers on Twitter too!
 7. Time management was much better this time - I kept to the 40-minute speaking slot, including Q&A!
-
+8. I got the opportunity to share with a few people about the Strategic Technology Centres at my workplace - especially the Data Analytics Strategic Technology Centre. Indirect promotion strategy - score!
 
 ### "Thank You" Section
 
@@ -82,3 +83,4 @@ I would like to thank:
 1. Women Who Code for trusting me with the opportunity to speak at a conference - even though I had no prior public speaking experience beforehand and am still relatively junior in my tech career at all counts.
 2. Chen Huijing (who also spoke at Women Who Code CONNECT Asia!) and Elisha Tan and the rest of the Singapore Global CFP Diversity Day folks who sparked that butterfly effect in the first place.
 3. Ying Ka Ho for sparking the barista idea, and the rest of the Singapore JS folks for responding to my Twitter thread on async with coffee. (The audience loved it!)
+4. My colleagues and bosses at Data Analytics Strategic Technology Centre for their kind support. Special mention to Wang Peijie and Azhar bin Athly for the technical advice, and to E V S Ravishankar for encouraging me to write the Medium article that started the whole "butterfly effect" in the first place.
