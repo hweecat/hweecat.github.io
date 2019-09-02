@@ -74,6 +74,7 @@ As this was my first-ever conference talk, I had a practice talk on the Parallel
 5. I received a special Twitter mention from a WWCode Taipei Director for "transforming complicated idea into simple example". :)
 6. I managed to get plenty of photos of myself speaking on the conference stage from the conference attendees - on Twitter. I got more followers on Twitter too!
 7. Time management was much better this time - I kept to the 40-minute speaking slot, including Q&A!
+8. I got the opportunity to share with a few people about the Strategic Technology Centres at my workplace - especially the Data Analytics Strategic Technology Centre. Indirect promotion strategy - score!
 
 ### "Thank You" Section
 
