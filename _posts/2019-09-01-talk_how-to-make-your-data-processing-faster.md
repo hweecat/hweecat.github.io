@@ -9,7 +9,7 @@ Where: [Women Who Code CONNECT Asia 2019](https://asia.womenwhocode.dev/)
 
 When: 31 August 2019
 
-Location: Lifelong Learning Institute
+Location: Lifelong Learning Institute, Singapore
 
 Resources used:
 
