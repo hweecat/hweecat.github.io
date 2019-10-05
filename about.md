@@ -28,7 +28,7 @@ My goal for 2019 is to:
 
 ### Talks
 
-I stumbled into public speaking when I attended Singapore Global CFP Diversity Day in March 2019, and subsequently got my first CFP submission accepted a few months later. I'm still 
+I stumbled into public speaking when I attended Singapore Global CFP Diversity Day in March 2019, and subsequently got my first CFP submission accepted a few months later. I'm still pretty new to delivering talks in public, so I consider myself a work-in-progress speaker who is constantly learning from the audience.
 
 * Upcoming talk (topic TBD) in January 2020 at JuniorDevSG
 * [How to Make Your Data Processing Faster: Parallel Processing and JIT in Data Science](https://hweecat.github.io/talk_how-to-make-your-data-processing-faster) at [Women Who Code CONNECT Asia 2019](https://asia.womenwhocode.dev/) :video-camera: [courtesy of Engineers.SG](https://youtu.be/RX5rlt3jAt0)
