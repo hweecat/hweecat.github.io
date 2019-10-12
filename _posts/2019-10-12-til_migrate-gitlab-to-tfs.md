@@ -78,8 +78,10 @@ git push --mirror http://myteamtfsaddress:8080/tfs/DefaultCollection/_git/YourTa
 
     - You need to key in your Azure DevOps (TFS) username and password for authentication.
     - If authentication error, try
+
     ```bash
     git config --system --unset credential.helper
     ```
+    
     to clear cache.
 
