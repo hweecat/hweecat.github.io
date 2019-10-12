@@ -12,11 +12,21 @@ While searching for ways to resolve the multiple requirements.txt files from my 
 
 ## Using pipdeptree for dependency management
 
-To install pipdeptree, use the following command
+To install pipdeptree, use the following command:
 
 ```python
 pip install pipdeptree
 ```
+
+or, if you prefer to use conda:
+
+```python
+conda install -c conda-forge pipdeptree
+```
+
+In order to be able to manage dependencies within virtual environments, `pipdeptree` has to be installed within each individual virtual environment. If you are starting a new virtual environment for a project and would like to use `pipdeptree` for dependency management, you would have to install `pipdeptree` in that new virtual environment.
+
+### Dependency tree output
 
 
 
