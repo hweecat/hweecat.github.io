@@ -10,3 +10,14 @@ Dependency management is important, as packages depend on versions of other core
 
 While searching for ways to resolve the multiple requirements.txt files from my colleages within a team project, I stumbled across `pipdeptree`, a command-line utility for displaying installed Python packages in the form of a dependency tree. The output is displayed in a tree-based format instead of a flat list, showing the dependency relationships between installed Python packages and their associated dependencies.
 
+## Using pipdeptree for dependency management
+
+To install pipdeptree, use the following command
+
+```python
+pip install pipdeptree
+```
+
+
+
+

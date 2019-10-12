@@ -88,7 +88,7 @@ Uploading the image files to the GCS bucket using _gsutil cp_ command took aroun
 ![alt text](https://cdn-images-1.medium.com/max/1200/1*2vmUe8ClFeJL7dbt6XUU6Q.jpeg "upload files")
 All 4 folders in our storage bucket - success!
 
-## Step 3: Import each image file from Cloud Storage to Colab
+### Step 3: Import each image file from Cloud Storage to Colab
 
 Now that we have our complete set of image files uploaded on Cloud Storage, we need to be able to access these files on Colab via the image path of each item in the dataset. The image path of each item is extracted from the dataframe which in turn was extracted from the CSV file of the corresponding dataset.
 
@@ -123,7 +123,7 @@ def gcp_imageimport(index):
 
 Okay, let's proceed to define our functions for pre-processing the image into numpy arrays.
 
-## Step 4: Convert each image to standardized numpy array
+### Step 4: Convert each image to standardized numpy array
 
 It is observed that the images in the dataset are of different formats (some are RGB while others are RGBA with an additional alpha channel) and different dimensions. As machine learning models usually require inputs of equal dimensions, pre-processing is required to convert each image in the dataset to a standardized format and resize the images into equal dimensions. Here's the Python function for RGB conversion, resizing and numpy array conversion:
 
