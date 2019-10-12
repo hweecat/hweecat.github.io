@@ -22,9 +22,9 @@ Our existing and new on-premise development clouds are accessible via different 
 
 4. Clone your GitLab source repository (e.g. YourTeam/YourSourceRepo) to target local directory.
 
-```bash
-git clone http://myteamgitlabaddress/YourTeam/YourSourceRepo
-```
+    ```bash
+    git clone http://myteamgitlabaddress/YourTeam/YourSourceRepo
+    ```
 
 ### Creating new upstream at Azure DevOps (TFS)
 
@@ -36,21 +36,21 @@ git clone http://myteamgitlabaddress/YourTeam/YourSourceRepo
 
 4. List the current configured remote repository for your (GitLab) fork.
 
-```bash
-git remote -v
-```
+    ```bash
+    git remote -v
+    ```
 
 5. Specify a new remote upstream repository that will be synced with the fork.
 
-```bash
-git remote add upstream http://myteamtfsaddress:8080/tfs/DefaultCollection/_git/YourTargetRepo
-```
+    ```bash
+    git remote add upstream http://myteamtfsaddress:8080/tfs/DefaultCollection/_git/YourTargetRepo
+    ```
 
 6. Verify the new upstream repository you've specified for your fork.
 
-```bash
-git remote -v
-```
+    ```bash
+    git remote -v
+    ```
 
 ### Migrating codes from GitLab to Azure DevOps (TFS)
 
@@ -58,15 +58,15 @@ git remote -v
 
 2. Check that local repository is up to date with GitLab upstream. 
 
-```bash
-git fetch
-```
+    ```bash
+    git fetch
+    ```
 
 3. Update local repository with GitLab repository.
 
-```bash
-git pull
-```
+    ```bash
+    git pull
+    ```
 
 4. Connect to new cloud VPN (if applicable).
 
@@ -76,12 +76,10 @@ git pull
 git push --mirror http://myteamtfsaddress:8080/tfs/DefaultCollection/_git/YourTargetRepo
 ```
 
-    - You need to key in your Azure DevOps (TFS) username and password for authentication.
-    - If authentication error, try
+* You need to key in your Azure DevOps (TFS) username and password for authentication.
+    - If authentication error, try the following command to clear cache:
 
     ```bash
     git config --system --unset credential.helper
     ```
-    
-    to clear cache.
 
