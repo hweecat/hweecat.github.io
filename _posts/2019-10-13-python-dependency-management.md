@@ -14,13 +14,13 @@ While searching for ways to resolve the multiple requirements.txt files from my 
 
 To install pipdeptree, use the following command:
 
-```python
+```bash
 pip install pipdeptree
 ```
 
 or, if you prefer to use conda:
 
-```python
+```bash
 conda install -c conda-forge pipdeptree
 ```
 
@@ -28,6 +28,52 @@ In order to be able to manage dependencies within virtual environments, `pipdept
 
 ### Dependency tree output
 
+To view the dependency tree of every installed package within the virtual environment:
 
+```bash
+pipdeptree
+```
 
+To view the dependency tree of a particular package e.g. pandas, the flag `-p` or `--packages` is used:
 
+```bash
+pipdeptree -p pandas
+```
+
+To view the reverse dependency tree - the packages that are dependent on every installed package within the virtual environment, the flag `-r` or `--reverse` is used:
+
+```bash
+pipdeptree -r
+```
+
+Sometimes we may prefer to have the dependency tree displayed as json representation to be used as input to other external tools. In this case, the flag `j` or `--json` outputs a flat list of all packages with their immediate dependencies, while the flag `--json-tree` outputs a nested json representing the dependency relationships between packages.
+
+```bash
+pipdeptree --json       # for immediate dependencies
+
+pipdeptree --json-tree  # for nested dependencies
+```
+
+To lay out the dependency graph, GraphViz is required in both the command-line interface and the virtual environment. The available output formats are dot, jpeg, pdf, png and svg. For example, if I would like to output my dependency graph in pdf, I use the following command:
+
+```bash
+pipdeptree --graph-output pdf > dependencies.pdf
+```
+
+#### Installing Graphviz in virtual environment
+
+First, I installed Graphviz on Ubuntu 18.04 LTS Windows Subsystem for Linux (WSL) using `apt-get install` by using the following command:
+
+```bash
+sudo apt-get update
+
+sudo apt-get install graphviz
+```
+
+Next, I installed graphviz for Python using conda:
+
+```bash
+conda install graphviz
+```
+
+As of now, I have yet to get Grahpviz running successfully on Windows + Anaconda, but I will try setting up Graphviz on Windows to work with pipdeptree when I have the time. Nevertheless, Graphviz works smoothly on Ubuntu 18.04 LTS WSL, so my current dependency management workflow is now on pip + venv + pipdeptree - and it works pretty smoothly without additional packages that conda installs in environments!
