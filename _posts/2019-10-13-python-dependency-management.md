@@ -77,3 +77,9 @@ conda install graphviz
 ```
 
 As of now, I have yet to get Grahpviz running successfully on Windows + Anaconda, but I will try setting up Graphviz on Windows to work with pipdeptree when I have the time. Nevertheless, Graphviz works smoothly on Ubuntu 18.04 LTS WSL, so my current dependency management workflow is now on pip + venv + pipdeptree - and it works pretty smoothly without additional packages that conda installs in environments!
+
+## References
+
+1. [pipdeptree . PyPI](https://pypi.org/project/pipdeptree/)
+2. [pipdeptree :: Anaconda Cloud](https://anaconda.org/conda-forge/pipdeptree)
+3. [Using pipdeptree in a virtualenv](http://www.columbia.edu/~njn2118/journal/2016/3/24.html)
