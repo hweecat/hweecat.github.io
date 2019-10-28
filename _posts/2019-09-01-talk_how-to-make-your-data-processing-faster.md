@@ -52,6 +52,10 @@ A recap of what I went through during my talk:
 
 [Women Who Code Connect Asia - 31 Aug 2019 - How to Make Your Data Processing Faster](https://docs.google.com/presentation/d/12WzT3thMJbFJ_W4FMkAyKgnYdQhFcak9plL_c9VIg2w/edit?usp=sharing)
 
+## Video
+
+[How to Make Your Data Processing Faster: Parallel Processing and JIT in Data Science](https://youtu.be/RX5rlt3jAt0)
+
 ## Quick reflection
 
 This talk started out as a by-product from the Shopee Data Science Challenge which two of my colleagues and I participated in. As this was our first data science challenge, we faced loads of challenges processing our images and using them as our model inputs - so I wrote a Medium post about it and used whatever I wrote as a CFP idea with the intention to submit to multiple conferences (after all, only 1 in 10 CFPs typically get accepted). To my surprise, my first-ever CFP submission on How to Make Your Data Processing Faster was accepted by late June - which is pretty crazy no matter how I think of it.
