@@ -31,12 +31,12 @@ My goal for 2019 is to:
 
 I stumbled into public speaking when I attended Singapore Global CFP Diversity Day in March 2019, and subsequently got my first CFP submission accepted a few months later. I'm still pretty new to delivering talks in public, so I consider myself a work-in-progress speaker who is constantly learning from the audience.
 
-#### Upcoming Schedule
+#### Upcoming talks
 
+* Late November - early December 2019: "Contributing to pandas documentation for the first time - lessons from open source" at Women Who Code Singapore TalksDev #5
 * 14 January 2020: (Topic TBD) at JuniorDevSG Code and Tell
-* Late November - early December: "Contributing to documentation on pandas for the first time - lessons from open source" at Women Who Code TalksDev #5
 
-#### Talks Given
+#### Past talks
 
 * [How to Make Your Data Processing Faster: Parallel Processing and JIT in Data Science](https://hweecat.github.io/talk_how-to-make-your-data-processing-faster) at [Women Who Code CONNECT Asia 2019](https://asia.womenwhocode.dev/) --- Recording [courtesy of Engineers.SG](https://youtu.be/RX5rlt3jAt0)
 * [Parallel Processing in Python](https://hweecat.github.io/talk_parallel-programming-python) at [Python User Group Singapore Meetup](https://www.meetup.com/Singapore-Python-User-Group/events/263765155/)
