@@ -41,6 +41,8 @@ I came across an open issue on documentation for pandas, a popular open-source P
 
 (difference between `git merge` and `git rebase` is very important - choosing which one to use depends on whether you are working in a small project team or a large team of contributors)
 
+(Pro-tip: Marc ((@datapythonista) uses `git fetch upstream && git merge upstream/master to update his branches with new changes in the pandas-dev project)
+
 ### Lesson 2.2: For cleaner commit histories, `git rebase -i HEAD~n` and squash
 
 ### Lesson 2.3: `git push -f` responsibly
