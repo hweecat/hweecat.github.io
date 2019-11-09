@@ -33,7 +33,8 @@ I stumbled into public speaking when I attended Singapore Global CFP Diversity D
 
 #### Upcoming talks
 
-* Late November - early December 2019: "Contributing to pandas documentation for the first time - lessons from open source" at Women Who Code Singapore TalksDev #5
+* 28 November 2019: "Contributing to pandas documentation for the first time - lessons from open source" at [Women Who Code Singapore TalksDev #5](https://www.meetup.com/Women-Who-Code-Singapore/events/266037585/)
+* 1 December 2019: "Making Open Weather Data More Accessible: Extracting Seasonal Insights from Singapore Weather Station Data" at [OpenUP Global Summit 2019](https://www.openup.global/)
 * 14 January 2020: (Topic TBD) at JuniorDevSG Code and Tell
 
 #### Past talks
