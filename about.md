@@ -24,14 +24,22 @@ My goal for 2019 is to:
 4. ~~Speak at a tech conference so that I can share what I've learnt with even more people~~
     - Update 2019-08-22: I will be speaking at [Women Who Code CONNECT Asia 2019](https://asia.womenwhocode.dev/) in Singapore on 31st August 2019. See you there!
     - Update 2019-09-01: **Goal achieved** - I delivered my first-ever conference talk on 31st August 2019. Reflection on talk [here](https://hweecat.github.io/talk_how-to-make-your-data-processing-faster)
+    
 5. Make my first Pull Request on an open-source project
 
 ### Talks
 
 I stumbled into public speaking when I attended Singapore Global CFP Diversity Day in March 2019, and subsequently got my first CFP submission accepted a few months later. I'm still pretty new to delivering talks in public, so I consider myself a work-in-progress speaker who is constantly learning from the audience.
 
-* Upcoming talk (topic TBD) in January 2020 at JuniorDevSG
-* [How to Make Your Data Processing Faster: Parallel Processing and JIT in Data Science](https://hweecat.github.io/talk_how-to-make-your-data-processing-faster) at [Women Who Code CONNECT Asia 2019](https://asia.womenwhocode.dev/) Recording [courtesy of Engineers.SG](https://youtu.be/RX5rlt3jAt0)
+#### Upcoming talks
+
+* 28 November 2019: "Contributing to pandas documentation for the first time - lessons from open source" at [Women Who Code Singapore TalksDev #5](https://www.meetup.com/Women-Who-Code-Singapore/events/266037585/)
+* 1 December 2019: "Making Open Weather Data More Accessible: Extracting Seasonal Insights from Singapore Weather Station Data" at [OpenUP Global Summit 2019](https://www.openup.global/)
+* 14 January 2020: (Topic TBD) at JuniorDevSG Code and Tell
+
+#### Past talks
+
+* [How to Make Your Data Processing Faster: Parallel Processing and JIT in Data Science](https://hweecat.github.io/talk_how-to-make-your-data-processing-faster) at [Women Who Code CONNECT Asia 2019](https://asia.womenwhocode.dev/) --- Recording [courtesy of Engineers.SG](https://youtu.be/RX5rlt3jAt0)
 * [Parallel Processing in Python](https://hweecat.github.io/talk_parallel-programming-python) at [Python User Group Singapore Meetup](https://www.meetup.com/Singapore-Python-User-Group/events/263765155/)
 
 
