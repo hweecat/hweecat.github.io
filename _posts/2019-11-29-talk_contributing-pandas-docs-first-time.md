@@ -49,7 +49,11 @@ A recap of what I went through during my talk:
 
 ## Slides
 
-[Women Who Code Singapore Talks.Dev #5 - 28 November 2019 - Contributing to pandas for the first time](https://docs.google.com/presentation/d/1uIuK4MhGZCzBUBuPp7tuVEMT34wsuJcvaQaYLF_wc4I)
+[Women Who Code Singapore Talks.Dev #5 - 28 November 2019 - Contributing to pandas for the first time](https://docs.google.com/presentation/d/1uIuK4MhGZCzBUBuPp7tuVEMT34wsuJcvaQaYLF_wc4I/edit?usp=sharing)
+
+## Video
+
+[Contributing to pandas for the first time - lessons from open source](https://youtu.be/qGPaRTG17ts)
 
 ## Quick reflection
 
