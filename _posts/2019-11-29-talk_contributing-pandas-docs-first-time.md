@@ -7,7 +7,7 @@ excerpt: I use pandas daily, maybe even hourly. I spend time reading the docs, b
 ---
 Where: [Women Who Code Singapore TalksDev #5](https://www.meetup.com/Women-Who-Code-Singapore/events/266037585/)
 
-When: 29 November 2019
+When: 28 November 2019
 
 Location: SP Digital
 
