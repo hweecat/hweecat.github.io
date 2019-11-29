@@ -14,7 +14,8 @@ Location: SP Digital
 Resources used:
 - [Contributing to pandas](https://pandas.pydata.org/pandas-docs/stable/development/contributing.html)
 - [Pro Git, 2nd Edition](https://git-scm.com/ebook)
-- [The original issue with MultiIndex.set_levels](https://hweecat.github.io/accelerating-batch-processing)
+- [The original issue with MultiIndex.set_levels](https://github.com/pandas-dev/pandas/issues/28294)
+- [My Twitter thread on contributing to pandas for the first time](https://twitter.com/ongchinhwee/status/1180325813901639681)
 
 ## Recap
 
