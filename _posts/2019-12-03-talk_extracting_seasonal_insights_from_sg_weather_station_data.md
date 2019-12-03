@@ -58,8 +58,11 @@ Would I give a talk with a demo next time? Why not, but I'd prepare way beforeha
 
 ## Things that could have been improved
 
-1. Small audience - probably cos the other talk about Generative Adversarial Networks (GAN) might seem cooler and there was an ongoing workshop.
+1. Relative smaller audience - probably because there was an ongoing workshop and a talk on Generative Adversarial Networks (GAN) at the same time.
+2. Audience was a mix of data and design people. I did try to explain the technical concepts and Python libraries during my talk so that the non-technical folks could also follow along, but I suspect at least half of the audience might have still been lost.
+3. Even some speakers didn't know that I'm a speaker. :( Maybe I should have a more obvious speaker vibe?
 
 ## Thing that went well
 
 1. My API scraping demo, which kept failing before my talk, worked smoothly (though slowly) on stage when I instructed it to scrap 6 days of data.
+2. At least two people approached me to say that they liked my talk + demo, so that's better than zero.
