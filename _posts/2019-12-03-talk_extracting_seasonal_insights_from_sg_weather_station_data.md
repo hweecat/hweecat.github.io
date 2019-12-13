@@ -34,10 +34,9 @@ A recap of what I went through during my talk:
     - Open Data - Available, Readable, Accessible
         - Is it enough for open data to be available?
 3. Data.gov.sg Weather Data API Scraping
-    - Isolated dev environment
-    - Commit changes to local feature branch
-    - Push changes to remote feature branch
-    - Tips before you make that pull request
+    - What is it + Scope of API Scraping
+    - Challenges faced in developing scraping tool
+    - Demo
 4. Time Series Analysis Demo
     - Extracting Seasonal Insights from Scraped Weather Data
 5. Key Takeaways
@@ -45,6 +44,14 @@ A recap of what I went through during my talk:
 ## Slides
 
 [openupsummit - 1 December 2019 - Making Open Weather Data More Accessible: Extracting Seasonal Trends from Singapore Weather Station Data](https://docs.google.com/presentation/d/1IIumhbnO-FzEjlrHIQHj-qbIKNywJG0lNmYqxtX1PL0/edit?usp=sharing)
+
+## GitHub Repository for Demo
+
+[hweecat/talk_4_openupsummit_extracting-singapore-seasons-data](https://github.com/hweecat/talk_4_openupsummit_extracting-singapore-seasons-data)
+
+## Video
+
+[Open UP Summit 2019 Ong Chin Hwee - Extracting Seasonal Insights from Singapore Weather Station Data](https://www.youtube.com/watch?v=x8CtEtn0vsc)
 
 ## Quick reflection
 
@@ -58,11 +65,11 @@ Would I give a talk with a demo next time? Why not, but I'd prepare way beforeha
 
 ## Things that could have been improved
 
-1. Relative smaller audience - probably because there was an ongoing workshop and a talk on Generative Adversarial Networks (GAN) at the same time.
+1. Relative smaller audience - probably because there was an ongoing workshop and a demo on Generative Adversarial Networks (GAN) at the same time.
 2. Audience was a mix of data and design people. I did try to explain the technical concepts and Python libraries during my talk so that the non-technical folks could also follow along, but I suspect at least half of the audience might have still been lost.
 3. Even some speakers didn't know that I'm a speaker. :( Maybe I should have a more obvious speaker vibe?
 
 ## Thing that went well
 
 1. My API scraping demo, which kept failing before my talk, worked smoothly (though slowly) on stage when I instructed it to scrap 6 days of data.
-2. At least two people approached me to say that they liked my talk + demo, so that's better than zero.
+2. At least two people approached me to say that they liked my talk + demo, so that's better than zero!
