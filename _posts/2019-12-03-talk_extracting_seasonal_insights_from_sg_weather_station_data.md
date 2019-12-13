@@ -23,9 +23,9 @@ Resources used:
 
 A recap of what I went through during my talk:
 
-1. An intro to 
-    - Why contribute to pandas?
-    - Raising my hand for a docs issue
+1. An intro about myself and why this talk
+    - A data engineer from Singapore who loves to travel
+    - How many seasons does Singapore have?
 2. Extracting Weather Data from Open Government Data Portal
     - Realtime Weather Readings from Data.gov.sg
     - Issues faced in using Data.gov.sg API
