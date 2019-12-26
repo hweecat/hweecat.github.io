@@ -33,7 +33,7 @@ I stumbled into public speaking when I attended Singapore Global CFP Diversity D
 
 #### Upcoming talks
 
-* 14 January 2020: (Topic TBD) at JuniorDevSG Code and Tell
+* 14 January 2020: "Exploring Seasonal Insights from Singapore Weather Station Data" at [JuniorDevSG Code and Tell](https://github.com/JuniorDevSingapore/meetups)
 
 #### Past talks
 
