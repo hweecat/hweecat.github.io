@@ -12,7 +12,7 @@ When: 1 December 2019
 Location: Syntrend Creative Park, Taipei, Taiwan
 
 Resources used:
-- [What is Open Data? - by Open Knowledde Foundation](https://opendatahandbook.org/guide/en/what-is-open-data/)
+- [What is Open Data? - by Open Knowledge Foundation](https://opendatahandbook.org/guide/en/what-is-open-data/)
 - [What is open data and Why should we care?](https://theodi.org/article/what-is-open-data-and-why-should-we-care/)
 - [Realtime Weather Reeadings across Singappore - Data.gov.sg](https://data.gov.sg/dataset/realtime-weather-readings)
 - [Scraping Meteorological Data from Data.gov.sg APIs](https://github.com/hweecat/api_scraping_nea_datasets)
