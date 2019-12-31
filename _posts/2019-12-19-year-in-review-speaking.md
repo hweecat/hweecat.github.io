@@ -37,7 +37,7 @@ In short, I'm not a natural when it comes to speaking in front of an audience. S
 
 ## Getting Started
 
-In end January, I attended a panel discussion on "Getting Started with Public Speaking" by Women Who Code Singapore. It was at this event where I met three of the panelists who would turn out to be pivotal in my speaking journey - Renu Yadav (Women Who Code Singapore), Chen Huijing (SingaporeCSS) and Michael Cheng (JuniorDevSG).
+In end January, I attended a panel discussion on "Getting Started with Public Speaking" by Women Who Code Singapore. It was at this event where I met three of the panelists who would turn out to be pivotal in my speaking journey - Renu Yadav (Women Who Code Singapore), [Chen Huijing](https://twitter.com/hj_chen) (organizer of [SingaporeCSS](https://twitter.com/singaporecss)) and [Michael Cheng](https://twitter.com/coderkungfu) (JuniorDevSG, EngineersSG).
 
 As it turns out, Huijing also organizes Global CFP Diversity Day in Singapore and was promoting the event (as well as her meetup SingaporeCSS, which always needs speakers). I originally intended to attend another tech event on the same day, but woke up late and decided at the last minute to attend Global CFP Diversity Day - just to see what it was about.
 
@@ -45,22 +45,55 @@ During the Global CFP Diversity Day workshop, we need to write a speaker profile
 
 (insert more neverending questions that sprouted after Global CFP Diversity Day)
 
-As it turns out, role-related pains/complaints/angst can be a source of inspiration for talk proposals. I'll talk about that in the later part of this post.
+As it turns out, role-related pains/complaints/angst can be a source of inspiration for talk proposals.
+
+## Source of Inspirations for Talk Proposals
+
+The talks I have proposed to meetups and conferences so far are mainly derived from pains/complaints/angst that I faced while working on data analytics projects - both at work and while working on side projects during my free time. I tend to joke with fellow developers I met during tech events that I write talk proposals and give talks to "make up for the time spent on wrangling with all those dev issues and angsting/bitching about it" and to "make full use of the opportunity to speak to air my grievances while building my personal brand".
+
+In short, if you face a challenge/problem/issue at work and managed to solve it after expanding loads of time and effort, why not milk your pain's worth by giving a talk and sharing your experiences with fellow developers?
 
 ## My First Time Speaking at a Tech Event
 
+Where: [Python User Group Singapore Meetup](https://www.meetup.com/Singapore-Python-User-Group/events/263765155/)
+
+When: 27 August 2019
+
+Talk: [Parallel Processing in Python](https://hweecat.github.io/talk_parallel-programming-python)
+
 For my first-ever public tech talk, I was initially thinking of starting small by speaking at relatively more "beginner-friendly" meetups such as JuniorDevSG Code and Tell. While I submitted my first CFP to a conference, I was prepared to submit CFPs to multiple conferences and meetups until I receive a talk acceptance.
 
-Surprisingly, my first CFP submission on How to Make Your Data Processing Faster was accepted by end June before I had a meetup talk scheduled. I needed to practice my conference talk at a meetup where I could get relevant feedback fast, and I was told that there was a long waiting list for speaker slots at JuniorDevSG Code and Tell; hence, I booked a speaking slot with Martin for the Python User Group Singapore August 2019 meetup to practice a key portion of my conference talk. I was informed that the meetup would be held at the new Zendesk office at Marina One and the typical turnout was around 50-60 people.
+Surprisingly, my first CFP submission on How to Make Your Data Processing Faster was accepted by end June before I had a meetup talk scheduled. I needed to practice my conference talk at a meetup where I could get relevant feedback fast, and I was informed that there was a long waiting list for speaker slots at JuniorDevSG Code and Tell; hence, I booked a speaking slot with Martin for the Python User Group Singapore August 2019 meetup to practice a key portion of my conference talk. I was informed that the meetup would be held at the new Zendesk office at Marina One and the typical turnout would be around 50-60 people.
 
-On the day itself, the actual turnout was over 100 people - way more than I expected, especially since I have been relatively low-key about the talk, even removing any reference to my gender in the speaker profile. There were technical issues, my "tech-y" jokes and Spark references kinda fell flat on the audience, and there was a slight overrun. I thought I kinda messed up my talk, so I was pleasantly surprised when a few people in the audience approached me off-stage to thank me and give positive feedback for the talk.
+On the day itself, the actual turnout was over 100 people - way more than I expected, especially since I have been relatively low-key about the talk, even removing any references to my gender in the speaker profile. There were technical issues, my "tech-y" jokes and Spark references kinda fell flat on the audience, and there was a slight overrun. I thought I kinda messed up my talk, so I was pleasantly surprised when a few people in the audience approached me off-stage (even though it was already pretty late) to thank me and give positive feedback for the talk.
 
-Key lesson learnt: You are better than you think you are.
+No talk recordings here; frankly speaking, I don't even dare to watch my own recording.
 
-## My First Time Speaking at a Conference: Women Who Code CONNECT Asia
+## My First Time Speaking at a Conference
+
+Where: [Women Who Code CONNECT Asia 2019](https://asia.womenwhocode.dev/)
+
+When: 31 August 2019
+
+Talk: [How to Make Your Data Processing Faster: Parallel Processing and JIT in Data Science](https://hweecat.github.io/talk_how-to-make-your-data-processing-faster)
+
+This is the first conference that took a chance on me to deliver a full-length talk at the conference stage. I enjoyed the speakers' dinner, got to meet international speakers such as the really awesome [Jiaqi Liu](https://twitter.com/jiaqicodes), [Millie Chan](https://twitter.com/milhauschan) and [Kat Liu](https://twitter.com/kaatloo), and watched Huijing put up a highly-entertaining talk on Creating Art with CSS despite being massively jetlagged from her conference travels.
+
+I had a practice talk on the Parallel Processing portion at the Python User Group Singapore August 2019 meetup. Based on the questions and feedback collated from the audience, I made some improvements to the slides and even sought the help of the Javascript/Node.JS folks on Twitter for some ideas on how to explain async to the general audience. Having the experience of speaking on stage behind a podium in front of more than 100 people + doing the open pose as suggested by the WWCode Taipei folks did help significantly with the nerves before the talk too. 
+
+Feedback from the audience was pretty good. Quite a number of people in the audience approached me off-stage, throughout the conference (including lunchtime) and/or on LinkedIn to thank me for the talk and give positive feedback on how much they learnt from the talk. I've also received a couple of mentions on Twitter which were really nice. Having someone come up to you and say "hey I attended your talk and it was really interesting" makes all the preparation work for the conference talk worth it.
+
+{% include youtubePlayer.html id="RX5rlt3jAt0" %}
 
 
+## My First Time Speaking at a Conference outside of Singapore
 
+Where: [Open UP Global Summit 2019](https://www.openup.global/)
 
+Talk: [Making Open Weather Data More Accessible: Extracting Seasonal Insights from Singapore Weather Station Data](https://hweecat.github.io/talk_extracting_seasonal_insights_from_sg_weather_station_data/)
 
+This is the first time I travelled out of Singapore to speak at a conference, and my first time delivering a talk with a demo segment. The outline of the talk was prepared way in advance.
 
+A large reason why I got the chance to speak at Open UP Global Summit was because Jane Shih, the main organizer, was in attendance at Women Who Code CONNECT Asia and enjoyed my talk.
+
+{% include youtubePlayer.html id="x8CtEtn0vsc" %}
