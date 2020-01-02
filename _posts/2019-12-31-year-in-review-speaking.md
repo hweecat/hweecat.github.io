@@ -9,7 +9,7 @@ At the start of 2019, I set a goal to speak at a tech event. By the end of 2019,
 
 ---
 
-# Recap of Year 2019: Speaking
+## Recap of Year 2019: Speaking
 
 In year 2019, I have given a total of **4 talks**:
 
@@ -23,11 +23,11 @@ In year 2019, I have given a total of **4 talks**:
 
 ## Speaking at Tech Events: Why?
 
-I've attended tech events and conferences since 2018, and I've learnt a lot from attending the sessions. As I sat amongst the audience watching in awe at the speakers and panelists on stage delivering their talks and speeches with confidence and style, I thought:
+I've attended tech events and conferences since 2018, and I've learnt a lot from attending the sessions. As I sat among the audience watching in awe at the speakers and panelists on stage delivering their talks and speeches with confidence and style, I thought:
 
 > What would it take for me to be up on this stage as a speaker?
 
-I'm more of an introvert in nature, and extensive networking during tech events can get very draining for me even though I do love interacting with new people. Having to find various means to start a conversation only to have it fall flat on people also adds on a lot of pressure on me, and consecutive occurences do drain me severely of energy such that I need to take breaks from attending tech events. Moreover, I tend to get really nervous when speaking in front of an audience - unlike music performance whereby it is natural not to maintain eye contact with the audience while getting your whole self (body + mind) immersed in the music, public speaking requires a lot more attention on eye contact and body language.
+I'm more of an introvert in nature, and extensive networking during tech events can get very draining for me even though I do love interacting with new people. Having to find various means to start a conversation only to have it fall flat on people also adds on a lot of pressure on me, and consecutive occurrences do drain me severely of energy such that I need to take breaks from attending tech events. Moreover, I tend to get really nervous when speaking in front of an audience - unlike music performance whereby it is natural not to maintain eye contact with the audience while getting your whole self (body + mind) immersed in the music, public speaking requires a lot more attention on eye contact and body language.
 
 In short, I'm not a natural when it comes to speaking in front of an audience. Still, I want to speak at tech events for the following reasons:
 
