@@ -47,7 +47,7 @@ A recap of what I went through during my talk:
 
 ## GitHub Repository for Demo
 
-[hweecat/talk_4_openupsummit_extracting-singapore-seasons-data](https://github.com/hweecat/talk_4_openupsummit_extracting-singapore-seasons-data)
+[hweecat/talk_extracting-singapore-seasons-data](https://github.com/hweecat/talk_extracting-singapore-seasons-data)
 
 ## Video
 
