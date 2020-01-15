@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Talk: Making Open Weather Data More Accessible: Extracting Seasonal Insights from Singapore Weather Station Data"
+title: "Talk: Exploring Seasonal Insights from Singapore Weather Station Data"
 description: "Quick speaker notes on making open weather data more accessible - using Singapore Data.gov.sg APIs as a case study + talk reflection"
-excerpt: It started out as a weekend coding exploration of real-time data from the Data.gov.sg APIs, but went on to become something more.
+excerpt: It started out as a weekend coding exploration of real-time data from the Data.gov.sg APIs, but went on to become something more. 2nd iteration of the talk - given at JuniorDevSG
 ---
 ---
 Where: [JuniorDevSG Code and Tell January 2020 Meetup](https://www.meetup.com/Junior-Developers-Singapore/events/267507133/)
