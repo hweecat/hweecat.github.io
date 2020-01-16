@@ -14,12 +14,26 @@ My personal interests range from aviation to music. I am also interested in phot
 
 I'm currently learning how to make my Python codes run faster so that I can have more time to focus on machine learning. I enjoy having deep-dive discussions on how to make the world a better place through technology and human intelligence.
 
-My goal for 2019 is to:
+My goal for 2020 is to:
+
+1. ~~ Speak at a headliner tech conference in Asia ~~
+    - Update 2019-01-16: **Goal achieved** - I will be speaking at [FOSSASIA Summit 2020](https://summit.fossasia.org/) in Singapore, which is on 19 - 22 March 2020. More details on discount code for community and social event tickets will be released when I receive the details.
+
+2. Speak at a tech conference outside of Asia (preferably in Europe and/or North America)
+3. Deliver talks in at least 4 tech conferences locally and internationally
+4. Enhance my Github portfolio
+5. Write more tech posts to document my learning journey and (hopefully) share with more people
+6. Make more regular updates to [my TIL blog](https://datadiaries.commons.host), which is built using [Pelican](https://getpelican.com)
+7. Make at least 4 Pull Requests on open-source projects
+
+My goals for 2019 was to:
 
 1. ~~Speak at a tech meetup~~ (and hope my reputation in the tech community does not go down the drain)
     - Update 2019-09-01: **Goal achieved** - I did my [first-ever public tech meetup talk]((https://www.meetup.com/Singapore-Python-User-Group/events/263765155/)) on 27th August 2019, and over 100 people attended my talk (a larger turnout than usual). Reflection on talk [here](https://hweecat.github.io/talk_parallel-programming-python).
 
 2. Build up my Github portfolio
+    - I uploaded more repositories on Github, filed issues on BigDataX workshop repos, and even made a pull request on pandas-dev!
+
 3. Write more tech posts to document my learning journey and (hopefully) share with more people
 4. ~~Speak at a tech conference so that I can share what I've learnt with even more people~~
     - Update 2019-08-22: I will be speaking at [Women Who Code CONNECT Asia 2019](https://asia.womenwhocode.dev/) in Singapore on 31st August 2019. See you there!
@@ -30,19 +44,19 @@ My goal for 2019 is to:
 
 ### Talks
 
-I stumbled into public speaking when I attended Singapore Global CFP Diversity Day in March 2019, and subsequently got my first CFP submission accepted a few months later. I'm still pretty new to delivering talks in public, so I consider myself a work-in-progress speaker who is constantly learning from the audience.
+I stumbled into public speaking when I attended Singapore Global CFP Diversity Day in March 2019, and subsequently got my first CFP submission accepted a few months later. Since then, I have spoken at various meetups and conferences locally and internationally on a variety of topics including data processing, parallel and asynchronous programming and contributing to the open source community.
 
-#### Upcoming talks
+One of my speaking goals in 2020 is to speak at a tech conference outside of Asia. Invite me to your conference in 2020!
 
-* 19 - 21 March 2020: "Speed Up Your Data Processing: Parallel and Asynchronous Programming in Python" at [FOSSASIA Summit 2020](https://summit.fossasia.org/)
+More details on my speaking [here](https://hweecat.github.io/talks)
 
-#### Past talks
+#### Selected Talks
 
-* 14 January 2020: "Exploring Seasonal Insights from Singapore Weather Station Data" at [JuniorDevSG Code and Tell](https://github.com/JuniorDevSingapore/meetups) --- Recording [courtesy of Engineers.SG](https://engineers.sg/v/3919)
-* 1 December 2019: [Making Open Weather Data More Accessible: Extracting Seasonal Insights from Singapore Weather Station Data](https://hweecat.github.io/talk_extracting_seasonal_insights_from_sg_weather_station_data/) at [OpenUP Global Summit 2019](https://www.openup.global/) --- Recording [courtesy of Open UP Summit](https://www.youtube.com/watch?v=x8CtEtn0vsc)
-* 28 November 2019: [Contributing to pandas documentation for the first time - lessons from open source](https://hweecat.github.io/talk_contributing-pandas-docs-first-time) at [Women Who Code Singapore TalksDev #5](https://www.meetup.com/Women-Who-Code-Singapore/events/266037585/) --- Recording [courtesy of Engineers.SG](https://youtu.be/qGPaRTG17ts)
-* 31 August 2019: [How to Make Your Data Processing Faster: Parallel Processing and JIT in Data Science](https://hweecat.github.io/talk_how-to-make-your-data-processing-faster) at [Women Who Code CONNECT Asia 2019](https://asia.womenwhocode.dev/) --- Recording [courtesy of Engineers.SG](https://youtu.be/RX5rlt3jAt0)
-* 27 August 2019: [Parallel Processing in Python](https://hweecat.github.io/talk_parallel-programming-python) at [Python User Group Singapore Meetup](https://www.meetup.com/Singapore-Python-User-Group/events/263765155/)
+* [Making Open Weather Data More Accessible: Extracting Seasonal Insights from Singapore Weather Station Data](https://hweecat.github.io/talk_extracting_seasonal_insights_from_sg_weather_station_data/) at [OpenUP Global Summit 2019](https://www.openup.global/)
+    - Recording [courtesy of Open UP Summit](https://www.youtube.com/watch?v=x8CtEtn0vsc)
+
+* [How to Make Your Data Processing Faster: Parallel Processing and JIT in Data Science](https://hweecat.github.io/talk_how-to-make-your-data-processing-faster) at [Women Who Code CONNECT Asia 2019](https://asia.womenwhocode.dev/)
+    - Recording [courtesy of Engineers.SG](https://youtu.be/RX5rlt3jAt0)
 
 
 ### Contact me
