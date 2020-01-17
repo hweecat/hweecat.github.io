@@ -25,6 +25,6 @@ I stumbled into public speaking when I attended Singapore Global CFP Diversity D
 
 #### Meetup
 
-* 14 January 2020: "Exploring Seasonal Insights from Singapore Weather Station Data" at [JuniorDevSG Code and Tell](https://github.com/JuniorDevSingapore/meetups) --- Recording [courtesy of Engineers.SG](https://engineers.sg/v/3919)
+* 14 January 2020: [Exploring Seasonal Insights from Singapore Weather Station Data](talk_juniordevsg_exploring_seasonal_insights_from_sg_weather_data) at [JuniorDevSG Code and Tell]((https://www.meetup.com/Junior-Developers-Singapore/events/267507133/)) --- Recording [courtesy of Engineers.SG](https://engineers.sg/v/3919)
 * 28 November 2019: [Contributing to pandas documentation for the first time - lessons from open source](https://hweecat.github.io/talk_contributing-pandas-docs-first-time) at [Women Who Code Singapore TalksDev #5](https://www.meetup.com/Women-Who-Code-Singapore/events/266037585/) --- Recording [courtesy of Engineers.SG](https://youtu.be/qGPaRTG17ts)
 * 27 August 2019: [Parallel Processing in Python](https://hweecat.github.io/talk_parallel-programming-python) at [Python User Group Singapore Meetup](https://www.meetup.com/Singapore-Python-User-Group/events/263765155/)
