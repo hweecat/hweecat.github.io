@@ -16,7 +16,7 @@ I'm currently learning how to make my Python codes run faster so that I can have
 
 My goal for 2020 is to:
 
-1. ~~ Speak at a headliner tech conference in Asia ~~
+1. ~~Speak at a headliner tech conference in Asia~~
     - Update 2019-01-16: **Goal achieved** - I will be speaking at [FOSSASIA Summit 2020](https://summit.fossasia.org/) in Singapore, which is on 19 - 22 March 2020. More details on discount code for community and social event tickets will be released when I receive the details.
 
 2. Speak at a tech conference outside of Asia (preferably in Europe and/or North America)
