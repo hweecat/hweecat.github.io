@@ -3,6 +3,7 @@ layout: post
 title: "TIL: Migrating Git repositories manually from GitLab to Azure DevOps (TFS)"
 description: "Quick migration guide from GitLab to Azure DevOps (TFS) - adapted from migration guide prepared for my development team"
 excerpt: "My development team has been using GitLab on-premise to manage their code repositories. As we are moving development work to our new on-premise development cloud with expanded processing capabilities, we also need to migrate our code repositories to the new development cloud which uses Azure DevOps Team Foundation Server (TFS) for Git workflows. To support the chief architect in the migration, I prepared a quick migration guide for the team's move to Azure DevOps TFS."
+tags: til
 ---
 ---
 

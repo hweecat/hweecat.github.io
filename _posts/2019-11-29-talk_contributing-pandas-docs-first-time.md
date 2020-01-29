@@ -3,6 +3,7 @@ layout: post
 title: "Talk: Contributing to pandas documentation for the first time - lessons from open source"
 description: "Quick speaker notes on lessons learnt through contributing to pandas for the first time + talk reflection"
 excerpt: I use pandas daily, maybe even hourly. I spend time reading the docs, but end up finding my answers on StackOverflow. What better way to mark my first year as a data engineer by contributing to the docs for pandas?
+tags: talks
 ---
 ---
 Where: [Women Who Code Singapore TalksDev #5](https://www.meetup.com/Women-Who-Code-Singapore/events/266037585/)

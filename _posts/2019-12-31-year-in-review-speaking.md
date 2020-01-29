@@ -3,6 +3,7 @@ layout: post
 title: "Year 2019 in review - getting started with speaking at a tech conference"
 description: "A reflection post on my first year of speaking, and how I became a tech conference speaker"
 excerpt: "At the start of 2019, I set a goal to speak at a tech event. By the end of 2019, I've spoken at 2 tech meetups and 2 conferences. Here's my journey from wide-eyed event attendee to tech conference speaker, and lessons learnt along the way."
+tags: reflection
 ---
 ---
 At the start of 2019, I set a goal to speak at a tech event. By the end of 2019, I've spoken at 2 meetups and 2 conferences. Here's my journey from wide-eyed event attendee to tech conference speaker, and lessons learnt along the way.

@@ -3,6 +3,7 @@ layout: post
 title: "Talk: How to Make Your Data Processing Faster - Parallel Processing and JIT in Data Science"
 description: "Quick speaker notes on parallel processing and JIT in data science + talk reflection"
 excerpt: I did a little talk on how to make your data processing faster as my first-ever conference talk, and it was loads of fun. Toasts, coffee and a barista included in the talk. Oh, and did I mention that it was also my first-ever CFP submission?
+tags: talks
 ---
 ---
 Where: [Women Who Code CONNECT Asia 2019](https://asia.womenwhocode.dev/)
