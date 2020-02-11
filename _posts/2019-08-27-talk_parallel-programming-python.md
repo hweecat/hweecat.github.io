@@ -3,6 +3,7 @@ layout: post
 title: "Talk: Parallel Processing in Python"
 description: "Quick speaker notes on parallel processing in Python + talk reflection"
 excerpt: Sometimes, we just can't make things run indefinitely faster on a single worker.
+tags: talks
 ---
 ---
 Where: [Python User Group Singapore, August 2019 Meetup](https://www.meetup.com/Singapore-Python-User-Group/events/263765155/)

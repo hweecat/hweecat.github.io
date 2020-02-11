@@ -3,6 +3,7 @@ layout: post
 title: "Accelerating Batch Processing of Images in Python — with gsutil, numba and concurrent.futures"
 description: "How to accelerate batch processing of almost a million images from several months to just around a few days"
 excerpt: In a data science project, one of the biggest bottlenecks (in terms of time) is the constant wait for the data processing code to finish executing. Sometimes, the gigantic execution times even end up making the project infeasible and often forces a data scientist to work with only a subset of the entire dataset, depriving the data scientist of insights and performance improvements that could be obtained with a larger dataset.
+tags: til
 ---
 ---
 
