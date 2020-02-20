@@ -45,6 +45,7 @@ From a Pandas DataFrame, reshape the following DataFrame into a format where ord
 **DataFrame.melt** "unpivots" a DataFrame into a format where one or more columns are identifier variables (id_vars), while all other columns, considered measured variables (value_vars), are "unpivoted" to the row axis. This leaves two non-identifier columns, 'variable' and 'value', where 'variable' contains the measured variables and 'value' contains the values corresponding to the measured variables.
 
 :::python
+
     >> df_melt = df.melt(
             id_vars=['Vendor', 'Buyer'],
             value_vars=['Count', 'Total Amount ($)']
@@ -146,6 +147,7 @@ From a Pandas DataFrame, reshape the following DataFrame into a format where ord
 
 Since I am interested in calculating the overall Count and Total Amount for each Vendor, I pivot the Buyer level to the column axis and retain the Vendor level in the row axis, and calculate the sum along the column axis.
 
+:::python
     >> df_unstack = df_multiindex.unstack(level=-2)
 
     >> df_unstack['Total'] = df_unstack.sum(axis=1)
