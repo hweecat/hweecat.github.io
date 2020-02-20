@@ -2,10 +2,7 @@
 layout: post
 title: "TIL: DataFrame reshaping in Pandas - melt, unstack"
 description: "Quick notes on how to reshape DataFrame in Pandas using melt and unstack"
-excerpt: "As a data engineer, part of my daily work involves performing data processing and manipulation on raw data into data that is ready for analysis. As my development team primarily uses Python for our data science workflow, we often use Pandas to perform operations and transformations on datasets before analysing the data. While we primarily use Pandas for data cleaning and engineering as part of the data science process, sometimes we also have to perform complex data transformations to obtain actionable insights that business users can leverage on to improve their processes.
-
-For one of my projects on Procurement Analytics, the objective of the project is to identify opportunities for economies of scale and term agreements with vendors in order to optimize the procurement process. There are different buyers within the organization who have built up their own network of vendors over the years to cater to their different business needs, and the organization would like to find out if there are opportunities to consolidate the vendor network and procurement workflow based on the purchase orders made by the buyers over the years.
-"
+excerpt: "As a data engineer, part of my daily work involves performing data processing and manipulation on raw data into data that is ready for analysis. As my development team primarily uses Python for our data science workflow, we often use Pandas to perform operations and transformations on datasets before analysing the data. While we primarily use Pandas for data cleaning and engineering as part of the data science process, sometimes we also have to perform complex data transformations to obtain actionable insights that business users can leverage on to improve their processes."
 tags: til
 ---
 ---
@@ -14,7 +11,7 @@ tags: til
 
 As a data engineer, part of my daily work involves performing data processing and manipulation on raw data into data that is ready for analysis. As my development team primarily uses Python for our data science workflow, we often use Pandas to perform operations and transformations on datasets before analysing the data. While we primarily use Pandas for data cleaning and engineering as part of the data science process, sometimes we also have to perform complex data transformations to obtain actionable insights that business users can leverage on to improve their processes.
 
-For one of my projects on Procurement Analytics, the objective of the project is to identify opportunities for economies of scale and term agreements with vendors in order to optimize the procurement process. There are different buyers within the organization who have built up their own network of vendors over the years to cater to their different business needs, and the organization would like to find out if there are opportunities to consolidate the vendor network and procurement workflow based on the purchase orders made by the buyers over the years.
+For one of my projects, the objective of the project is to identify opportunities for economies of scale and term agreements with vendors in order to optimize the procurement process. There are different buyers within the organization who have built up their own network of vendors over the years to cater to their different business needs, and the organization would like to find out if there are opportunities to consolidate the vendor network and procurement workflow based on the purchase orders made by the buyers over the years.
 
 For the purpose of illustrating the data manipulation concepts, I will be using a simplified DataFrame that represents the aggregated count and total amount for each vendor-buyer group. Details on the full data manipulation from raw data are in [my TIL blog post](https://datadiaries.commons.host/dataframe-manipulation-sequence-groupby-agg-melt-unstack.html).
 
