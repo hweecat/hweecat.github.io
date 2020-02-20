@@ -2,7 +2,10 @@
 layout: post
 title: "TIL: DataFrame reshaping in Pandas - melt, unstack"
 description: "Quick notes on how to reshape DataFrame in Pandas using melt and unstack"
-excerpt: "I would like to visualize my data on a geomap to see the distribution of COVID-19 cases across the world."
+excerpt: "As a data engineer, part of my daily work involves performing data processing and manipulation on raw data into data that is ready for analysis. As my development team primarily uses Python for our data science workflow, we often use Pandas to perform operations and transformations on datasets before analysing the data. While we primarily use Pandas for data cleaning and engineering as part of the data science process, sometimes we also have to perform complex data transformations to obtain actionable insights that business users can leverage on to improve their processes.
+
+For one of my projects on Procurement Analytics, the objective of the project is to identify opportunities for economies of scale and term agreements with vendors in order to optimize the procurement process. There are different buyers within the organization who have built up their own network of vendors over the years to cater to their different business needs, and the organization would like to find out if there are opportunities to consolidate the vendor network and procurement workflow based on the purchase orders made by the buyers over the years.
+"
 tags: til
 ---
 ---
