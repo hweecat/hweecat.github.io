@@ -148,6 +148,7 @@ From a Pandas DataFrame, reshape the following DataFrame into a format where ord
 Since I am interested in calculating the overall Count and Total Amount for each Vendor, I pivot the Buyer level to the column axis and retain the Vendor level in the row axis, and calculate the sum along the column axis.
 
 :::python
+
     >> df_unstack = df_multiindex.unstack(level=-2)
 
     >> df_unstack['Total'] = df_unstack.sum(axis=1)
