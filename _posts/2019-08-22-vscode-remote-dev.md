@@ -3,7 +3,7 @@ layout: post
 title: "Musings about Remote Development with Visual Studio Code"
 description: "Short snippets of notes on VS Code Remote Developent extensions from the perspective of a remote compute user"
 excerpt: Keeping codes and configuration files in sync between client machine and remote server used to be a drawn-out exercise in personal responsibility via SFTP/SCP. VS Code Remote Development looks to change that - for the better. Here's my notes on VS Code Remote Development.
-tags: til
+tags: til vscode
 ---
 ---
 
