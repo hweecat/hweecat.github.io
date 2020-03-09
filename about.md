@@ -17,7 +17,8 @@ I'm currently learning how to make my Python codes run faster so that I can have
 My goal for 2020 is to:
 
 1. ~~Speak at a headliner tech conference in Asia~~
-    - Update 2019-01-16: **Goal achieved** - I will be speaking at [FOSSASIA Summit 2020](https://summit.fossasia.org/) in Singapore, which is on 19 - 22 March 2020. More details on discount code for community and social event tickets will be released when I receive the details.
+    - Update 2020-01-16: **Goal achieved** - I will be speaking at [FOSSASIA Summit 2020](https://summit.fossasia.org/) in Singapore, which is on 19 - 22 March 2020. More details on discount code for community and social event tickets will be released when I receive the details.
+    - Update 2020-02-29: Get your discounted FOSSASIA Summit 2020 tickets at 25% off [here](https://eventyay.com/e/a74665c3?code=fossasia-speaker)!
 
 2. Speak at a tech conference outside of Asia (preferably in Europe and/or North America)
 3. Deliver talks in at least 4 tech conferences locally and internationally
@@ -50,7 +51,7 @@ One of my speaking goals in 2020 is to speak at a tech conference outside of Asi
 
 More details on my speaking [here](https://hweecat.github.io/talks)
 
-#### Selected Talks
+#### Selected Talks and Media Features
 
 * [Making Open Weather Data More Accessible: Extracting Seasonal Insights from Singapore Weather Station Data](https://hweecat.github.io/talk_extracting_seasonal_insights_from_sg_weather_station_data/) at [OpenUP Global Summit 2019](https://www.openup.global/)
     - Recording [courtesy of Open UP Summit](https://www.youtube.com/watch?v=x8CtEtn0vsc)
@@ -58,6 +59,7 @@ More details on my speaking [here](https://hweecat.github.io/talks)
 * [How to Make Your Data Processing Faster: Parallel Processing and JIT in Data Science](https://hweecat.github.io/talk_how-to-make-your-data-processing-faster) at [Women Who Code CONNECT Asia 2019](https://asia.womenwhocode.dev/)
     - Recording [courtesy of Engineers.SG](https://youtu.be/RX5rlt3jAt0)
 
+* [pandanistas | Interview with Ong Chin Hwee](https://www.pandanistas.org/interview-with-ong-chin-hwee.html)
 
 ### Contact me
 
