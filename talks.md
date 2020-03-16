@@ -10,8 +10,8 @@ I stumbled into public speaking when I attended Singapore Global CFP Diversity D
 ### Upcoming talks
 
 #### Conference
-* 19 - 21 March 2020: "Speed Up Your Data Processing: Parallel and Asynchronous Programming in Python" at [FOSSASIA Summit 2020](https://summit.fossasia.org/)
-* 18 - 19 April 2020: "Speed Up Your Data Processing: Parallel and Asynchronous Programming in Data Science" at [DragonPy 2020](https://dragonpy.com/)
+* 20 March 2020: "Speed Up Your Data Processing: Parallel and Asynchronous Programming in Python" at [FOSSASIA Summit 2020](https://summit.fossasia.org/)
+* <s>18 - 19 April 2020</s> 19 - 20 September 2020: "Speed Up Your Data Processing: Parallel and Asynchronous Programming in Data Science" at [DragonPy 2020](https://dragonpy.com/)
 
 ### Past talks
 
