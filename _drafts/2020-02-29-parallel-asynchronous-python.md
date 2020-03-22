@@ -17,6 +17,12 @@ Through real-life analogies based on my experience in a young data science team 
 
 ## Background
 
+A data science project consists of these 4 phases:
+
+1. Data Collection
+2. Data Processing
+3. Model Training
+4. Model Deployment
 
 
 
