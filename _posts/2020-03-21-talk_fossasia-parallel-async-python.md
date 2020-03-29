@@ -16,7 +16,6 @@ Resources used:
 - [Official Python documentation on concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html)
 - [Built-in Functions](https://docs.python.org/3/library/functions.html#map)
 
-
 ## Recap
 
 A recap of what I went through during my talk:
@@ -59,7 +58,7 @@ A recap of what I went through during my talk:
 
 ## Video
 
-Pending processed video from FOSSASIA team
+[Speed Up Your Data Processing: Parallel and Asynchronous Programming in Python](https://youtu.be/aB6f5KicM2Y)
 
 ## Quick reflection
 
@@ -67,4 +66,18 @@ Year 2020 started out bad. Real bad. The COVID-19 pandemic led to a string of ca
 
 The first version of this talk was given as a gentle introduction to parallel processing for data science at the Python User Group Singapore meetup last August. Based on the warm reception and feedback from the audience, I revamped the talk content to include more in-depth points on parallel programming for network I/O operations and multithreading. When crafting the revamped talk, I assumed that the audience has a basic understanding of Python and data processing in data science - for loops, list comprehensions, pandas DataFrames etc.
 
-It does feel a bit weird presenting to a room of less than 10 people and a livestream audience of I-don't-know-how-many, but I still did my show anyway.
+It does feel a bit weird giving a talk to a room of less than 10 people and a livestream audience of I-have-no-idea-how-many, but I still did my show anyway - complete with loads of animated hand-flailing and coffee analogies.
+
+### Things that could have been improved
+
+1. I may have gone slightly beyond 25 minutes for my talk - but still within schedule!
+2. Can I just emphasize that it feels kinda weird not being able to gauge audience feedback when you're speaking to a livestream audience and you don't know how many people are actually watching your talk?
+3. Slight technical issues with livestream caused a bit of interruption in the middle.
+4. I wish there were a way to engage the livestream audience too, but I guess I'll have to get used to speaking without knowing whether the audience is following or enjoys my talk.
+5. I swear I use too many "so......" in my talks until I suspect it's becoming a hindrance to my speaking goals. Time to fix that.
+
+### Things that went well
+
+1. My talk went well without major hiccups and there were more than 5 persons in the room. Considering the greatly reduced physical attendance and social distancing measures, I guess having more than 5 persons in the room isn't too bad.
+2. Ben Sadeghi (the really cool Databricks solution architect who spoke after me) likes my talk!
+3. Questions! Having people in the audience asking relevant questions is a good indicator of interest and engagement - I like that.
