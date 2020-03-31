@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Talk: Exploring Seasonal Insights from Singapore Weather Station Data"
-description: "Quick speaker notes on making open weather data more accessible - using Singapore Data.gov.sg APIs as a case study + talk reflection"
-excerpt: It started out as a weekend coding exploration of real-time data from the Data.gov.sg APIs, but went on to become something more. 2nd iteration of the talk - given at JuniorDevSG
+title: "Talk: Speed Up Your Data Processing: Parallel and Asynchronous Programming in Python"
+description: "Quick speaker notes on parallel and asynchronous programming in Python + FOSSASIA Summit 2020 talk reflection"
+excerpt: Year 2020 started out bad. Real bad. The COVID-19 pandemic led to a string of cancellations for tech events (including PyCon) and travel restrictions. As a result of travel restrictions and Business Continuity Plans, many speakers were not able to deliver their talks in person at the eleventh hour, participation was greatly reduced by around 90%, and even the FOSSASIA organizers could not make it to the venue in person due to COVID-19 restrictions. Still, the organizers made the decision to proceed with the event with a mix of offline and online talks with live streaming and chats.
 tags: talks
 ---
 ---

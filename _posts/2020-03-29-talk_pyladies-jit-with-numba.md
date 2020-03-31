@@ -1,20 +1,19 @@
 ---
 layout: post
-title: "Talk: Exploring Seasonal Insights from Singapore Weather Station Data"
-description: "Quick speaker notes on making open weather data more accessible - using Singapore Data.gov.sg APIs as a case study + talk reflection"
-excerpt: It started out as a weekend coding exploration of real-time data from the Data.gov.sg APIs, but went on to become something more. 2nd iteration of the talk - given at JuniorDevSG
+title: "Lightning Talk: Just-in-Time with Numba"
+description: "Quick speaker notes + reflection on my first lightning talk with PyLadies"
+excerpt: One fine day in the morning of 28 March 2020 Singapore time, I came across a tweet from PyLadies calling for lightning talk submissions for their International Women's Month Lightning Talks Zoom call. Just a day ago, my data scientist friend mentioned about Numba on Facebook, and I happened to have spoken quite a bit about Numba in my first conference talk last year.
 tags: talks
 ---
 ---
-Where: [FOSSASIA Summit 2020](https://summit.fossasia.org/)
+Where: [PyLadies International Women's Month Lightning Talks](https://summit.fossasia.org/)
 
-When: 20 March 2020
+When: 28 March 2020
 
-Location: Lifelong Learning Institute, Singapore
+Location: Virtual
 
 Resources used:
-- [Official Python documentation on concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html)
-- [Built-in Functions](https://docs.python.org/3/library/functions.html#map)
+- [5-minute Guide to Numba](http://numba.pydata.org/numba-doc/latest/user/5minguide.html)
 
 ## Recap
 
@@ -45,7 +44,7 @@ Pending recording from PyLadies
 
 ## Quick reflection
 
-One fine day in the morning of 28 March 2020 Singapore time, I came across a tweet from PyLadies calling for lightning talk submissions for their International Women's Month Lightning Talks Zoom cll. Just a day ago, my data scientist friend mentioned about Numba on Facebook, and I happened to have spoken quite a bit about Numba in my first conference talk last year. Since it was technically still the night of 27 March 2020 across the globe (they did say to submit by 27 March 2020 anywhere in the world), I got down to work and put together two short demos and a couple of slides on Numba for my lightning talks submission.
+One fine day in the morning of 28 March 2020 Singapore time, I came across a tweet from PyLadies calling for lightning talk submissions for their International Women's Month Lightning Talks Zoom call. Just a day ago, my data scientist friend mentioned about Numba on Facebook, and I happened to have spoken quite a bit about Numba in my first conference talk last year. Since it was technically still the night of 27 March 2020 across the globe (they did say to submit by 27 March 2020 anywhere in the world), I got down to work and put together two short demos and a couple of slides on Numba for my lightning talks submission.
 
 Why a lightning talk after delivering a bunch of full-length talks?
 
