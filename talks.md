@@ -34,7 +34,7 @@ I stumbled into public speaking when I attended Singapore Global CFP Diversity D
 
 * 28 March 2020: [Just-in-Time with Numba](https://hweecat.github.io/talk_pyladies-jit-with-numba) at [PyLadies International Women's Month Lightning Talks](https://pyladies.com/)
 
-* 14 January 2020: [Exploring Seasonal Insights from Singapore Weather Station Data](https://hweecat.github.io/talk_juniordevsg_exploring_seasonal_insights_from_sg_weather_data) at [JuniorDevSG Code and Tell]((https://www.meetup.com/Junior-Developers-Singapore/events/267507133/))
+* 14 January 2020: [Exploring Seasonal Insights from Singapore Weather Station Data](https://hweecat.github.io/talk_juniordevsg_exploring_seasonal_insights_from_sg_weather_data) at [JuniorDevSG Code and Tell](https://www.meetup.com/Junior-Developers-Singapore/events/267507133/)
     - Recording [courtesy of Engineers.SG](https://engineers.sg/v/3919)
 
 * 28 November 2019: [Contributing to pandas documentation for the first time - lessons from open source](https://hweecat.github.io/talk_contributing-pandas-docs-first-time) at [Women Who Code Singapore TalksDev #5](https://www.meetup.com/Women-Who-Code-Singapore/events/266037585/)
