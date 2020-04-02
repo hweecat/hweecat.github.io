@@ -16,7 +16,7 @@ I stumbled into public speaking when I attended Singapore Global CFP Diversity D
 
 #### Conference
 
-* 20 March 2020: "Speed Up Your Data Processing: Parallel and Asynchronous Programming in Python" at [FOSSASIA Summit 2020](https://summit.fossasia.org/)
+* 20 March 2020: [Speed Up Your Data Processing: Parallel and Asynchronous Programming in Python](https://hweecat.github.io/talk_fossasia-parallel-async-python) at [FOSSASIA Summit 2020](https://summit.fossasia.org/)
     - Recording [courtesy of FOSSASIA](https://youtu.be/aB6f5KicM2Y)
 
 * 1 December 2019: [Making Open Weather Data More Accessible: Extracting Seasonal Insights from Singapore Weather Station Data](https://hweecat.github.io/talk_extracting_seasonal_insights_from_sg_weather_station_data/) at [OpenUP Global Summit 2019](https://www.openup.global/)
