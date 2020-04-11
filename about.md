@@ -23,7 +23,7 @@ My goal for 2020 is to:
 3. Deliver talks in at least 4 tech conferences locally and internationally
 4. Enhance my Github portfolio
 5. Write more tech posts to document my learning journey and (hopefully) share with more people
-6. Make more regular updates to [my TIL blog](https://datadiaries.commons.host), which is built using [Pelican](https://getpelican.com)
+6. Make more regular updates to [my TIL blog](https://datadiaries.dev), which is built using [Pelican](https://getpelican.com)
 7. Make at least 4 Pull Requests on open-source projects
 
 My goals for 2019 was to:
@@ -62,4 +62,4 @@ More details on my speaking [here](https://hweecat.github.io/talks)
 
 ### Contact me
 
-[ongchinhwee at gmail dot com](mailto:ongchinhwee@gmail.com)
+[chinhwee at ongchinhwee dot com](mailto:chinhwee@ongchinhwee.com)
