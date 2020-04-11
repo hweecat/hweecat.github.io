@@ -10,6 +10,9 @@ I stumbled into public speaking when I attended Singapore Global CFP Diversity D
 ### Upcoming talks
 
 #### Conference
+
+* 25 April 2020: "Just-in-Time with Numba" at [Remote Python Pizza](https://remote.python.pizza/)
+
 * <s>18 - 19 April 2020</s> 19 - 20 September 2020: "Speed Up Your Data Processing: Parallel and Asynchronous Programming in Data Science" at [DragonPy 2020](https://dragonpy.com/)
 
 ### Past talks
