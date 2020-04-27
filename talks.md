@@ -11,13 +11,13 @@ I stumbled into public speaking when I attended Singapore Global CFP Diversity D
 
 #### Conference
 
-* 25 April 2020: "Just-in-Time with Numba" at [Remote Python Pizza](https://remote.python.pizza/)
-
 * <s>18 - 19 April 2020</s> 19 - 20 September 2020: "Speed Up Your Data Processing: Parallel and Asynchronous Programming in Data Science" at [DragonPy 2020](https://dragonpy.com/)
 
 ### Past talks
 
 #### Conference
+
+* 25 April 2020: [Just-in-Time with Numba](https://hweecat.github.io/talk_pypizza-jit-with-numba) at [Remote Python Pizza](https://remote.python.pizza/)
 
 * 20 March 2020: [Speed Up Your Data Processing: Parallel and Asynchronous Programming in Python](https://hweecat.github.io/talk_fossasia-parallel-async-python) at [FOSSASIA Summit 2020](https://summit.fossasia.org/)
     - Recording [courtesy of FOSSASIA](https://youtu.be/aB6f5KicM2Y)

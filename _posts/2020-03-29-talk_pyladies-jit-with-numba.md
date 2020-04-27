@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Lightning Talk: Just-in-Time with Numba"
+title: "Lightning Talk: Just-in-Time with Numba - 7-minute PyLadies version"
 description: "Quick speaker notes + reflection on my first lightning talk with PyLadies"
 excerpt: One fine day in the morning of 28 March 2020 Singapore time, I came across a tweet from PyLadies calling for lightning talk submissions for their International Women's Month Lightning Talks Zoom call. Just a day ago, my data scientist friend mentioned about Numba on Facebook, and I happened to have spoken quite a bit about Numba in my first conference talk last year.
 tags: talks
 ---
 ---
-Where: [PyLadies International Women's Month Lightning Talks](https://summit.fossasia.org/)
+Where: [PyLadies International Women's Month Lightning Talks](https://pyladies.com/)
 
 When: 28 March 2020
 
