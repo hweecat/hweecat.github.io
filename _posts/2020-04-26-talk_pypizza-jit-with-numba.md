@@ -13,8 +13,8 @@ When: 25 April 2020
 Location: Remote (@ your couch!)
 
 Resources used:
-- [Compiled vs Interpreted Languages | freeCodeCamp Guide](https://guide.freecodecamp.org/computer-science/compiled-versus-interpreted-languages/)
-- [Just in Time Compilation | freeCodeCamp Guide](https://guide.freecodecamp.org/computer-science/just-in-time-compilation/)
+- [Compiled vs Interpreted Languages - freeCodeCamp Guide](https://guide.freecodecamp.org/computer-science/compiled-versus-interpreted-languages/)
+- [Just in Time Compilation - freeCodeCamp Guide](https://guide.freecodecamp.org/computer-science/just-in-time-compilation/)
 - [What’s the difference between a compiled and interpreted language?](https://www.programmerinterview.com/general-miscellaneous/whats-the-difference-between-a-compiled-and-an-interpreted-language/)
 - [Compiler and Interpreter: Compiled Language vs Interpreted Programming Languages](https://www.youtube.com/watch?v=I1f45REi3k4)
 - [5-minute Guide to Numba](http://numba.pydata.org/numba-doc/latest/user/5minguide.html)
