@@ -67,6 +67,9 @@ To ground myself mentally while preparing for my lightning talk, I did the follo
 
 The speaker-onboarding session before the conference was really helpful though - I tested the Zoom setup, ran through some of the slides, and received crucial feedback that led me to add additional slides on the Numba compiler architecture in order to explain the two modes of execution in Numba.
 
+![alt text](https://hweecat.github.io/images/numba_compiler_archi.jpg "Numba Compiler Architecture with Frontend and Backend")
+Numba compiler architecture - a simplified diagrammatic explanation of how Numba works
+
 Back to my lightning talk - I kinda stumbled a bit at the start and towards the end as there were too many similar-sounding words in my talk, but the rest of the talk went pretty smoothly and I managed to deliver everything I planned to speak about within 10 minutes. My setup was a bit clumsy since my "second screen" was my work laptop with my speaker notes, and I ended up looking towards my speaker notes at a slightly awkward angle when discussing about the more technical details. I didn't dare to look at the conference Discord channel throughout my talk for fear of negative feedback, so I ended up being reminded that my time is almost up on Zoom - luckily I was already towards the end of my talk by then. At the end of my talk, I noticed that I was sweating profusely and my back was drenched, even though I was in a room with air-conditioning.
 
 My initial post-talk thought was "okay I finally did the thing even though I stumbled on my words". I was pleasantly surprised to see the overwhelmingly warm response and feedback on the conference Discord channels AND on Twitter - turns out, there are people who loved my talk! 
