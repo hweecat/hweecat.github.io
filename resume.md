@@ -5,13 +5,17 @@ permalink: /resume/
 ---
 
 Name: Ong Chin Hwee
+
 Email: [ongchinhwee@gmail.com](mailto:ongchinhwee@gmail.com)
-LinkedIn: [https://linkedin.com/in/ongchinhwee](https://linkedin.com/in/ongchinhwe)
+
+LinkedIn: [https://linkedin.com/in/ongchinhwee](https://linkedin.com/in/ongchinhwee)
+
 GitHub: [https://github.com/hweecat](https://github.com/hweecat)
 
 ## Experience
 
 ### ST ENGINEERING (Oct 2018 – Present)
+
 Data Engineer, Data Analytics Strategic Technology Centre
 Location: Singapore
 
@@ -24,6 +28,7 @@ Location: Singapore
 * Spearheaded initiatives in maintaining up-to-date technical documentation for on-premise cloud platform and establishing data governance guidelines 
 
 ### Rolls-Royce@NTU Corporate Laboratory (Sept 2014 – Aug 2016)
+
 Research Assistant / Technologist, Manufacturing Technologies
 Location: Singapore
 
@@ -53,9 +58,11 @@ Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engin
 ## Education
 
 **Quantic School of Business and Technology (2019)**
+
 Master of Business Administration (Pass with Honors)
 
 **National University of Singapore (2017 – 2018)**
+
 M.Sc. (Mechanical Engineering) with Specialization in Computation and Modelling 
 NUS Enterprise Summer Programme 2018 
 
@@ -63,6 +70,7 @@ Specialization Project – Numerical Simulation on Noise Reduction Using Bio-Ins
 * In collaboration with Temasek Laboratories @ NUS (T-Lab @ NUS) 
 
 **Nanyang Technological University (2010 – 2014)**
+
 B.Eng. (Hons.) (Aerospace Engineering) with Minor in Business 
 College Scholarship, College of Engineering 
 Leadership Development Programme, School of Mechanical and Aerospace Engineering 
