@@ -38,3 +38,24 @@ I collect the raw data, process the data, use the data to train the data model, 
 
 Turns out, there's quite a fair bit of bottlenecks in a data science project.
 
+A common bottleneck in a data science project is the lack of data, or that the data quality is poor. Hence, it is often necessary and even crucial to perform data preprocessing on the data before any analysis or or training of analytics models could be performed.
+
+It is a common adage that the data science workflow follows the 80-20 Pareto principle - 80% preprocessing, 20% analysis and modeling. In reality, due to data quality issues, it’s closer to 90-10 - 90% preprocessing and data mungling!
+
+
+## Data Processing in Python
+
+Data processing speeds (especially for-loops) in Python are said to be infamously slow compared with C. This is because Python runs on the interpreter and is not a compiled language! Why is this so?
+
+Let's illustrate the possible data processing techniques that could be used in Python with an example - calculate the square of each number in from 0 to 99 and return the output as a list.
+
+### For-loops in Python
+
+```python
+
+    a_list = []
+    for i in range(100):
+        a_list.append(i*i)
+```
+
+To perform the operation with a Python for-loop, 
