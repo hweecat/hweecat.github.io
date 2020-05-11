@@ -38,3 +38,32 @@ I collect the raw data, process the data, use the data to train the data model, 
 
 Turns out, there's quite a fair bit of bottlenecks in a data science project.
 
+
+According to a 2019 survey by O'Reilly on AI Adoption, enterprises with mature AI practices cited "Lack of data or data quality issues" as the main bottleneck holding back further adoption of AI technologies. Even with advances in building robust models in recent years, the reality is that noisy or incomplete data remain the biggest hurdles to designing effective end-to-end data science projects. Hence, it is often necessary and even crucial to perform data preprocessing on the data before any analysis or or training of analytics models could be performed.
+
+Data cleaning is usually required to improve the quality of data, but they consume a large amount of time spent on most data science projects. For real-life enterprise data science projects where domain knowledge is an integral part of the data but are often not encoded in the data, data quality issues are often more complex and require extensive data preprocessing and cleaning with domain knowledge inputs before models could be trained.
+
+A common adage is that a typical data science workflow follows the 80:20 Pareto principle - 80% on data preparation and cleaning (data preprocessing), and 20% on data mining and model building. In real-life data science projects where data quality issues are often more complex, it's closer to 90:10 - 90% on gathering requirements and data preprocessing with consultation with domain experts, and 10% on data mining and model building. Data cleaning can be labour intensive; even if the data munging process could be automated, slow data processing codes also contribute to significant bottlenecks in data science projects in terms of time.
+
+## Data Processing in Python
+
+Data processing speeds (especially for-loops) in Python are said to be infamously slow compared with C. This is because Python runs on the interpreter and is not a compiled language! Why is this so?
+
+Let's illustrate the possible data processing techniques that could be used in Python with an example - calculate the square of each number in from 0 to 99 and return the output as a list.
+
+### For-loops in Python
+
+```python
+
+    a_list = []
+    for i in range(100):
+        a_list.append(i*i)
+```
+
+To perform the operation with a Python for-loop, 
+
+Python for-loops run on the interpreter, not compiled (in contrast, for-loops in C are compiled). The Python interpreter adds significant overhead over multiple iterations as it has to translate the code at runtime, in contrast with C programs that are compiled into native code at compile time and executed at runtime.
+
+### List Comprehensions
+
+Next, we look at list comprehensions
