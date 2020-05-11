@@ -17,6 +17,7 @@ GitHub: [https://github.com/hweecat](https://github.com/hweecat)
 ### ST ENGINEERING (Oct 2018 – Present)
 
 Data Engineer, Data Analytics Strategic Technology Centre
+
 Location: Singapore
 
 * Develop, construct and test data pipelines and algorithms for data analytics solutions in engineering and procurement analytics systems using data mining and machine learning techniques 
@@ -30,6 +31,7 @@ Location: Singapore
 ### Rolls-Royce@NTU Corporate Laboratory (Sept 2014 – Aug 2016)
 
 Research Assistant / Technologist, Manufacturing Technologies
+
 Location: Singapore
 
 * Crafted and executed proof-of-concept experiments to develop capabilities for finishing of complex internal features in additive-manufactured components 
@@ -63,7 +65,8 @@ Master of Business Administration (Pass with Honors)
 
 **National University of Singapore (2017 – 2018)**
 
-M.Sc. (Mechanical Engineering) with Specialization in Computation and Modelling 
+M.Sc. (Mechanical Engineering) with Specialization in Computation and Modelling
+
 NUS Enterprise Summer Programme 2018 
 
 Specialization Project – Numerical Simulation on Noise Reduction Using Bio-Inspired Propeller Designs
@@ -72,8 +75,11 @@ Specialization Project – Numerical Simulation on Noise Reduction Using Bio-Ins
 **Nanyang Technological University (2010 – 2014)**
 
 B.Eng. (Hons.) (Aerospace Engineering) with Minor in Business 
+
 College Scholarship, College of Engineering 
+
 Leadership Development Programme, School of Mechanical and Aerospace Engineering 
+
 Global Immersion Programme (GIP) Study at Rensselaer Polytechnic Institute 
 
 Honours Thesis – Solar UAV: Propulsion System – Selection of Motor and Propeller for MALE UAV
