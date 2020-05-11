@@ -12,7 +12,7 @@ My background is not in Computer Science (I could have switched majors, but I re
 
 My personal interests range from aviation to music. I am also interested in photography, travel, and innovation.
 
-I'm currently learning how to make my Python codes run faster so that I can have more time to focus on machine learning. I enjoy having deep-dive discussions on how to make the world a better place through technology and human intelligence.
+I'm currently learning how to make my Python codes run faster so that I can have more time to focus on machine learning. I enjoy having deep-dive discussions on how to make the world a better place through technology and human intelligence. I also have a [resume](https://hweecat.github.io/resume), if you're looking to hire someone for data science and engineering.
 
 My goal for 2020 is to:
 
