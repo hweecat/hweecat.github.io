@@ -11,7 +11,8 @@ I stumbled into public speaking when I attended Singapore Global CFP Diversity D
 
 #### Conference
 
-* <s>18 - 19 April 2020</s> 19 - 20 September 2020: "Speed Up Your Data Processing: Parallel and Asynchronous Programming in Data Science" at [DragonPy 2020](https://dragonpy.com/)
+* 23 July 2020: "Speed Up Your Data Processing" at [EuroPython 2020](https://ep2020.europython.eu/)
+* 19 - 20 September 2020: "Speed Up Your Data Processing: Parallel and Asynchronous Programming in Data Science" at [DragonPy 2020](https://dragonpy.com/)
 
 ### Past talks
 
