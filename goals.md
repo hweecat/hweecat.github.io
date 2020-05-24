@@ -15,7 +15,7 @@ My goal for 2020 is to:
     - Update 2020-03-22: **Goal achieved** - I spoke at FOSSASIA Summit 2020 on 20 March 2020. It was a relatively muted conference this time due to COVID-19, but it's a good start. Reflection on talk [here](https://hweecat.github.io/talk_fossasia-parallel-async-python)
     
 2. ~~Speak at a tech conference outside of Asia (preferably in Europe and/or North America)~~ (and hope I do not embarrass my country on the international stage)
-    - Update 2020-05-21: I will be speaking at [EuroPython 2020](https://ep2020.europython.eu/)Online, which is on 23 - 26 July 2020. This is a significant milestone for me as it will be my first time speaking at Europe's largest Python conference, and I am immensely honoured to be sharing the (virtual) stage with highly-esteemed speakers in the global Python community.
+    - Update 2020-05-21: I will be speaking at [EuroPython 2020](https://ep2020.europython.eu/) Online, which is on 23 - 26 July 2020. This is a significant milestone for me as it will be my first time speaking at Europe's largest Python conference, and I am immensely honoured to be sharing the (virtual) stage with highly-esteemed speakers in the global Python community.
 
 3. Deliver talks in at least 4 tech conferences locally and internationally
     - Current tally: 2
@@ -25,6 +25,8 @@ My goal for 2020 is to:
 5. Write more tech posts to document my learning journey and (hopefully) share with more people
 6. Make more regular updates to [my TIL blog](https://datadiaries.dev), which is built using [Pelican](https://getpelican.com)
 7. Make at least 4 Pull Requests on open-source projects
+    - I currently lead a team of volunteer data scientists and computer scientists in conducting research on temporal analysis of large-scale transportation networks to model the evolution of epidemic networks and predict COVID-19 trends.
+    - As a beneficiary of open source, I look forward to taking part in online sprints to contribute to open source projects that have benefited the data community.
 
 ## 2019 Goals
 
