@@ -20,12 +20,13 @@ Data Engineer, Data Analytics Strategic Technology Centre
 
 Location: Singapore
 
+* Data Engineer #1
 * Develop, construct and test data pipelines and algorithms for data analytics solutions in engineering and procurement analytics systems using data mining and machine learning techniques 
 * Collaborated with Data Architect and Data Engineering team to gather data analytics requirements from key business stakeholders, develop proof-of-concept data models, and design strategies for model deployment in production environments 
 * Led discussions with data scientists on user requirements, contributed to the logical design of Hadoop-based data lake for on-premise development cloud platform, and ensured service availability of on-premise cloud platform with OpenStack Dashboard and Bash scripting on Ubuntu/CentOS 7 environments 
 * Optimized interactive procurement analytics report generation time by 100% through multidimensional data processing and analytics pipelines involving Python, Pandas data manipulation library and Plotly visualization library 
 * Simulated improvement and modularization of data processing pipelines for development of aircraft engine predictive analytics prototype using SQLAlchemy and Microsoft SQL Server on Windows Server 2019 Virtual Machine instance
-* Created classification model to identify time-wavelength patterns corresponding to human factors for AgilFence intrusion detection system using Scikit-learn machine learning library
+* Developed classification model with 30% improvement in recall performance, enabling better identification of human factors instances for an intrusion detection system using Scikit-learn machine learning library
 * Performed migration of version control system from self-hosted GitLab to Team Foundation Server across older and newer on-premise cloud platforms 
 * Spearheaded initiatives in maintaining up-to-date technical documentation for on-premise cloud platform and establishing data governance guidelines 
 
