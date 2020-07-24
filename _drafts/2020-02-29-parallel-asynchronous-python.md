@@ -60,10 +60,21 @@ Let's illustrate the possible data processing techniques that could be used in P
         a_list.append(i*i)
 ```
 
-To perform the operation with a Python for-loop, 
+To perform the operation with a Python for-loop, we initialize an empty list and append each result to the list during each iteration. This involves 
 
-Python for-loops run on the interpreter, not compiled (in contrast, for-loops in C are compiled). The Python interpreter adds significant overhead over multiple iterations as it has to translate the code at runtime, in contrast with C programs that are compiled into native code at compile time and executed at runtime.
+Another key point to consider in the process time: Python for-loops run on the interpreter, not compiled (in contrast, for-loops in C are compiled). The Python interpreter adds significant overhead over multiple iterations as it has to translate the code at runtime, in contrast with C programs that are compiled into native code at compile time and executed at runtime.
 
 ### List Comprehensions
 
-Next, we look at list comprehensions
+Next, we look at list comprehensions and how to implement the same data processing algorithm using list comprehensions.
+
+```python
+
+    a_list = [i*i for i in range(100)]
+```
+
+List comprehensions in Python are optimized for the Python interpreter to recognize predictable patterns during looping. Hence, it does not need to load the attribute of the list and call it as a function at each iteration.
+
+### Pandas
+
+Pandas 
