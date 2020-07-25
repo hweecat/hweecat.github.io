@@ -80,6 +80,7 @@ Bonus: I added the traditional Singaporean breakfast reference for the non-ASEAN
 
 ### Things that went well
 
-1. I managed to cover everything that I wanted to cover in my talk on time - all wthin 30 minutes!
+1. I managed to cover everything that I wanted to cover in my talk on time - all within 30 minutes!
 2. A couple of people approached me virtually after the talk to say that they enjoyed my toast and coffee analogies - one of them even wanted to "steal" the analogy!
 3. Pretty interesting Q&As and discussion after the talk - a (slight) positive indicator of interest in my talk and also a good opportunity to discuss more about using a systems-based approach in analysing how to speed up parts of data processing pipelines.
+4. Bonus: My talk was featured in [Data Engineer One](https://youtube.com/c/DataEngineerOne) - Tam's YouTube channel dedicated to data engineering. Tam works as a Data Engineer & Architect at QuantumBlack and spoke about the Kedro data pipeline framework at [EuroPython 2020](https://ep2020.europython.eu/talks/45GhXwE-writing-and-scaling-collaborative-data-pipelines-with-kedro/). Check out the episode [here](https://www.youtube.com/watch?v=tXS9_FNnvus).
