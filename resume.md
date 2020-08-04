@@ -25,7 +25,7 @@ Location: Singapore
 * Collaborated with Data Architect and Data Engineering team to gather data analytics requirements from key business stakeholders, develop proof-of-concept data models, and design strategies for model deployment in production environments 
 * Led discussions with data scientists on user requirements, contributed to the logical design of Hadoop-based data lake for on-premise development cloud platform, and ensured service availability of on-premise cloud platform with OpenStack Dashboard and Bash scripting on Ubuntu/CentOS 7 environments 
 * Optimized interactive procurement analytics report generation time by 100% through multidimensional data processing and analytics pipelines involving Python, Pandas data manipulation library and Plotly visualization library 
-* Simulated improvement and modularization of data processing pipelines for development of aircraft engine predictive analytics prototype using SQLAlchemy and Microsoft SQL Server on Windows Server 2019 Virtual Machine instance
+* Simulated improvement and modularization of data processing pipelines for development of aircraft engine predictive analytics prototype using SQLAlchemy, Flask and Microsoft SQL Server on Windows Server 2019 Virtual Machine instance
 * Developed classification model with 30% improvement in recall performance, enabling better identification of human factors instances for an intrusion detection system using Scikit-learn machine learning library
 * Performed migration of version control system from self-hosted GitLab to Team Foundation Server across older and newer on-premise cloud platforms 
 * Spearheaded initiatives in maintaining up-to-date technical documentation for on-premise cloud platform and establishing data governance guidelines 
@@ -40,6 +40,9 @@ Location: Singapore
 * Co-authored review paper on benchmarking of finishing processes for internal surfaces and passages which was subsequently published in a research journal
 
 ## Career Highlights
+
+* **"Speed Up Your Data Processing."**
+EuroPython 2020. 23 July 2020.
 
 * **“Just-in-Time With Numba.”**
 Remote Python Pizza. 25 April 2020. 
