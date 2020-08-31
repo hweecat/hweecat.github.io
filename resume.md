@@ -41,7 +41,7 @@ Location: Singapore
 
 ## Career Highlights
 
-* **"Speed Up Your Data Processing."**
+* **["Speed Up Your Data Processing."](https://youtu.be/qUu9mBMQDdw?t=20066)**
 EuroPython 2020. 23 July 2020.
 
 * **“Just-in-Time With Numba.”**
