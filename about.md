@@ -32,6 +32,8 @@ More details on my speaking [here](https://hweecat.github.io/talks)
 * [How to Make Your Data Processing Faster: Parallel Processing and JIT in Data Science](https://hweecat.github.io/talk_how-to-make-your-data-processing-faster) at [Women Who Code CONNECT Asia 2019](https://asia.womenwhocode.dev/)
     - Recording [courtesy of Engineers.SG](https://youtu.be/RX5rlt3jAt0)
 
+* [Symbolic Connection - Episode 13](https://anchor.fm/symbolic-connection/episodes/013--Ong-Chin-Hwee--Data-Engineer-at-ST-Engineering-Part-1-einp0o/a-a1pvsb)
+
 * [pandanistas - Interview with Ong Chin Hwee](https://www.pandanistas.org/interview-with-ong-chin-hwee.html)
 
 ### Contact me
