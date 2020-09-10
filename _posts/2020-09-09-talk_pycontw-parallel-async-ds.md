@@ -6,7 +6,7 @@ excerpt: Speaking at PyCon Taiwan has been one of my key priorities in year 2020
 tags: talks
 ---
 ---
-Where: [PyCon Taiwan 2020](https://ep2020.europython.eu/)
+Where: [PyCon Taiwan 2020](https://tw.pycon.org/2020/)
 
 When: 6 September 2020
 
