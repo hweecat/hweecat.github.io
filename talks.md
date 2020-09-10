@@ -11,12 +11,13 @@ I stumbled into public speaking when I attended Singapore Global CFP Diversity D
 
 #### Conference
 
-* 5 - 6 September 2020: "Speed Up Your Data Processing: Parallel and Asynchronous Programming in Data Science" at [PyCon Taiwan 2020](https://pycon.tw/)
 * 11 - 16 November 2020: "Speed Up Your Data Processing: Parallel and Asynchronous Programming in Data Science" at [PyData Global](https://global.pydata.org/)
 
 ### Past talks
 
 #### Conference
+
+* 5 - 6 September 2020: [Speed Up Your Data Processing: Parallel and Asynchronous Programming in Data Science](https://hweecat.github.io/talk_pycontw-parallel-async-ds) at [PyCon Taiwan 2020](https://tw.pycon.org/2020/)
 
 * 23 July 2020: [Speed Up Your Data Processing](https://hweecat.github.io/talk_europython-parallel-async-ds) at [EuroPython 2020](https://ep2020.europython.eu/)
     - Recording [courtesy of EuroPython](https://youtu.be/qUu9mBMQDdw?t=20066)
