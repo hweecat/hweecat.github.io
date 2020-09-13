@@ -23,10 +23,10 @@ Location: Singapore
 * Data Engineer #1
 * Develop, construct and test data pipelines and algorithms for data analytics solutions in engineering and procurement analytics systems using data mining and machine learning techniques 
 * Collaborated with Data Architect and Data Engineering team to gather data analytics requirements from key business stakeholders, develop proof-of-concept data models, and design strategies for model deployment in production environments 
-* Led discussions with data scientists on user requirements, contributed to the logical design of Hadoop-based data lake for on-premise development cloud platform, and ensured service availability of on-premise cloud platform with OpenStack Dashboard and Bash scripting on Ubuntu/CentOS 7 environments 
 * Optimized interactive procurement analytics report generation time by 100% through multidimensional data processing and analytics pipelines involving Python, Pandas data manipulation library and Plotly visualization library 
 * Simulated improvement and modularization of data processing pipelines for architectural design and development of aircraft engine predictive analytics prototype using SQLAlchemy, Flask and Microsoft SQL Server on Windows Server 2019 Virtual Machine instance
 * Developed classification model with 30% improvement in recall performance, enabling better identification of human factors instances for an intrusion detection system using Scikit-learn machine learning library
+* Led discussions with data scientists on user requirements, contributed to the logical design of Hadoop-based data lake for on-premise development cloud platform, and ensured service availability of on-premise cloud platform with OpenStack Dashboard and Bash scripting on Ubuntu/CentOS 7 environments 
 * Performed migration of version control system from self-hosted GitLab to Team Foundation Server across older and newer on-premise cloud platforms 
 * Spearheaded initiatives in maintaining up-to-date technical documentation for on-premise cloud platform and establishing data governance guidelines 
 
@@ -40,6 +40,9 @@ Location: Singapore
 * Co-authored review paper on benchmarking of finishing processes for internal surfaces and passages which was subsequently published in a research journal
 
 ## Career Highlights
+
+* **“Speed Up Your Data Processing: Parallel and Asynchronous Programming in Python.”**
+PyCon Taiwan 2020, 6 September 2020.
 
 * **["Speed Up Your Data Processing."](https://youtu.be/qUu9mBMQDdw?t=20066)**
 EuroPython 2020. 23 July 2020.
@@ -102,7 +105,7 @@ Honours Thesis – Solar UAV: Propulsion System – Selection of Motor and Prope
 
 ### Communication Skills
 
-* Good communication skills: Collaborated with professors, industrial researchers, managers, vendors and visitors as a technical researcher in industrial R&D environments. Delivered technical talks at community events and regional developer conferences. Open source contribution to improved API documentation for Pandas 1.0 release. 
+* Good communication skills: Collaborated with professors, industrial researchers, managers, vendors and visitors as a technical researcher in industrial R&D environments. Delivered technical talks at community events and regional developer conferences. Open source contribution to [API documentation/enhancements for Pandas](https://github.com/pandas-dev/pandas/pulls?q=is%3Apr+author%3Ahweecat+). 
 * Teamwork skills: Teamed up with researchers in innovation teams. 
 * Intercultural skills: Experience in studying at a foreign university and working with people from diverse cultural backgrounds.
 
