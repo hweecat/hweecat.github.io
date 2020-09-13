@@ -18,7 +18,7 @@ My goal for 2020 is to:
     - Update 2020-05-21: I will be speaking at [EuroPython 2020](https://ep2020.europython.eu/) Online, which is on 23 - 26 July 2020. This is a significant milestone for me as it will be my first time speaking at Europe's largest Python conference, and I am immensely honoured to be sharing the (virtual) stage with highly-esteemed speakers in the global Python community.
 
 3. Deliver talks in at least 4 tech conferences locally and internationally
-    - Current tally: 2
+    - Current tally: 4
     - Note: Due to the global COVID-19 pandemic, international travel to conferences is made virtually impossible and many conferences have been moved online.
 
 4. Enhance my Github portfolio with more side projects
@@ -27,6 +27,7 @@ My goal for 2020 is to:
 7. Make at least 4 Pull Requests on open-source projects
     - I currently lead a team of volunteer data scientists and computer scientists in conducting research on temporal analysis of large-scale transportation networks to model the evolution of epidemic networks and predict COVID-19 trends.
     - As a beneficiary of open source, I look forward to taking part in online sprints to contribute to open source projects that have benefited the data community.
+    - Update 2020-09-12: Another pull request to pandas 1.2 [in progress](https://github.com/pandas-dev/pandas/pull/36305)!
 
 ## 2019 Goals
 
@@ -44,4 +45,4 @@ My goals for 2019 was to:
     - Update 2019-09-01: **Goal achieved** - I delivered my first-ever conference talk on 31st August 2019. Reflection on talk [here](https://hweecat.github.io/talk_how-to-make-your-data-processing-faster)
     
 5. ~~Make my first Pull Request on an open-source project~~
-    - Update 2020-01-03: **Goal achieved** My first pull request on pandas 1.0 was merged!
+    - Update 2020-01-03: **Goal achieved** My first pull request on pandas 1.0 was [merged](https://github.com/pandas-dev/pandas/pull/29143)!
