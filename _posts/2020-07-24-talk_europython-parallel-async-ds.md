@@ -61,7 +61,7 @@ A recap of what I went through during my talk:
 
 ## Video
 
-Pending processed recording
+[Chin Hwee Ong - Speed Up Your Data Processing](https://you.tube/PB7_5BQp1SU)
 
 ## Quick reflection
 
