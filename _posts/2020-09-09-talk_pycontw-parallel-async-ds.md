@@ -2,7 +2,7 @@
 layout: post
 title: "Talk: Speed Up Your Data Processing: Parallel and Asynchronous Programming in Data Science (PyCon TW 2020 Edition)"
 description: "Quick speaker notes + PyCon Taiwan 2020 talk reflection"
-excerpt: Speaking at PyCon Taiwan has been one of my key priorities in year 2020 even before the pandemic (another of my key prioriies was to speak at a conference outside of Asia). The fact that there will be an offline audience at the other end of the remote call is also a "pull" factor in my decision to speak at PyCon Taiwan this year - I really miss being able to see live audience responses at a physical conference!
+excerpt: Speaking at PyCon Taiwan has been one of my key priorities in year 2020 even before the pandemic (another of my key priorities was to speak at a conference outside of Asia). The fact that there will be an offline audience at the other end of the remote call is also a "pull" factor in my decision to speak at PyCon Taiwan this year - I really miss being able to see live audience responses at a physical conference!
 tags: talks
 ---
 ---

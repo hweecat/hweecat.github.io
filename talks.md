@@ -20,7 +20,7 @@ I stumbled into public speaking when I attended Singapore Global CFP Diversity D
 * 5 - 6 September 2020: [Speed Up Your Data Processing: Parallel and Asynchronous Programming in Data Science](https://hweecat.github.io/talk_pycontw-parallel-async-ds) at [PyCon Taiwan 2020](https://tw.pycon.org/2020/)
 
 * 23 July 2020: [Speed Up Your Data Processing](https://hweecat.github.io/talk_europython-parallel-async-ds) at [EuroPython 2020](https://ep2020.europython.eu/)
-    - Recording [courtesy of EuroPython](https://youtu.be/qUu9mBMQDdw?t=20066)
+    - Recording [courtesy of EuroPython](https://you.tube/PB7_5BQp1SU)
 
 * 25 April 2020: [Just-in-Time with Numba](https://hweecat.github.io/talk_pypizza-jit-with-numba) at [Remote Python Pizza](https://remote.python.pizza/)
 

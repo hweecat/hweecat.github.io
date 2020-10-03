@@ -44,7 +44,7 @@ Location: Singapore
 * **“Speed Up Your Data Processing: Parallel and Asynchronous Programming in Python.”**
 PyCon Taiwan 2020, 6 September 2020.
 
-* **["Speed Up Your Data Processing."](https://youtu.be/qUu9mBMQDdw?t=20066)**
+* **["Speed Up Your Data Processing."](https://you.tube/PB7_5BQp1SU)**
 EuroPython 2020. 23 July 2020.
 
 * **“Just-in-Time With Numba.”**
