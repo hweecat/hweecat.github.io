@@ -2,7 +2,7 @@
 layout: post
 title: "#Shitoberfest: How free T-shirts ruined #Hacktoberfest2020"
 description: "A cautionary tale on how incentivising pull requests with free T-shirts indirectly led to a ruined experience for open-source contributors"
-excerpt: "Hacktoberfest"
+excerpt: "Hacktoberfest is an annual event organized by [DigitalOcean](https://digitalocean.com) that celebrates open-source contributions. Occuring every October, the goal of Hacktoberfest is to encourage developers (of all backgrounds and skill level) and companies to make positive contributions to the open-source community. All these sound like an initiative with good intentions on paper - incentivise developers to contribute to open-source projects. Unfortunately, the organizers underestimated the extent of what people are willing to do for the sake of getting free T-shirts (or freebies in general)."
 tags: reflection
 ---
 ---
