@@ -76,4 +76,48 @@ The problem is that:
 2. CodeWithHarry wanted to share with his audience about ways to get free stuff through making PRs for Hacktoberfest, and demonstrated with a low-quality PR for convenience and speed - without explicitly mentioning in the video that the audience should not follow exactly what he did as it is a low-quality PR *just for demonstration*.
 3. Some of those spammers might probably be new to open source and/or Hacktoberfest, do not know how to contribute meaningfully, but really want that free Hacktoberfest T-shirt anyway.
 
-And these cumulated in a ruined Hacktoberfest and change of rules.
+And these cumulated in a ruined Hacktoberfest experience for maintainers and contributors alike. Maintainers have to spend time cleaning up spam pull requests and labelling them as ``invalid`` or ``spam``, and there are incidents of GitHub users fighting over up-for-grabs issues to work on for **the pull request to count towards a T-shirt**.
+
+## Change of Hacktoberfest Rules
+
+On October 3rd, DigitalOcean announced changes in rules for Hacktoberfest:
+
+{::options parse_block_html="false" /}
+
+<div class="center">
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">UPDATE: We’re making Hacktoberfest opt-in only for projects – which maintainers can do simply by adding the ‘hacktoberfest’ topic to a repository! Thanks for your patience as we work on continually improving the Hacktoberfest experience. 💙🎉 <a href="https://t.co/hHKRgASoQw">https://t.co/hHKRgASoQw</a></p>&mdash; Hacktoberfest (@hacktoberfest) <a href="https://twitter.com/hacktoberfest/status/1312221208667185153?ref_src=twsrc%5Etfw">October 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+</div>
+
+In summary, PRs count towards the Hacktoberfest tally only if they are:
+
+1. Submitted in a repo with ``hacktoberfest`` topic (which means maintainers have to opt in by adding ``hacktoberfest`` topic to their repos; otherwise the PRs don't count)
+2. Submitted during the month of October
+3. Merged OR labelled as ``hacktoberfest-accepted`` by a maintainer 9within 14 days) OR has been approved
+
+These updated rules provide some form of relief for maintainers who had their projects being subjected to DDoS-like attacks on their pull request boards and emails. However, these rules might end up hurting newer contributors who **genuinely want to contribute to open source** and learn from the experience.
+
+Before the change in rules, it is already a challenge for aspiring open-source contributors to look for "beginner-friendly" issues that they are comfortable with working on.
+
+With the change in rules limiting counted PRs to repos with ``hacktoberfest`` topic, I am concerned that there might be tougher competition for a smaller pool of eligible "beginner-friendly" issues.
+
+Hacktoberfest is supposed to be a celebratory event for the open-source community, when project maintainers create beginner-friendly issues and provide informal mentorship to encourage more developers to join their projects as a first-time contributor. As an open-source contributor who genuinely wants to give back to the projects that I use and care about, Hacktoberfest is the time of the year when there are more "good first time" issues available for me to get started with contributing to new and existing projects.
+
+My wish for Hacktoberfest 2020 is that more maintainers that care about diversity in their open-source projects would opt in to Hacktoberfest by adding ``hacktoberfest`` topic to their repos, to encourage more developers from diverse backgrounds to start making their first meaningful pull request. It can be pretty intimidating to get started with contributing to open source for the first time, and even more so for developers from underrepresented communities who don't see enough of people like them actively participating in open-source projects within the ecosystem.
+
+It's saddening that the actions of a group of bad actors have ruined the Hacktoberfest experience for the open-source community, and led to changes in rules that might keep even more people away from contributing due to the perceived higher bar of entry into the contributors community.
+
+## Update 4th October 2020
+
+I wrote a tweet that lamented about possible heightened competition for "beginner-friendly" issues resulting from the rule changes for Hacktoberfest. Eugene Yan saw my tweet and replied with ML-related repos that he has opened for Hacktoberfest:
+
+{::options parse_block_html="false" /}
+
+<div class="center">
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Sad to hear it come to this. If you (or friends) are looking for a place to contribute, here are two repos that are open:<br><br>• <a href="https://t.co/PUabhtTYwR">https://t.co/PUabhtTYwR</a><br>• <a href="https://t.co/phV43RuVmw">https://t.co/phV43RuVmw</a> (see TODO)</p>&mdash; Eugene Yan (@eugeneyan) <a href="https://twitter.com/eugeneyan/status/1312438866679230464?ref_src=twsrc%5Etfw">October 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+</div>
+
+I'll be making a pull request to contribute to his wonderful initiatives in ML, and I encourage fellow developers in the data/ML community to chip in by contributing a meaningful pull request (or two) to his repos.
