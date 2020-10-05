@@ -45,11 +45,13 @@ I highly recommend checking out [@shitoberfest](https://twitter.com/shitoberfest
 
 It's not so funny for [open-source maintainers](https://blog.domenic.me/hacktoberfest/) though - they had to do extra work cleaning up spam PRs and tagging them as "invalid" or "spam" so that those spam PRs do not count towards the Hacktoberfest tally.
 
+According to DigitalOcean, **"at least 4% of pull requests from Hacktoberfest participants have been marked ‘invalid’ or ‘spam.’"** as of 2pm PST on October 1st. 
+
 ## Cause
 
 What caused #Shitoberfest? It wasn't that massive a problem last year even though the problem of "spam PRs" have always been there, so it could not have been caused solely by the incentive of getting a free T-shirt.
 
-[This excellent narrative post by Joel Thoms](https://joel.net/how-one-guy-ruined-hacktoberfest2020-drama) explains in detail what caused the #Shitoberfest drama (thanks [Eugene Yan](https://twitter.com/eugeneyan) for sharing that gem!): a YouTuber called CodeWithHenry who demonstrated how easy it is to make a Pull Request to a repo in order to win free stuff - by creating a low-quality PR.
+[This excellent narrative post by Joel Thoms](https://joel.net/how-one-guy-ruined-hacktoberfest2020-drama) explains in detail what caused the #Shitoberfest drama (thanks [Eugene Yan (@eugeneyan)](https://twitter.com/eugeneyan) for sharing that gem!): a YouTuber called CodeWithHenry who demonstrated how easy it is to make a Pull Request to a repo in order to win free stuff - by creating a low-quality PR.
 
 This led to his viewers following **exactly** what he did, leading to this **#Shitoberfest**.
 
@@ -121,3 +123,24 @@ I wrote a tweet that lamented about possible heightened competition for "beginne
 </div>
 
 I'll be making a pull request to contribute to his wonderful initiatives in ML, and I encourage fellow developers in the data/ML community to chip in by contributing a meaningful pull request (or two) to his repos.
+
+Some TODOs that Eugene would appreciate your help with:
+
+1. [applied-ml](https://github.com/eugeneyan/applied-ml) - Add an applied ML use-case in production (with links/papers/codes)
+2. [python-collab-template](https://github.com/eugeneyan/python-collab-template) - Update requirements.txt to use ``poetry``
+
+## Update 5th October 2020
+
+I've come across several casual accounts of fellow Southeast Asians choosing to sit out of Hacktoberfest this year due to #shitoberfest, and it's really sad because Hacktoberfest is supposed to be one of the major platforms for the open-source community to bring more diversity into their pool of contributors.
+
+Even though ASEAN tech ecosystem is growing at an accelerated pace, Southeast Asians are still severely underrepresented in tech conferences and open source communities. It would be a loss for the global tech community if their developers choose to sit out of the conversation happening in open source.
+
+If there's anyone else who would like to help underrepresented folks in the tech community (especially Southeast Asians and gender minorities) to get onboard with contributing meaningfully to the open source ecosystem through Hacktoberfest, you could:
+
+1. (For maintainers) Add ``hacktoberfest`` topic to your repo.
+2. Reach out via Twitter by **including a link to the Hacktoberfest-eligible repo**.
+3. In your tweet, let us know what are the **beginner-friendly** issues needing help that would be **relatively low-effort but high-impact**.
+
+Bonus points if your projects are in the field of data/ML - competition to contribute to beginner-friendly issues is even tougher for data/ML projects due to their popularity!
+
+Let's make #hacktoberfest less of a #shitoberfest this month!
