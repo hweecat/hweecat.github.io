@@ -11,6 +11,7 @@ I stumbled into public speaking when I attended Singapore Global CFP Diversity D
 
 #### Conference
 
+* 11 November 2020: [Wanted Spotlight - Breaking Data Episode 3: "How to Build Your Data Career Like A Business"](https://www.wanted.jobs/events/spotlight_breaking_data_ep3)
 * 11 - 16 November 2020: "Speed Up Your Data Processing: Parallel and Asynchronous Programming in Data Science" at [PyData Global](https://global.pydata.org/)
 
 ### Past talks
