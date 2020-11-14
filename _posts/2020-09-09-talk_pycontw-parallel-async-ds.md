@@ -61,7 +61,7 @@ A recap of what I went through during my talk:
 
 ## Video
 
-Pending processed recording
+[Speed Up Your Data Processing: Parallel and Asynchronous Programming in Data Science - PyCon Taiwan 2020](https://youtu.be/w2eUdxPQQ78)
 
 ## Quick reflection
 

@@ -11,14 +11,18 @@ I stumbled into public speaking when I attended Singapore Global CFP Diversity D
 
 #### Conference
 
-* 11 November 2020: [Wanted Spotlight - Breaking Data Episode 3: "How to Build Your Data Career Like A Business"](https://www.wanted.jobs/events/spotlight_breaking_data_ep3)
 * 11 - 16 November 2020: "Speed Up Your Data Processing: Parallel and Asynchronous Programming in Data Science" at [PyData Global](https://global.pydata.org/)
+    - [Pre-recorded talk, post-processed by PyData Global](https://youtu.be/E9sv2B3Bb20)
 
 ### Past talks
 
 #### Conference
 
+* 11 November 2020: [Wanted Spotlight - Breaking Data Episode 3: "How to Build Your Data Career Like A Business"](https://www.wanted.jobs/events/spotlight_breaking_data_ep3)
+    - [Get your VOD for $3!](https://www.wanted.jobs/events/spotlight_breaking_data_ep3)
+
 * 5 - 6 September 2020: [Speed Up Your Data Processing: Parallel and Asynchronous Programming in Data Science](https://hweecat.github.io/talk_pycontw-parallel-async-ds) at [PyCon Taiwan 2020](https://tw.pycon.org/2020/)
+    - Recording [courtesy of PyCon Taiwan](https://youtu.be/w2eUdxPQQ78)
 
 * 23 July 2020: [Speed Up Your Data Processing](https://hweecat.github.io/talk_europython-parallel-async-ds) at [EuroPython 2020](https://ep2020.europython.eu/)
     - Recording [courtesy of EuroPython](https://you.tube/PB7_5BQp1SU)
