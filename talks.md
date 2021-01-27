@@ -11,17 +11,30 @@ I stumbled into public speaking when I attended Singapore Global CFP Diversity D
 
 #### Conference
 
-* 11 - 16 November 2020: "Speed Up Your Data Processing: Parallel and Asynchronous Programming in Data Science" at [PyData Global](https://global.pydata.org/)
-    - [Pre-recorded talk, post-processed by PyData Global](https://youtu.be/E9sv2B3Bb20)
+* 21 February 2021: "Is Rainfall Getting Heavier? Building a Weather Forecasting Pipeline with Singapore Weather Station Data" at [FOSDEM 2021 Python Devroom](https://fosdem.org/2021/schedule/track/python/)
 
 ### Past talks
 
-#### Conference
+#### Exclusives
 
 * 11 November 2020: [Wanted Spotlight - Breaking Data Episode 3: "How to Build Your Data Career Like A Business"](https://www.wanted.jobs/events/spotlight_breaking_data_ep3)
     - [Get your VOD for $3!](https://www.wanted.jobs/events/spotlight_breaking_data_ep3)
 
-* 5 - 6 September 2020: [Speed Up Your Data Processing: Parallel and Asynchronous Programming in Data Science](https://hweecat.github.io/talk_pycontw-parallel-async-ds) at [PyCon Taiwan 2020](https://tw.pycon.org/2020/)
+#### Invited Keynote
+
+* 12 December 2020: "Is Rainfall Getting Heavier? Building a Weather Forecasting Pipeline with Singapore Weather Station Data" at [PyCode Conference 2020](https://pycode-conference.org/)
+    - First Keynote!
+    - Recording [courtesy of PyCode Conference](https://you.tube/uj7hHc6qYb0)
+
+#### Conference
+
+* 6 December 2020: "Is Rainfall Getting Heavier? Building a Weather Forecasting Pipeline with Singapore Weather Station Data" at [PyJamas 2020](https://pyjamas.live)
+    - Livestream recording [courtesy of PyJamas 2020](https://youtu.be/lrb3f8jtZqg?t=1800)
+
+* 15 November 2020: "Speed Up Your Data Processing: Parallel and Asynchronous Programming in Data Science" at [PyData Global](https://global.pydata.org/)
+    - [Pre-recorded talk, post-processed by PyData Global](https://youtu.be/E9sv2B3Bb20)
+
+* 6 September 2020: [Speed Up Your Data Processing: Parallel and Asynchronous Programming in Data Science](https://hweecat.github.io/talk_pycontw-parallel-async-ds) at [PyCon Taiwan 2020](https://tw.pycon.org/2020/)
     - Recording [courtesy of PyCon Taiwan](https://youtu.be/w2eUdxPQQ78)
 
 * 23 July 2020: [Speed Up Your Data Processing](https://hweecat.github.io/talk_europython-parallel-async-ds) at [EuroPython 2020](https://ep2020.europython.eu/)
