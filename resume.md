@@ -14,14 +14,25 @@ GitHub: [https://github.com/hweecat](https://github.com/hweecat)
 
 ## Experience
 
-### ST ENGINEERING (Oct 2018 – Present)
+### DT ONE (formerly known as TRANSFERTO) (Jan 2021 - Present)
+
+Data Engineer, Digital Value Services (DVS)
+
+Location: Singapore
+
+* Design, build and maintain DVS Data Platform and data applications on AWS to ensure high availability of reliable data for business decision-making 
+* Built and deployed scalable data pipelines and machine learning applications to production systems using Apache Spark, Scala and SQL 
+* Initiated refactoring of daily data ingestion pipelines from application databases to AWS data warehouse, enhancing observability and maintainability of mission-critical data pipelines by 100% using AWS Step Functions  
+* Optimized implementation and maintainability of deployed AWS cloud infrastructure through Infrastructure-as-Code using Terraform 
+
+### ST ENGINEERING (Oct 2018 – Jan 2021)
 
 Data Engineer, Data Analytics Strategic Technology Centre
 
 Location: Singapore
 
 * Data Engineer #1
-* Develop, construct and test data pipelines and algorithms for data analytics solutions in engineering and procurement analytics systems using data mining and machine learning techniques 
+* Constructed data pipelines and algorithms for data analytics solutions in engineering and procurement analytics systems using data mining and machine learning techniques 
 * Collaborated with Data Architect and Data Engineering team to gather data analytics requirements from key business stakeholders, develop proof-of-concept data models, and design strategies for model deployment in production environments 
 * Optimized interactive procurement analytics report generation time by 100% through multidimensional data processing and analytics pipelines involving Python, Pandas data manipulation library and Plotly visualization library 
 * Simulated improvement and modularization of data processing pipelines for architectural design and development of aircraft engine predictive analytics prototype using SQLAlchemy, Flask and Microsoft SQL Server on Windows Server 2019 Virtual Machine instance
@@ -41,7 +52,13 @@ Location: Singapore
 
 ## Career Highlights
 
-* **“Speed Up Your Data Processing: Parallel and Asynchronous Programming in Python.”**
+* **["Is Rainfall Getting Heavier? Building a Weather Forecasting Pipeline with Singapore Weather Station Data"](http://mirroronet.pl/pub/mirrors/video.fosdem.org/2021/D.python/python_weather_pipeline.webm)**
+FOSDEM 2021 Python Devroom, 21 February 2021.
+
+* **["Speed Up Your Data Processing: Parallel and Asynchronous Programming in Data Science"](https://youtu.be/E9sv2B3Bb20)**
+PyData Global 2020, 15 November 2020.
+
+* **[“Speed Up Your Data Processing: Parallel and Asynchronous Programming in Python.”](https://youtu.be/w2eUdxPQQ78)**
 PyCon Taiwan 2020, 6 September 2020.
 
 * **["Speed Up Your Data Processing."](https://you.tube/PB7_5BQp1SU)**
@@ -117,9 +134,9 @@ Honours Thesis – Solar UAV: Propulsion System – Selection of Motor and Prope
 
 ### Technical Skills
 
-* Experience in mathematical modelling, data processing, machine learning, scripting and workflow automation using MATLAB, C/C++ and Python. 
+* Experience in mathematical modelling, data processing, machine learning, scripting and workflow automation using MATLAB, C/C++, Python, SQL and Scala. 
 * Experience in parallel implementation of numerical codes using multiprocessing and OpenMPI modules. 
-* Familiarity with OpenStack, Google Cloud Platform, Docker, Linux, SQL, Bash scripting, Git (GitHub, GitLab, Team Foundation Server).
+* Familiarity with cloud computing (AWS, Google Cloud Platform, OpenStack), Docker, Kubernetes, Apache Airflow, Terraform, Linux, Bash scripting, Git (GitHub, GitLab, Team Foundation Server).
 
 ### Language Skills
 
