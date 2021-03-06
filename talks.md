@@ -11,7 +11,6 @@ I stumbled into public speaking when I attended Singapore Global CFP Diversity D
 
 #### Conference
 
-* 21 February 2021: "Is Rainfall Getting Heavier? Building a Weather Forecasting Pipeline with Singapore Weather Station Data" at [FOSDEM 2021 Python Devroom](https://fosdem.org/2021/schedule/track/python/)
 
 ### Past talks
 
@@ -27,6 +26,9 @@ I stumbled into public speaking when I attended Singapore Global CFP Diversity D
     - Recording [courtesy of PyCode Conference](https://you.tube/uj7hHc6qYb0)
 
 #### Conference
+
+* 21 February 2021: "Is Rainfall Getting Heavier? Building a Weather Forecasting Pipeline with Singapore Weather Station Data" at [FOSDEM 2021 Python Devroom](https://fosdem.org/2021/schedule/track/python/)
+    - [Pre-recorded talk, post-processed by FOSDEM 2021 Python Devroom](http://mirroronet.pl/pub/mirrors/video.fosdem.org/2021/D.python/python_weather_pipeline.webm)
 
 * 6 December 2020: "Is Rainfall Getting Heavier? Building a Weather Forecasting Pipeline with Singapore Weather Station Data" at [PyJamas 2020](https://pyjamas.live)
     - Livestream recording [courtesy of PyJamas 2020](https://youtu.be/lrb3f8jtZqg?t=1800)

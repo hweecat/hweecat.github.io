@@ -18,7 +18,7 @@ My goal for 2021 is to:
 
 4. Enhance my Github portfolio with meaningful side projects that demonstrate end-to-end data solutions
 
-5. Learn functional programming through writing Scala code
+5. Learn functional programming through writing Scala code and documenting my learnings
 
 6. Write tech posts at least once a month to document my learning journey and (hopefully) share with more people
 
@@ -26,7 +26,7 @@ My goal for 2021 is to:
 
 8. Make at least 4 Pull Requests on open-source projects
 
-9. Monetize my speaking engagements / expertise
+9. Monetize my speaking engagements / expertise through designing a data engineering course
 
 ## 2020 Goals
 
