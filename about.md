@@ -49,4 +49,4 @@ More details on my speaking [here](https://hweecat.github.io/talks)
 
 ### Contact me
 
-[hello at ongchinhwee dot com](mailto:helloe@ongchinhwee.com)
+[hello at ongchinhwee dot com](mailto:hello@ongchinhwee.com)
