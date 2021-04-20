@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Learning Scala as a Python Programmer: Motivations"
-description: ""
+description: "First post for an upcoming series of posts on functional programming for data engineering"
 excerpt: "One of my tech goals in 2021 is to learn Scala. My key reason for learning Scala is to learn Functional Programming for data engineering. The question is: Why go through the trouble of learning Scala if Functional Programming is supported in Python?"
 tags: python scala reflection
 ---
