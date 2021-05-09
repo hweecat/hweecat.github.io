@@ -145,15 +145,15 @@ When designing reproducible data pipelines at scale, having referential transpar
 2. It enables the programmer to express code in more concise and readable functions and values, improving **readability** when coding.
 3. It allows the programmer to focus on debugging within the function scope without worrying about state changes outside the function scope, improving **maintainability** of core transformations within a data pipeline.
 
-## What's next: How Functional Programming principles enable reproducible data pipeline design
+## What's next: Functional Programming for Data Pipeline Design
 
 In this post, we learn about:
 
 1. Functional programming and how it differs from imperative programming
 2. Concept of pure functions
-3. Key principles of functional programming and their implications onn data pipeline design
+3. Key principles of functional programming and their implications on data pipeline design
 
-In my upcoming post, I will dive into some features of functional programming and how to implement them in designing functional programs.
+In my upcoming post, I will dive into some features of functional programming and how to implement them in designing functional data pipelines.
 
 ## References
 
