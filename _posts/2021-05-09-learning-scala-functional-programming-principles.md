@@ -4,6 +4,8 @@ title: "Learning Scala as a Python Programmer: Key Principles of Functional Prog
 description: "Second post for a series of posts on functional programming for data engineering"
 excerpt: "In my previous post on my motivations for learning Scala, I stated that one of my key reasons for learning Scala for data engineering is due to the programming language being primarily designed for functional programming. Before we dive into the details of writing functional programs, it is important for us to understand the key principles of functional programming and how these programming principles are useful when designing reproducible data pipelines at scale."
 tags: python scala functional-programming
+author: ongchinhwee
+largeimage: /images/pizza_pure_function.jpg
 ---
 ---
 
