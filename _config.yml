@@ -41,9 +41,9 @@ google_analytics: UA-155249988-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://ongchinhwee.me
+url: https://ongchinhwee.me
 twitter_username: ongchinhwee
-title_image: "/images/speakingpic.jpg"
+title_image: "https://ongchinhwee.me/images/speakingpic.jpg"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
