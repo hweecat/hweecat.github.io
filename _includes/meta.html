@@ -16,28 +16,39 @@
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="twitter:title" content="{{ page.title }}" />
     {% endif %}
-    
-    <!-- Twitter cards -->
+
+    <!-- Twitter and Open Graph protocol cards -->
     <meta name="twitter:site"    content="@{{ site.twitter_username }}">
     <meta name="twitter:creator" content="@{{ page.author }}">
     <meta name="twitter:title"   content="{{ page.title }}">
+    <meta property="og:url"    content="{{ site.url }}">
+
+    {% if page.url %}
+    <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+    <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+    {% endif %}
 
     {% if page.summary %}
     <meta name="twitter:description" content="{{ page.summary }}">
+    <meta property="og:description" content="{{ page.summary }}">
     {% else %}
     <meta name="twitter:description" content="{{ site.description }}">
+    <meta property="og:description" content="{{ site.description }}">
     {% endif %}
 
     {% if page.largeimage %}
     <meta name="twitter:card"  content="summary_large_image">
     <meta name="twitter:image" content="{{ site.url }}{{ page.largeimage }}">
+    <meta property="og:image" content="{{ site.url }}{{ page.largeimage }}">
     {% else %}
     {% if page.image %}
     <meta name="twitter:card"  content="summary">
     <meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
+    <meta property="og:image" content="{{ site.url }}{{ page.image }}">
     {% else %}
     <meta name="twitter:card"  content="summary">
     <meta name="twitter:image" content="{{ site.title_image }}">
+    <meta property="og:image" content="{{ site.url }}{{ page.image }}">
     {% endif %}
     {% endif %}
     <!-- end of Twitter cards -->

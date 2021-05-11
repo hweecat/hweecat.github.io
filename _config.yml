@@ -18,7 +18,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: hello@ongchinhwee.com
   facebook:
   flickr:
   github: hweecat
@@ -43,6 +43,7 @@ google_analytics: UA-155249988-1
 # Used for Sitemap.xml and your RSS feed
 url: http://ongchinhwee.me
 twitter_username: ongchinhwee
+title_image: "http://ongchinhwee.me/images/speakingpic.jpg"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
