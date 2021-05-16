@@ -11,10 +11,13 @@ This is where I keep track of my tech goals every year to keep myself on track i
 My goal for 2021 is to:
 
 1. Speak at PyCon 2021 (I can dream, right?)
+    - Standby :sadface:
 
 2. Deliver talks in 4 tech conferences locally and internationally
+    - Tally: 1
 
 3. Pass CKAD exam by August 2021
+    - Bought course on Udemy with hands-on exercises
 
 4. Enhance my Github portfolio with meaningful side projects that demonstrate end-to-end data solutions
 
