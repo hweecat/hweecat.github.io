@@ -30,8 +30,11 @@ I stumbled into public speaking when I attended Singapore Global CFP Diversity D
 * 21 February 2021: "Is Rainfall Getting Heavier? Building a Weather Forecasting Pipeline with Singapore Weather Station Data" at [FOSDEM 2021 Python Devroom](https://fosdem.org/2021/schedule/track/python/)
     - [Pre-recorded talk, post-processed by FOSDEM 2021 Python Devroom](http://mirroronet.pl/pub/mirrors/video.fosdem.org/2021/D.python/python_weather_pipeline.webm)
 
+* 6 December 2020: "Seeing Data in Multiple Dimensions: Hierarchical Indexing in Pandas and How to Visualize Them" at [PyJamas 2020](https://pyjamas.live)
+    - [Recording courtesy of PyJamas 2020](https://youtu.be/GxLJ05t5wbw)
+
 * 6 December 2020: "Is Rainfall Getting Heavier? Building a Weather Forecasting Pipeline with Singapore Weather Station Data" at [PyJamas 2020](https://pyjamas.live)
-    - Livestream recording [courtesy of PyJamas 2020](https://youtu.be/lrb3f8jtZqg?t=1800)
+    - Livestream recording [courtesy of PyJamas 2020](https://youtu.be/5IO9CDhh2Xg)
 
 * 15 November 2020: "Speed Up Your Data Processing: Parallel and Asynchronous Programming in Data Science" at [PyData Global](https://global.pydata.org/)
     - [Pre-recorded talk, post-processed by PyData Global](https://youtu.be/E9sv2B3Bb20)
