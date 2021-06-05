@@ -11,13 +11,13 @@ I stumbled into public speaking when I attended Singapore Global CFP Diversity D
 
 #### Conference
 
+* 28 - 30 July 2021: "Designing Functional Data Pipelines for Reproducibility and Maintainability" at [EuroPython 2021](https://ep2021.europython.eu/)
 
 ### Past talks
 
 #### Exclusives
 
 * 11 November 2020: [Wanted Spotlight - Breaking Data Episode 3: "How to Build Your Data Career Like A Business"](https://www.wanted.jobs/events/spotlight_breaking_data_ep3)
-    - [Get your VOD for $3!](https://www.wanted.jobs/events/spotlight_breaking_data_ep3)
 
 #### Invited Keynote
 
