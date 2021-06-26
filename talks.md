@@ -11,7 +11,7 @@ I stumbled into public speaking when I attended Singapore Global CFP Diversity D
 
 #### Conference
 
-* 28 - 30 July 2021: "Designing Functional Data Pipelines for Reproducibility and Maintainability" at [EuroPython 2021](https://ep2021.europython.eu/)
+* 29 July 2021: "Designing Functional Data Pipelines for Reproducibility and Maintainability" at [EuroPython 2021](https://ep2021.europython.eu/)
 
 ### Past talks
 
