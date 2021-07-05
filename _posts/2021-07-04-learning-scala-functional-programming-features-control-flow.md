@@ -27,7 +27,9 @@ Without "if-else", how do we write "control flow" in functional programming?
 
 The short answer: **function composition**.
 
-The long answer: A combination of function composition and functional data structures. As a deep-dive on each functional design pattern can be pretty lengthy, the focus of this post is to provide an overview of function composition and how it enables a more intuitive approach to desiging data pipelines.
+The long answer: A combination of function composition and functional data structures.
+
+As a deep-dive on each functional design pattern can be pretty lengthy, the focus of this post is to provide an overview of function composition and how it enables a more intuitive approach to designing data pipelines.
 
 ## A Brief Intro to Function Composition
 
