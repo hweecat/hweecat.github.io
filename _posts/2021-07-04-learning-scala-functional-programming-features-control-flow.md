@@ -85,8 +85,8 @@ When we look at the documentation for the Python built-in function `map`, it is 
 In Scala, each of the collection classes in package `scala.collections` and its subsets contain the `map` method that is defined by the following function signatures on ScalaDoc [5]:
 
 ```scala
-    def map[B](f: (A) => B): Iterable[B]    // for collection classes
-    def map[B](f: (A) => B): Iterator[B]    // for iterators that access elements of a collection
+def map[B](f: (A) => B): Iterable[B]    // for collection classes
+def map[B](f: (A) => B): Iterator[B]    // for iterators that access elements of a collection
 ```
 
 What the function signatures mean is that `map` takes a function input parameter `f`, and `f` transforms a generic input of type `A` to a resulting value of type `B`.
@@ -96,22 +96,22 @@ To square each value in a collection of integers, the **iterative approach** is 
 - In Python:
 
     ```python
-        def square(x):
-            return x * x
+    def square(x):
+        return x * x
 
-        def main(args):
+    def main(args):
 
-            collection = [1,2,3,4,5]
-            # initialize list to hold results
-            squared_collection = []
-            # loop till the end of the collection
-            for num in collection:
-                # square the current number 
-                squared = square(num)
-                # add the result to list
-                squared_collection.append(squared) 
+        collection = [1,2,3,4,5]
+        # initialize list to hold results
+        squared_collection = []
+        # loop till the end of the collection
+        for num in collection:
+            # square the current number 
+            squared = square(num)
+            # add the result to list
+            squared_collection.append(squared) 
 
-            print(squared_collection)   
+        print(squared_collection)   
     ```
 
 In the iterative approach, two state changes occur at each iteration within the loop:
@@ -124,32 +124,32 @@ To perform the same operation using a **functional approach** (i.e. without usin
 - In Python:
 
     ```python
-        def square(x):
-            return x * x
+    def square(x):
+        return x * x
 
-        def main(args):
+    def main(args):
 
-            collection = [1,2,3,4,5]
-            squared = list(map(square, collection))
-            print(squared)   
+        collection = [1,2,3,4,5]
+        squared = list(map(square, collection))
+        print(squared)   
     ```
 
 - In Scala:
 
     ```scala
-        object MapSquare {
+    object MapSquare {
 
-            def square(x: Int): Int = {
-                x * x
-            }
+        def square(x: Int): Int = {
+            x * x
+        }
 
-            def main(args: Array[String]) {
+        def main(args: Array[String]) {
 
-                val collection = List[1,2,3,4,5]
-                val squared = collection.map(square)
-                println(squared)
-            }
-        }    
+            val collection = List[1,2,3,4,5]
+            val squared = collection.map(square)
+            println(squared)
+        }
+    }    
     ```
 
 In both implementations, the `map` function accepts an input function that is applied to each element in a collection of values and returns a new collection containing the results. As `map` has the property of accepting another function as a parameter, it is a higher-order function.
@@ -166,24 +166,24 @@ When using higher-order functions, it is often convenient to be able to call inp
 In Python, anonymous functions are also known as **lambda expressions** due to their roots in lambda calculus. An anonymous function is created with the `lambda` keyword and wraps a single expression without using `def` or `return` keywords. For example, the `square` function in the previous example in Python can be expressed as an anonymous function in the `map` function, where the lambda expression `lambda x: x * x` is used as a function input parameter to `map`:
 
 ```python
-    def main(args):
+def main(args):
 
-        collection = [1,2,3,4,5]
-        squared = map(lambda x: x * x, collection)
-        print(squared)   
+    collection = [1,2,3,4,5]
+    squared = map(lambda x: x * x, collection)
+    print(squared)   
 ```
 
 In Scala, an anonymous function is defined in-line with the `=>` notation - where the function arguments are defined to the left of the `=>` arrow and the function expression is defined to the right of the `=>` arrow. For example, the `square` function in the previous example in Scala can be expressed as an anonymous function with the `(x: Int) => x * x` syntax and used as a function input parameter to `map`:
 
 ```scala
-    object MapSquareAnonymous {
+object MapSquareAnonymous {
 
-        def main(args: Array[String]) {
-            val collection = List[1,2,3,4,5]
-            val squared = collection.map((x: Int) => x * x)
-            println(squared) 
-        }
-    }    
+    def main(args: Array[String]) {
+        val collection = List[1,2,3,4,5]
+        val squared = collection.map((x: Int) => x * x)
+        println(squared) 
+    }
+}    
 ```
 
 A key benefit of using anonymous functions in higher-order functions is that single-use single-expression functions need not be wrapped explicitly within a named function definition, hence **optimizing lines of code** and **improving code maintainability**.
@@ -201,25 +201,25 @@ There are two possible iterative approaches to implementing a factorial function
 - In Python:
 
     ```python
-        def factorial_for(n):
-            # initialize variable to hold factorial
-            fact = 1
-            # loop from n to 1 in decrements of 1
-            for num in range(n, 1, -1):
-                # multiply current number with the current product
-                fact = fact * num
-            return fact
+    def factorial_for(n):
+        # initialize variable to hold factorial
+        fact = 1
+        # loop from n to 1 in decrements of 1
+        for num in range(n, 1, -1):
+            # multiply current number with the current product
+            fact = fact * num
+        return fact
 
-        def factorial_while(n):
-            # initialize variable to hold factorial
-            fact = 1
-            # loop till n reaches 1
-            while n >= 1:
-                # multiply current number with the current product
-                fact = fact * n
-                # subtract the number by 1
-                n = n - 1
-            return fact
+    def factorial_while(n):
+        # initialize variable to hold factorial
+        fact = 1
+        # loop till n reaches 1
+        while n >= 1:
+            # multiply current number with the current product
+            fact = fact * n
+            # subtract the number by 1
+            n = n - 1
+        return fact
     ```
 
 In both iterative implementations of the factorial function, two state changes occur at each iteration within the loop: 
@@ -233,18 +233,18 @@ The basic recursive approach for the factorial function looks like this:
 
 - In Python:
     ```python
-        def factorial(n):
-            # base case to return value
-            if n <= 0: return 1
-            # recursive function call with another set of inputs
-            return n * factorial(n-1)
+    def factorial(n):
+        # base case to return value
+        if n <= 0: return 1
+        # recursive function call with another set of inputs
+        return n * factorial(n-1)
     ```
 
 - In Scala: 
     ```scala
-        def factorial(n: Int): Long = {
-            if (n <= 0) 1 else n * factorial(n-1)
-        }
+    def factorial(n: Int): Long = {
+        if (n <= 0) 1 else n * factorial(n-1)
+    }
     ```  
 
 For the basic recursive approach, the factorial of 5 is evaluated in the following manner:
@@ -284,14 +284,14 @@ With this optimization, the space performance for the recursion function can be 
 For example, the factorial function can be expressed in the form of a tail recursion in Scala:
 
 ```scala
-    def factorialTailRec(n: Int): Long = {
-        def fact(n: Int, product: Long): Long = {
-            if (n <= 0) product
-            else fact(n-1, n * product)
-        }
-
-        fact(n, 1)
+def factorialTailRec(n: Int): Long = {
+    def fact(n: Int, product: Long): Long = {
+        if (n <= 0) product
+        else fact(n-1, n * product)
     }
+
+    fact(n, 1)
+}
 ```
 
 While tail-call optimization is automatically performed during compilation in Scala, it is not the case for Python. Moreover, there is a recursion limit in Python (the default value is 1000) as a prevention measure against an overflow of the C call stack for the CPython implementation.
