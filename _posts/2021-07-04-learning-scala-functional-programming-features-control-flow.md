@@ -273,7 +273,7 @@ For larger values of *n*, the recursion gets deeper with more function calls to 
 
 To prevent infinite recursion from causing stack overflow and crashing the program, some optimizations have to be made to the recursive function in order to reduce consumption of stack frames in the call stack. A possible approach in optimizing the recursive function is by rewriting it as a **tail recursive** function.
 
-A tail recursive function calls itself recursively and does not perform any computation after the recursive call returns. A function call is a **tail call** when it does nothing other than returning the value ofthe function call.
+A tail recursive function calls itself recursively and does not perform any computation after the recursive call returns. A function call is a **tail call** when it does nothing other than returning the value of the function call.
 
 In functional programming languages such as Scala, **tail-call optimization** is typically included in the compiler to identify tail calls and compile the recursion to iterative loops that do not consume stack frames for each iteration. In fact, the stack frame can be reused for both the recursion function and the function being called within the recursion function [1].
 
