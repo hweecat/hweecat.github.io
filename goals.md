@@ -14,10 +14,10 @@ My goal for 2021 is to:
     - Standby :sadface:
 
 2. Deliver talks in 4 tech conferences locally and internationally
-    - Tally: 1
+    - Tally: 2
 
-3. Pass CKAD exam by August 2021
-    - Bought course on Udemy with hands-on exercises
+3. <s>Pass CKAD exam by August 2021</s>
+    - [I passed CKAD!](https://www.credly.com/badges/01b47a0e-d05c-4b9b-8af0-7847bc260f55/public_url)
 
 4. Enhance my Github portfolio with meaningful side projects that demonstrate end-to-end data solutions
 

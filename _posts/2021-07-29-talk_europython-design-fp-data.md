@@ -90,7 +90,7 @@ Guess what? It almost happened a second time.
 
 As I felt that sitting down while delivering my talk might constrain my voice projection and restrict my momentum-driven (or adrenaline-driven) style of speaking, I decided to give the talk standing up - with piles and piles of books propping up the laptop and myself standing a distance away from the laptop with a presenter.
 
-Towards the second half of my talk, technical issues started cropping up as the audience started complaining about the audio cracking up. Next, I couldn't really hear the techncians when trying to reset the wireless buds connection and my Internet connection went offline.
+Towards the second half of my talk, technical issues started cropping up as the audience started complaining about the audio cracking up. Next, I couldn't really hear the technicians when trying to reset the wireless buds connection and my Internet connection went offline.
 
 By the time I managed to get back online with the audio resolved, I only had barely less than 3 minutes left in my timeslot.
 
