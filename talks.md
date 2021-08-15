@@ -5,13 +5,11 @@ permalink: /talks/
 ---
 
 
-I stumbled into public speaking when I attended Singapore Global CFP Diversity Day in March 2019, and subsequently got my first CFP submission accepted a few months later. I'm still pretty new to delivering talks in public, so I consider myself a work-in-progress speaker who is constantly learning from the audience.
+I stumbled into public speaking when I attended Singapore Global CFP Diversity Day in March 2019, and subsequently got my first CFP submission accepted a few months later. Since then, I have delivered more than 10 talks at various tech conferences regionally and internationally. As I can get pretty self-conscious when delivering talks in public (especially when talks are now remote), I consider myself a work-in-progress speaker who is constantly learning from the audience.
 
 ### Upcoming talks
 
-#### Conference
-
-* 29 July 2021: "Designing Functional Data Pipelines for Reproducibility and Maintainability" at [EuroPython 2021](https://ep2021.europython.eu/)
+None scheduled at the moment - check back for updates!
 
 ### Past talks
 
@@ -26,6 +24,8 @@ I stumbled into public speaking when I attended Singapore Global CFP Diversity D
     - Recording [courtesy of PyCode Conference](https://you.tube/uj7hHc6qYb0)
 
 #### Conference
+
+* 29 July 2021: [Designing Functional Data Pipelines for Reproducibility and Maintainability](https://hweecat.github.io/talk_europython-design-fp-data) at [EuroPython 2021](https://ep2021.europython.eu/)
 
 * 21 February 2021: "Is Rainfall Getting Heavier? Building a Weather Forecasting Pipeline with Singapore Weather Station Data" at [FOSDEM 2021 Python Devroom](https://fosdem.org/2021/schedule/track/python/)
     - [Pre-recorded talk, post-processed by FOSDEM 2021 Python Devroom](http://mirroronet.pl/pub/mirrors/video.fosdem.org/2021/D.python/python_weather_pipeline.webm)
