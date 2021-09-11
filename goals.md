@@ -29,7 +29,7 @@ My goal for 2021 is to:
 
 8. Make at least 4 Pull Requests on open-source projects
 
-9. Monetize my speaking engagements / expertise through designing a data engineering course
+9. Monetize my speaking engagements / expertise through designing a data engineering course (and other side hustles)
 
 ## 2020 Goals
 

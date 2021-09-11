@@ -34,8 +34,9 @@ More details on my speaking [here](https://hweecat.github.io/talks)
 
 #### Selected Talks and Media Features
 
+* [InfoWorld - 4 Reasons to get Kubernetes-certified, and 4 reasons not to](https://www.infoworld.com/article/3629750/4-reasons-to-get-kubernetes-certified-and-4-reasons-not-to.html)
+
 * [Wanted Spotlight - Breaking Data Episode 3: "How to Build Your Data Career Like A Business"](https://www.wanted.jobs/events/spotlight_breaking_data_ep3)
-    - [Get your VOD for $3!](https://www.wanted.jobs/events/spotlight_breaking_data_ep3)
 
 * [Making Open Weather Data More Accessible: Extracting Seasonal Insights from Singapore Weather Station Data](https://hweecat.github.io/talk_extracting_seasonal_insights_from_sg_weather_station_data/) at [OpenUP Global Summit 2019](https://www.openup.global/)
     - Recording [courtesy of Open UP Summit](https://www.youtube.com/watch?v=x8CtEtn0vsc)
