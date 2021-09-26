@@ -10,6 +10,7 @@ I stumbled into public speaking when I attended Singapore Global CFP Diversity D
 ### Upcoming talks
 
 * 28 - 30 October 2021: Designing Functional Data Pipelines for Reproducibility and Maintainability at [PyData Global 2021](https://pydata.org/global2021/)
+* 20 - 21 November 2021: Designing Functional Data Pipelines for Reproducibility and Maintainability at [PyCon APAC 2021](https://th.pycon.org/)
 
 ### Past talks
 
