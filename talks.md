@@ -27,6 +27,7 @@ I stumbled into public speaking when I attended Singapore Global CFP Diversity D
 #### Conference
 
 * 29 July 2021: [Designing Functional Data Pipelines for Reproducibility and Maintainability](https://hweecat.github.io/talk_europython-design-fp-data) at [EuroPython 2021](https://ep2021.europython.eu/)
+    - [Re-recorded due to live technical issues, recording courtesy of EuroPython 2021](https://www.youtube.com/watch?v=UY2WFPeEVN0)
 
 * 21 February 2021: "Is Rainfall Getting Heavier? Building a Weather Forecasting Pipeline with Singapore Weather Station Data" at [FOSDEM 2021 Python Devroom](https://fosdem.org/2021/schedule/track/python/)
     - [Pre-recorded talk, post-processed by FOSDEM 2021 Python Devroom](http://mirroronet.pl/pub/mirrors/video.fosdem.org/2021/D.python/python_weather_pipeline.webm)
