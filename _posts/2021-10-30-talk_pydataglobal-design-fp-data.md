@@ -96,7 +96,7 @@ Linking `map`/`filter` with Transformations and `reduce` with Actions in Apache 
 
 As the PyData audience is likely to be familiar with Apache Spark, I decided to add this particular reference to bring across this message:
 
-    If you have been using Apache Spark for distributed processing, you are probably using functional programming.
+> If you have been using Apache Spark for distributed processing, you are probably using functional programming.
 
 With that particular reference, I changed the structure of my talk for the functional design patterns section - from immutable data structures to map/filter/reduce, then a parallel with Apache Spark in the form of RDDs.
 
