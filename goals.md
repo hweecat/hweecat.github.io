@@ -14,9 +14,10 @@ My goal for 2021 is to:
     - Standby :sadface:
 
 2. Deliver talks in 4 tech conferences locally and internationally
-    - Tally: 2
+    - Tally: 4 (2 pre-recorded, 2 virtual live)
+    - Update 2021-10-31: **Goal achieved** - With my last live talk at PyData Global 2021 and the next conference (PyCon APAC 2021) being a pre-recorded talk, I have wrapped up on tech speaking for year 2021 and will be planning for year 2022.
 
-3. <s>Pass CKAD exam by August 2021</s>
+3. ~~Pass CKAD exam by August 2021~~
     - [I passed CKAD!](https://www.credly.com/badges/01b47a0e-d05c-4b9b-8af0-7847bc260f55/public_url)
 
 4. Enhance my Github portfolio with meaningful side projects that demonstrate end-to-end data solutions
@@ -27,7 +28,8 @@ My goal for 2021 is to:
 
 7. Make regular weekly updates to [my TIL blog](https://datadiaries.dev), which is built using [Pelican](https://getpelican.com)
 
-8. Make at least 4 Pull Requests on open-source projects
+8. ~~Make at least 4 Pull Requests on open-source projects~~
+    - Abandoned due to multiple competing commitments in advancing my tech career
 
 9. Monetize my speaking engagements / expertise through designing a data engineering course (and other side hustles)
 

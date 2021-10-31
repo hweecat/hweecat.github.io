@@ -86,7 +86,7 @@ A recap of what I went through during my talk:
 
 Getting my proposal accepted for PyData Global a second time was a surprise, given the polarising nature of my talk topic on functional programming and my string of disastrous live talks due to technical issues. 
 
-For my last virtual live talk of the year, I used an upgraded conferencing setup and modified the structure of my talk (first presented at EuroPython 2021) to include references to functional design patterns in Apache Spark.
+For my last virtual live talk of the year, I used an upgraded conferencing setup and modified the structure of my talk (first presented at [EuroPython 2021](https://hweecat.github.io/talk_europython-design-fp-data)) to include references to functional design patterns in Apache Spark.
 
 For the first time in close to a year, the curse of Murphy's Law in virtual live talks has finally been broken.
 
@@ -106,7 +106,7 @@ With that, I might have made my talk flow more logically and made my message cle
 
 1. Can I just emphasize once again that I experience a lot of speaker anxiety when I can't gauge audience feedback while speaking to the webcam? It's definitely showing up a lot in my virtual live talks.
 2. I choked pretty badly with the longer technical phrases, which resulted in my intontation becoming really clumsy.
-3. With the "5 more minutes" interruption towards the end, I was pretty much panicking internally which made the talk even faster. Thankfully (or not), i was already towards the end of my talk.
+3. With the "5 more minutes" interruption towards the end, I was pretty much panicking internally which made the talk even faster. Thankfully (or not), I was already towards the end of my talk.
 4. I got really burnt out by the end of my talk until I wasn't able to put my mind into watching the talks in the program for Day 2, because I was really worried that I messed up my talk badly enough and might not be able to speak at another conference again. Once again, this is related to my speaker anxiety that might require more time to reconcile with.
 
 ### Things that went well
