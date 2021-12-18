@@ -20,7 +20,7 @@ I keep track of my tech goals every year to keep myself on track in my tech care
 
 I stumbled into public speaking when I attended Singapore Global CFP Diversity Day in March 2019, and subsequently got my first CFP submission accepted a few months later. Since then, I have spoken at various meetups and conferences locally and internationally on a variety of topics including data processing, parallel and asynchronous programming, and contributing to the open source community.
 
-One of my speaking goals in 2021 is to monetize my speaking engagements. Let's discuss how I can add value to your next event in 2021!
+One of my speaking goals in 2022 is to monetize my speaking engagements. Let's discuss how I can add value to your next event in 2022!
 
 Topics that I speak on:
 
@@ -33,6 +33,9 @@ Topics that I speak on:
 More details on my speaking [here](https://hweecat.github.io/talks)
 
 #### Selected Talks and Media Features
+
+* [Designing Functional Data Pipelines for Reproducibility and Maintainability](https://hweecat.github.io/talk_pydataglobal-design-fp-data) at [PyData Global 2021](https://pydata.org/global2021/)
+    - [Next-day Zoom cloud recording](https://bit.ly/pg2021-design-fp-data-video)
 
 * [InfoWorld - 4 Reasons to get Kubernetes-certified, and 4 reasons not to](https://www.infoworld.com/article/3629750/4-reasons-to-get-kubernetes-certified-and-4-reasons-not-to.html)
 
