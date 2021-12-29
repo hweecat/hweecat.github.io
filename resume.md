@@ -22,8 +22,9 @@ Location: Singapore
 
 * Design, build and maintain DVS Data Platform and data applications on AWS to ensure high availability of reliable data for business decision-making 
 * Built and deployed scalable data pipelines and machine learning applications to production systems using Apache Spark, Scala and SQL 
-* Implemented a fully-integrated Quality of Service (QoS) Dashboard that provides near-realtime monitoring of QoS metrics with Amazon Kinesis Firehose, Amazon Redshift and Redash, providing actionable insights to improve service quality of providers in DT One's global network
-* Initiated refactoring of daily data ingestion pipelines from application databases to AWS data warehouse, enhancing observability and maintainability of mission-critical data pipelines by 100% using AWS Step Functions  
+* Designed the ETL architecture for a working inventory module that computes Cost of Goods Sold (COGS) in USD for all completed transactions using First-In-First-Out (FIFO) inventory costing method, enabling the automation of cost comparison between costing methods for inventory management purposes
+* Implemented a fully-integrated Quality of Service (QoS) Dashboard that provides near-realtime monitoring of QoS metrics with Amazon Redshift, Amazon Redshift Spectrum and Redash, providing actionable insights to improve service quality of providers in DT One's global network
+* Initiated refactoring of daily data ingestion pipelines from heterogeneous data sources (application databases, Zoho CRM) to AWS data warehouse, empowering business decision-makers to make more timely decisions with 50% speedup in daily business-critical report delivery while enhancing observability and maintainability of mission-critical data pipelines by 100% using AWS Step Functions
 * Optimized implementation and maintainability of deployed AWS cloud infrastructure through Infrastructure-as-Code using Terraform 
 
 ### ST ENGINEERING (Oct 2018 – Jan 2021)
@@ -52,6 +53,9 @@ Location: Singapore
 * Co-authored review paper on benchmarking of finishing processes for internal surfaces and passages which was subsequently published in a research journal
 
 ## Career Highlights
+
+* **[Designing Functional Data Pipelines for Reproducibility and Maintainability](https://bit.ly/pg2021-design-fp-data-video)**
+PyData Global 2021, 29 October 2021.
 
 * **["Is Rainfall Getting Heavier? Building a Weather Forecasting Pipeline with Singapore Weather Station Data"](http://mirroronet.pl/pub/mirrors/video.fosdem.org/2021/D.python/python_weather_pipeline.webm)**
 FOSDEM 2021 Python Devroom, 21 February 2021.
@@ -85,7 +89,8 @@ Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engin
 
 # Certifications
 
-[CKAD: Certified Kubernetes Application Developer](https://www.credly.com/badges/01b47a0e-d05c-4b9b-8af0-7847bc260f55/public_url)
+* [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/e9f6885a-6abe-4616-ba67-71d52666f69f?source=linked_in_profile)
+* [CKAD: Certified Kubernetes Application Developer](https://www.credly.com/badges/01b47a0e-d05c-4b9b-8af0-7847bc260f55/public_url)
 ## Education
 
 **Quantic School of Business and Technology (2019)**
@@ -119,7 +124,7 @@ Honours Thesis – Solar UAV: Propulsion System – Selection of Motor and Prope
 * Curriculum Mentor with BigDataX (Jan 2019 – present) 
 * Analytics and Research Contributor with CoronaTracker (Feb 2020 – present) 
 * Mentor for “Beginners Data Workshop for Minorities” at PyCon 2020 (May 2020) 
-* Member of Young Women’s Leadership Connection (Aug 2019 – present) 
+* Member Journey and Data Innovation Sub-committees, Young Women’s Leadership Connection (Aug 2021 – present) 
 * Regular performer with Raffles Alumni Chinese Orchestra (Jun 2010 – present) 
 
 ## Skills
