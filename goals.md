@@ -6,6 +6,28 @@ permalink: /goals/
 
 This is where I keep track of my tech goals every year to keep myself on track in my tech career journey.
 
+## 2022 Goals
+
+My goal for 2022 is to:
+
+1. Attain my seniority and become a Senior Data Engineer
+
+2. Speak at PyCon 2022 (Might as well give it another try, right?)
+
+3. Deliver talks in 2 tech conferences locally and internationally
+
+4. Pass AWS Certified Machine Learning Specialty exam by March 2022
+
+5. Enhance my Github portfolio with a meaningful side project that demonstrates end-to-end data / machine learning solutions
+
+6. Continue learning functional programming through writing more Scala code and documenting my learnings through my [functional programming series](https://hweecat.github.io/tag/functional-programming/)
+
+7. Write a tech post every month to document my learning journey and share with a wider audience
+
+8. Make regular weekly updates to [my TIL blog](https://datadiaries.dev), which is built using [Pelican](https://getpelican.com)
+
+9. Monetize my speaking engagements / expertise through designing a data engineering course (and other side hustles)
+
 ## 2021 Goals
 
 My goal for 2021 is to:
@@ -21,17 +43,22 @@ My goal for 2021 is to:
     - [I passed CKAD!](https://www.credly.com/badges/01b47a0e-d05c-4b9b-8af0-7847bc260f55/public_url)
 
 4. Enhance my Github portfolio with meaningful side projects that demonstrate end-to-end data solutions
+    - I attempted...[this functional data pipelines repo for Python 3.10](https://github.com/hweecat/python-functional-data-pipelines)
 
 5. Learn functional programming through writing Scala code and documenting my learnings
+    - Update 2021-12-31: Completed first two articles for my [functional programming series](https://hweecat.github.io/tag/functional-programming/)
 
 6. Write tech posts at least once a month to document my learning journey and (hopefully) share with more people
+    - Update 2021-12-31: I tried, but burnout and imposter syndrome got the better of me. :sadface:
 
 7. Make regular weekly updates to [my TIL blog](https://datadiaries.dev), which is built using [Pelican](https://getpelican.com)
+    - Update 2021-12-31: Same as above :sadface:
 
 8. ~~Make at least 4 Pull Requests on open-source projects~~
     - Abandoned due to multiple competing commitments in advancing my tech career
 
 9. Monetize my speaking engagements / expertise through designing a data engineering course (and other side hustles)
+    - Update 2021-12-30: Made a tiny first step! Stay tuned for more updates.
 
 ## 2020 Goals
 

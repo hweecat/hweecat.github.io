@@ -10,11 +10,13 @@ My background is not in Computer Science (I could have switched majors, but I re
 
 ### More Information
 
-My personal interests range from aviation to music (but sadly COVID-19 sent aviation into a long winter). I am also interested in photography, travel, and innovation.
+My personal interests range from aviation to music and finance (but sadly COVID-19 sent aviation into a long winter). I am also interested in photography, travel, and innovation.
 
 I'm currently <s>struggling</s> learning how to write well-functioning functional programming codes in Scala so that I can run Spark jobs in their native language, and how to make my Python codes run faster so that I can have more time to focus on machine learning. I enjoy having deep-dive discussions on how to make the world a better place through technology and human intelligence. I also have a [resume](https://hweecat.github.io/resume), if you're looking to hire someone for data science and engineering.
 
 I keep track of my tech goals every year to keep myself on track in my tech career journey, check them out [here](https://hweecat.github.io/goals).
+
+My top-priority goal in 2022 is to attain seniority and become a Senior Data Engineer. Leveling matters a lot for me as a data professional who takes my career progression seriously, as ["titles make a world of difference in establishing credibility" in my tech career](https://blog.pragmaticengineer.com/the-seniority-roller-coaster/) and are directly tied to future compensation and financial outcomes. If you are a data professional who would like a candid discussion on career progression in tech, let's connect!
 
 ### Talks
 

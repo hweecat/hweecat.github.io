@@ -68,10 +68,14 @@ Planning my speaking agenda for 2022
 
 * 20 November 2021: "What are the Cornerstones Every Big Data Environment Should Have to be Successful?" at [PyCon APAC 2021](https://th.pycon.org/)
 
+* 28 October 2021: [How to Get Started with Your Data Science Career](https://bit.ly/pg2021ip-ds-career) at [PyData Global 2021 Impact Program](https://pydata.org/global2021/diversity/)
+
 * 18 January 2020: "The conference speaking experience" at [Global CFP Diversity Day (Singapore) 2020 edition](https://ti.to/global-diversity-cfp-day-sg/2020-edition)
     - Recording [courtesy of Engineers.SG](https://youtu.be/Q5kxpRXVDyk)
 
 #### Meetup
+
+* 11 June 2021: [MAE Alumni Sharing on Transition to the Data Sciences Industry](https://docs.google.com/presentation/d/12l9GI6V6kHdhYY2wsItm8_44oabTg1f_whgCQF28-zU/edit#slide=id.gc6f9544c1_0_0)
 
 * 28 March 2020: [Just-in-Time with Numba](https://hweecat.github.io/talk_pyladies-jit-with-numba) at [PyLadies International Women's Month Lightning Talks](https://pyladies.com/)
 
