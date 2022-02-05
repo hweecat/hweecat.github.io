@@ -143,7 +143,7 @@ The associative property for the binary operator is a necessary condition to ens
 
 While the associative property is necessary for returning a deterministic result from the reduction function (a necessary condition for referential transparency), it is not a sufficient condition as the order of operations can yield different results in the case of *non-commutative binary operators* such as subtraction and division.
 
-What if we would like to specify the order of the operations to be performed on the elements of the collection?
+What if we would like to *specify the order of the operations* to be performed on the elements of the collection?
 
 In Scala, we have the `reduceLeft` and `reduceRight` methods in the collection classes which apply a binary operator cumulatively to all elements in the collection in left-to-right and right-to-left order respectively. The `reduceLeft` and `reduceRight` methods are defined by the following function signatures on ScalaDoc:
 
