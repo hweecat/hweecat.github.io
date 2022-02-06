@@ -2,7 +2,7 @@
 layout: post
 title: "Learning Scala as a Python Programmer: Higher-Order Functions for Functional Data Pipeline Design"
 description: "Fourth post for a series of posts on functional programming for data engineering"
-excerpt: "In my previous post on functional programming features for control flow, I provided an overview of function composition, and discussed the use of higher-order functions and recursion as a form of functional iteration. In this post, we will explore more on Higher-Order Functions and how they can be used in designing functional data pipelines."
+excerpt: "In my previous post on functional programming features for control flow, I provided an overview of function composition, and discussed the use of higher-order functions and recursion as a form of functional iteration. In this post, we will explore more on higher-order functions and how they can be used in designing functional data pipelines."
 tags: python scala functional-programming
 author: ongchinhwee
 largeimage: /images/data_pipeline_sketch.png
@@ -13,7 +13,7 @@ largeimage: /images/data_pipeline_sketch.png
 
 In my previous post on [functional programming features for "control flow"](https://hweecat.github.io/learning-scala-functional-programming-features-control-flow), I provided an overview of function composition, and discussed the use of higher-order functions and recursion as a form of "functional iteration".
 
-In this post, we will explore more on Higher-Order Functions and how they can be used in designing functional data pipelines.
+In this post, we will explore more on higher-order functions and how they can be used in designing functional data pipelines.
 
 Before that, let's start with how a typical data pipeline looks like.
 
@@ -30,7 +30,7 @@ In a typical data pipeline, we read data from a source, transform the data in so
 - **Transform**: In the data transformation phase, a series of functions are applied to the extracted data in order to prepare it for loading to the target data store.
 - **Load**: In the data load phase, the data is loaded into the target data store - it could be a flat file (such as CSV or Parquet) or data warehouse.
 
-## Higher-order Functions for Data Transformations
+## Higher-Order Functions for Data Transformations
 
 A simplified sketch of a typical ETL process from database source to flat file in S3 bucket is shown below:
 
@@ -241,7 +241,7 @@ In this post, we learn about:
 1. Data Pipeline design pattern
 2. Higher-Order Functions for data transformation: map, filter, reduce
 
-During our exploration on the map-filter-reduce trio of Higher Order Functions, we briefly mentioned two interesting concepts that are relevant to functional programming:
+During our exploration on the map-filter-reduce trio of higher-order functions, we briefly mentioned two interesting concepts that are relevant to functional programming:
 
 1. `reduce` as a special case of `fold`
 2. collection classes as data containers with built-in methods
