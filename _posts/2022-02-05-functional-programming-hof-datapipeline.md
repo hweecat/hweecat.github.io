@@ -2,7 +2,7 @@
 layout: post
 title: "Learning Scala as a Python Programmer: Higher-Order Functions for Functional Data Pipeline Design"
 description: "Fourth post for a series of posts on functional programming for data engineering"
-excerpt: "In my previous post on functional programming features for control flow, I provided an overview of function decomposition, and discussed the use of higher-order functions and recursion as a form of functional iteration. In this post, we will explore more on Higher-Order Functions and how they can be used in designing functional data pipelines."
+excerpt: "In my previous post on functional programming features for control flow, I provided an overview of function composition, and discussed the use of higher-order functions and recursion as a form of functional iteration. In this post, we will explore more on Higher-Order Functions and how they can be used in designing functional data pipelines."
 tags: python scala functional-programming
 author: ongchinhwee
 largeimage: /images/data_pipeline_sketch.png
@@ -11,7 +11,7 @@ largeimage: /images/data_pipeline_sketch.png
 
 ## Recap
 
-In my previous post on [functional programming features for "control flow"](https://hweecat.github.io/learning-scala-functional-programming-features-control-flow), I provided an overview of function decomposition, and discussed the use of higher-order functions and recursion as a form of "functional iteration".
+In my previous post on [functional programming features for "control flow"](https://hweecat.github.io/learning-scala-functional-programming-features-control-flow), I provided an overview of function composition, and discussed the use of higher-order functions and recursion as a form of "functional iteration".
 
 In this post, we will explore more on Higher-Order Functions and how they can be used in designing functional data pipelines.
 
@@ -216,7 +216,7 @@ Notice the **recursive pattern** in how the addition operations are evaluated du
 The built-in collection methods `sum`, `product`, `min`, and `max` are defined based on the `reduce` function [4] with their corresponding binary operators:
 
 |   method  |       operator      |
-|-----------|---------------------|
+|-----------|:-------------------:|
 |   `sum`   |  `+`                |
 | `product` |  `*`                |
 |   `min`   | `math.Ordering.min` |
@@ -232,7 +232,7 @@ To summarize, built-in higher order functions are useful in constructing a seque
 2. `filter` for selecting elements in a collection based on a boolean condition
 3. `reduce` for reducing a collection of elements into a single result with an associative operator between consecutive elements
 
-While `map` and `filter` returns a new collection that can be processed with subsequent higher-order functions, `reduce` returns a single cumulative value. Hence, the `reduce` method and its derivatives are usually implemented as the final transformation step when designing functional data pipelines.
+While `map` and `filter` returns a new collection that can be processed with subsequent higher-order functions, `reduce` returns a single cumulative value. Hence, the `reduce` method and its derivatives are usually implemented as the final transformation step when designing functional data pipelines with function composition.
 
 ## What's Next
 
