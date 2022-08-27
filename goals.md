@@ -11,18 +11,23 @@ This is where I keep track of my tech goals every year to keep myself on track i
 My goal for 2022 is to:
 
 1. Attain my seniority and become a Senior Data Engineer
+    - Update 2022-08-27: As of 2022-08-08, I am a Senior Data Engineer.
 
 2. Speak at PyCon 2022 (Might as well give it another try, right?)
+    - Rejected. :sadface:
 
 3. Deliver talks in 2 tech conferences locally and internationally
 
 4. Pass AWS Certified Machine Learning Specialty exam by March 2022
+    - Update 2022-08-27: Passed as of 2022-05-07.
 
 5. Enhance my Github portfolio with a meaningful side project that demonstrates end-to-end data / machine learning solutions
+    - Update 2022-08-27: I am currently working on a meaningful side project that demonstrates end-to-end data solutions for a non-profit. Not sure if the code repository (if any) would be hosted on Github though.
 
 6. Continue learning functional programming through writing more Scala code and documenting my learnings through my [functional programming series](https://hweecat.github.io/tag/functional-programming/)
 
 7. Write a tech post every month to document my learning journey and share with a wider audience
+    - Update 2022-08-27: Due to turbulent changes in my personal and professional life, I would have to cut down on documenting my learning journey publicly for the time being.
 
 8. Make regular weekly updates to [my TIL blog](https://datadiaries.dev), which is built using [Pelican](https://getpelican.com)
 

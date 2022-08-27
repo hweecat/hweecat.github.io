@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello! My name is Chin Hwee, and my day job is a Data Engineer at a <s>government-linked corporation in Singapore (so technically ah-gong keeps me off the streets)</s> fintech company that helps migrant workers stay in touch with their loved ones back home (so technically my work can potentially make the world a better place for them to live in).
+Hello! My name is Chin Hwee, and my day job is a Senior Data Engineer at a <s>government-linked corporation in Singapore (so technically ah-gong keeps me off the streets)</s> <s>fintech company that helps migrant workers stay in touch with their loved ones back home (so technically my work can potentially make the world a better place for them to live in)</s> nascent team in a superapp company that aims to deliver financial inclusion in one of the world's fastest-growing regions.
 
 My background is not in Computer Science (I could have switched majors, but I really love studying aerodynamics and aircraft propulsion too), but I've been relying on writing codes on-and-off to get myself through coursework since more than 10 years ago. I enjoy writing code and making my codes work, 'cos bugs are common and solving bugs helps keep my potentially-dangerous perfectionistic thoughts at bay.
 
@@ -16,7 +16,7 @@ I'm currently <s>struggling</s> learning how to write well-functioning functiona
 
 I keep track of my tech goals every year to keep myself on track in my tech career journey, check them out [here](https://hweecat.github.io/goals).
 
-My top-priority goal in 2022 is to attain seniority and become a Senior Data Engineer. Leveling matters a lot for me as a data professional who takes my career progression seriously, as ["titles make a world of difference in establishing credibility" in my tech career](https://blog.pragmaticengineer.com/the-seniority-roller-coaster/) and are directly tied to future compensation and financial outcomes. If you are a data professional who would like a candid discussion on career progression in tech, let's connect!
+My top-priority goal in 2022 is to attain seniority and become a Senior Data Engineer, and I have achieved that goal after a turbulent career journey. Leveling matters a lot for me as a data professional who takes my career progression seriously, as ["titles make a world of difference in establishing credibility" in my tech career](https://blog.pragmaticengineer.com/the-seniority-roller-coaster/) and are directly tied to future compensation and financial outcomes. If you are a data professional who would like a candid discussion on career progression in tech, let's connect!
 
 ### Talks
 

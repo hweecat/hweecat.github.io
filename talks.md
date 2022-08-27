@@ -9,7 +9,9 @@ I stumbled into public speaking when I attended Singapore Global CFP Diversity D
 
 ### Upcoming talks
 
-Planning my speaking agenda for 2022
+No free conference talks planned for 2022, as I have decided to go on a speaking break [to refocus on other pursuits that contribute direct ROI](https://hweecat.github.io/year-in-review-2021) (such as my new role as a Senior Data Engineer). I might consider speaking with an honorarium though, depending on my schedule and values alignment with the event. 
+
+In the meantime, I would greatly appreciate it if you could check out my recorded talks in the next section and [drop me a hello](mailto:hello@ongchinhwee.com?subject=Speaker%20Outreach) if you enjoyed and/or have learnt something interesting from any of my talks.
 
 ### Past talks
 
