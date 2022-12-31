@@ -10,15 +10,16 @@ This is where I keep track of my tech goals every year to keep myself on track i
 
 My goal for 2022 is to:
 
-1. Attain my seniority and become a Senior Data Engineer
+1. ~~Attain my seniority and become a Senior Data Engineer~~
     - Update 2022-08-27: As of 2022-08-08, I am a Senior Data Engineer.
 
 2. Speak at PyCon 2022 (Might as well give it another try, right?)
     - Rejected. :sadface:
 
 3. Deliver talks in 2 tech conferences locally and internationally
+    - Pivoted away to focus on my career transtiion.
 
-4. Pass AWS Certified Machine Learning Specialty exam by March 2022
+4. ~~Pass AWS Certified Machine Learning Specialty exam by March 2022~~
     - Update 2022-08-27: Passed as of 2022-05-07.
 
 5. Enhance my Github portfolio with a meaningful side project that demonstrates end-to-end data / machine learning solutions
