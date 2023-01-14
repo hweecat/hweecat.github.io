@@ -6,6 +6,22 @@ permalink: /goals/
 
 This is where I keep track of my tech goals every year to keep myself on track in my tech career journey.
 
+## 2023 Goals
+
+My goal for 2023 is to:
+
+1. Get back to delivering talks in at least 1 meetup by June 2023 and 1 tech conference by September 2023.
+
+2. Block out a weekend every month to write a tech post that documents my learning journey - sharing with a wider audience would be a bonus.
+
+3. Start generating content ideas that goes beyond technical implementation by reading and actively taking notes interesting things I read.
+    - Part of technical leadership is about being aware of the bigger picture and being a better human. This is one of the ways I intend to act upon my mentor's advice to build up my expert power.
+
+4. Continue learning functional programming through writing more Scala code and documenting my learnings through my [functional programming series](https://hweecat.github.io/tag/functional-programming/)
+    - This is a longer-term project that I intend to shape gradually on the side, to bridge the learning gap for data practitioners who would like to learn Scala for functional programming.
+
+5. Monetize my speaking engagements / expertise through designing a data engineering course (and other side hustles)
+
 ## 2022 Goals
 
 My goal for 2022 is to:
@@ -31,6 +47,7 @@ My goal for 2022 is to:
     - Update 2022-08-27: Due to turbulent changes in my personal and professional life, I would have to cut down on documenting my learning journey publicly for the time being.
 
 8. Make regular weekly updates to [my TIL blog](https://datadiaries.dev), which is built using [Pelican](https://getpelican.com)
+    - Similar to above; currently using Notion for quick note-taking on the go and still trying to find a suitable TIL approach that works for me.
 
 9. Monetize my speaking engagements / expertise through designing a data engineering course (and other side hustles)
 
