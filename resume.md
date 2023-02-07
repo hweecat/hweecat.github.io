@@ -14,7 +14,17 @@ GitHub: [https://github.com/hweecat](https://github.com/hweecat)
 
 ## Experience
 
-### DT ONE (formerly known as TRANSFERTO) (Jan 2021 - Present)
+### GRAB (Aug 2022 - Present)
+
+Senior Data Engineer, Digibank Engineering Indonesia
+
+Location: Singapore
+
+* Lead the requirements scoping, design and implementation of data pipelines and infrastructure to connect legacy and digital banking upstream systems with downstream financial and regulatory / Anti-Money Laundering modules for regulatory reporting, in compliance with regulatory requirements for obtaining a digital banking license to operate in Indonesia
+* Designed and built Type 2 SCD data models and ELT architecture that integrate core banking transactions with payments and treasury information for banking regulatory compliance use-cases using dbt (data build tool), PostgreSQL, Apache Spark and Airflow
+* Initiated enhancements to existing CI/CD workflow through migration of Airflow Helm chart from Terraform to Argo CD, enabling automated deployment of data platform services in Kubernetes clusters
+
+### DT ONE (formerly known as TRANSFERTO) (Jan 2021 - Aug 2022)
 
 Data Engineer, Digital Value Services (DVS)
 
