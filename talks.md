@@ -5,13 +5,21 @@ permalink: /talks/
 ---
 
 
-I stumbled into public speaking when I attended Singapore Global CFP Diversity Day in March 2019, and subsequently got my first CFP submission accepted a few months later. Since then, I have delivered more than 10 talks at various tech conferences regionally and internationally. As I can get pretty self-conscious when delivering talks in public (especially when talks are now remote), I consider myself a work-in-progress speaker who is constantly learning from the audience.
+I stumbled into public speaking when I attended Singapore Global CFP Diversity Day in March 2019, and subsequently got my first CFP submission accepted a few months later. Since then, I have delivered more than 10 talks at various tech conferences regionally and internationally. As I can get pretty self-conscious when delivering talks in public (especially in remote settings), I consider myself a work-in-progress speaker who is constantly learning from the audience.
+
+After 2 power-packed years of speaking at virtual conferences due to the COVID-19 pandemic (including EuroPython and PyData Global for 2 consecutive years), I went on a speaking break in 2022 [to refocus on other pursuits that contribute direct ROI](https://hweecat.github.io/year-in-review-2021) such as my full-time role as a Senior Data Engineer and other revenue-generating side hustles. With the return of in-person events, do look out for my [upcoming talks](#upcoming-talks) that are in the pipeline!
+
+In the meantime, I would greatly appreciate it if you could:
+
+1. Check out my recorded talks in the [Past Talks section](#past-talks).
+2. [Drop me a hello](mailto:hello@ongchinhwee.com?subject=Speaker%20Outreach) if you enjoyed and/or have learnt something interesting from any of my talks.
 
 ### Upcoming talks
 
-No free conference talks planned for 2022, as I have decided to go on a speaking break [to refocus on other pursuits that contribute direct ROI](https://hweecat.github.io/year-in-review-2021) (such as my new role as a Senior Data Engineer). I might consider speaking with an honorarium though, depending on my schedule and values alignment with the event. 
+* 30 March 2023: TBC at [Singapore dbt Meetup](https://www.meetup.com/singapore-dbt-meetup/events/291951191/)
 
-In the meantime, I would greatly appreciate it if you could check out my recorded talks in the next section and [drop me a hello](mailto:hello@ongchinhwee.com?subject=Speaker%20Outreach) if you enjoyed and/or have learnt something interesting from any of my talks.
+* 13 - 15 April 2023: "Modeling Data Fast, Slow and Back-In-Time: Change-Aware Dimensional Data Modeling in the Modern Data Stack" at [FOSSASIA Summit 2023](https://eventyay.com/e/7cfe0771)
+
 
 ### Past talks
 
@@ -28,7 +36,7 @@ In the meantime, I would greatly appreciate it if you could check out my recorde
 #### Conference
 
 * 20 November 2021: Designing Functional Data Pipelines for Reproducibility and Maintainability at [PyCon APAC 2021](https://th.pycon.org/)
-    - Pre-recorded talk, pending public release
+    - [Pre-recorded talk with live Q&A segment, post-processed by PyCon Thailand](https://www.youtube.com/watch?v=CuODFyWzRi4)
 
 * 29 October 2021: [Designing Functional Data Pipelines for Reproducibility and Maintainability](https://hweecat.github.io/talk_pydataglobal-design-fp-data) at [PyData Global 2021](https://pydata.org/global2021/)
     - [Next-day Zoom cloud recording](https://bit.ly/pg2021-design-fp-data-video)
