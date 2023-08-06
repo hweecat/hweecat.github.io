@@ -20,9 +20,10 @@ Senior Data Engineer, Digibank Engineering Indonesia
 
 Location: Singapore
 
-* Lead the requirements scoping, design and implementation of data pipelines and infrastructure to connect legacy and digital banking upstream systems with downstream financial and regulatory / Anti-Money Laundering modules for regulatory reporting, in compliance with regulatory requirements for obtaining a digital banking license to operate in Indonesia
-* Designed and built Type 2 SCD data models and ELT architecture that integrate core banking transactions with payments and treasury information for banking regulatory compliance use-cases using dbt (data build tool), PostgreSQL, Apache Spark and Airflow
+* Lead the requirements scoping, design and implementation of data pipelines and infrastructure to connect multiple legacy and digital banking upstream systems with downstream financial and regulatory / Anti-Money Laundering modules for regulatory reporting, ensuring compliance with regulatory requirements that is pivotal in obtaining a digital banking license to operate in Indonesia
+* Design and build Type 2 SCD data models and ELT architecture that integrate core banking transactions with payments and treasury information for banking regulatory compliance use-cases using dbt (data build tool), PostgreSQL, Apache Spark and Airflow
 * Initiated enhancements to existing CI/CD workflow through migration of Airflow Helm chart from Terraform to Argo CD, enabling automated deployment of data platform services in Kubernetes clusters
+* Assist in hiring process by conducting technical interviews to assess technical competencies and cultural fit of candidates
 
 ### DT ONE (formerly known as TRANSFERTO) (Jan 2021 - Aug 2022)
 
@@ -64,6 +65,9 @@ Location: Singapore
 
 ## Career Highlights
 
+* **[Modeling Data Fast, Slow and Back-In-Time: Change-Aware Dimensional Data Modeling in the Modern Data Stack](https://eventyay.com/e/7cfe0771/session/8121)**
+FOSSASIA Summit 2023, 15 Apil 2023.
+
 * **[Designing Functional Data Pipelines for Reproducibility and Maintainability](https://bit.ly/pg2021-design-fp-data-video)**
 PyData Global 2021, 29 October 2021.
 
@@ -99,7 +103,8 @@ Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engin
 
 # Certifications
 
-* [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/e9f6885a-6abe-4616-ba67-71d52666f69f?source=linked_in_profile)
+* [AWS Certified Machine Learning - Specialty](https://www.credly.com/badges/cdba9398-b7a1-436b-9731-7918bdbd6817/public_url)
+* [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/e9f6885a-6abe-4616-ba67-71d52666f69f)
 * [CKAD: Certified Kubernetes Application Developer](https://www.credly.com/badges/01b47a0e-d05c-4b9b-8af0-7847bc260f55/public_url)
 ## Education
 
