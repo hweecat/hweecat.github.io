@@ -16,10 +16,7 @@ In the meantime, I would greatly appreciate it if you could:
 
 ### Upcoming talks
 
-* 30 March 2023: TBC at [Singapore dbt Meetup](https://www.meetup.com/singapore-dbt-meetup/events/291951191/)
-
-* 13 - 15 April 2023: "Modeling Data Fast, Slow and Back-In-Time: Change-Aware Dimensional Data Modeling in the Modern Data Stack" at [FOSSASIA Summit 2023](https://eventyay.com/e/7cfe0771)
-
+No talks planned yet, but do look out for future talks!
 
 ### Past talks
 
@@ -34,6 +31,9 @@ In the meantime, I would greatly appreciate it if you could:
     - Recording [courtesy of PyCode Conference](https://you.tube/uj7hHc6qYb0)
 
 #### Conference
+
+* 15 April 2023: "Modeling Data Fast, Slow and Back-In-Time: Change-Aware Dimensional Data Modeling in the Modern Data Stack" at [FOSSASIA Summit 2023](https://eventyay.com/e/7cfe0771)
+    - Pending processed recording from FOSSASIA
 
 * 20 November 2021: Designing Functional Data Pipelines for Reproducibility and Maintainability at [PyCon APAC 2021](https://th.pycon.org/)
     - [Pre-recorded talk with live Q&A segment, post-processed by PyCon Thailand](https://www.youtube.com/watch?v=CuODFyWzRi4)
@@ -84,6 +84,10 @@ In the meantime, I would greatly appreciate it if you could:
     - Recording [courtesy of Engineers.SG](https://youtu.be/Q5kxpRXVDyk)
 
 #### Meetup
+
+* 12 April 2023: "Modeling Data Fast, Slow and Back-In-Time: Change-Aware Dimensional Data Modeling in the Modern Data Stack" at [Data Engineering Singapore Meetup](https://www.meetup.com/data-engineering-sg/events/292740355/)
+
+* 30 March 2023: "Your data is not static: Snapshots and incremental models for change data capture" at [Singapore dbt Meetup](https://www.meetup.com/singapore-dbt-meetup/events/291951191/)
 
 * 11 June 2021: [MAE Alumni Sharing on Transition to the Data Sciences Industry](https://docs.google.com/presentation/d/12l9GI6V6kHdhYY2wsItm8_44oabTg1f_whgCQF28-zU/edit#slide=id.gc6f9544c1_0_0)
 
