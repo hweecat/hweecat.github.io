@@ -5,7 +5,7 @@ permalink: /talks/
 ---
 
 
-I stumbled into public speaking when I attended Singapore Global CFP Diversity Day in March 2019, and subsequently got my first CFP submission accepted a few months later. Since then, I have delivered more than 10 talks at various tech conferences regionally and internationally. As I can get pretty self-conscious when delivering talks in public (especially in remote settings), I consider myself a work-in-progress speaker who is constantly learning from the audience.
+I stumbled into public speaking when I attended Singapore Global CFP Diversity Day in March 2019, and subsequently got my first CFP submission accepted a few months later. Since then, I have delivered more than 10 talks at various tech conferences regionally and internationally. As I can get pretty self-conscious when delivering talks in public (especially in remote settings), I consider myself a work-in-progress speaker who is constantly learning from the audience and fellow established speakers on the international conference speaking circuit.
 
 After 2 power-packed years of speaking at virtual conferences due to the COVID-19 pandemic (including EuroPython and PyData Global for 2 consecutive years), I went on a speaking break in 2022 [to refocus on other pursuits that contribute direct ROI](https://hweecat.github.io/year-in-review-2021) such as my full-time role as a Senior Data Engineer and other revenue-generating side hustles. With the return of in-person events, do look out for my [upcoming talks](#upcoming-talks) that are in the pipeline!
 
@@ -16,10 +16,13 @@ In the meantime, I would greatly appreciate it if you could:
 
 ### Upcoming talks
 
-* 30 March 2023: TBC at [Singapore dbt Meetup](https://www.meetup.com/singapore-dbt-meetup/events/291951191/)
+I am currently selectively available for discussion on potential talks and collaborations on the following topics:
 
-* 13 - 15 April 2023: "Modeling Data Fast, Slow and Back-In-Time: Change-Aware Dimensional Data Modeling in the Modern Data Stack" at [FOSSASIA Summit 2023](https://eventyay.com/e/7cfe0771)
+1. Change-Aware Dimensional Data Modeling in the Modern Data Stack
+2. Machine Learning Operations in Digital Banking
+3. Emotional Regulation for Technical Leaders
 
+Please [reach out to me](mailto:hello@ongchinhwee.com?subject=Speaker%20Request) if you would like to collaborate and sponsor my next conference talk.
 
 ### Past talks
 
@@ -34,6 +37,11 @@ In the meantime, I would greatly appreciate it if you could:
     - Recording [courtesy of PyCode Conference](https://you.tube/uj7hHc6qYb0)
 
 #### Conference
+
+* 9 September 2024: [Modeling Data Fast, Slow and Back-In-Time: Change-Aware Dimensional Data Modeling in the Modern Data Stack](https://bit.ly/pgibz-change-aware-data) at [Postgres Ibiza 2024](https://pgibz.io/schedule.html)
+
+* 15 April 2023: [Modeling Data Fast, Slow and Back-In-Time: Change-Aware Dimensional Data Modeling in the Modern Data Stack](https://bit.ly/fossasia-change-aware-data) at [FOSSASIA Summit 2023](https://eventyay.com/e/7cfe0771)
+    - Recording [courtesy of FOSSASIA](https://youtu.be/9nLGrHITKN8)
 
 * 20 November 2021: Designing Functional Data Pipelines for Reproducibility and Maintainability at [PyCon APAC 2021](https://th.pycon.org/)
     - [Pre-recorded talk with live Q&A segment, post-processed by PyCon Thailand](https://www.youtube.com/watch?v=CuODFyWzRi4)
@@ -84,6 +92,10 @@ In the meantime, I would greatly appreciate it if you could:
     - Recording [courtesy of Engineers.SG](https://youtu.be/Q5kxpRXVDyk)
 
 #### Meetup
+
+* 12 April 2023: [Modeling Data Fast, Slow and Back-In-Time: Change-Aware Dimensional Data Modeling in the Modern Data Stack](https://docs.google.com/presentation/d/1ZlqTkS-CA5hqDuDp1sPrR8LOfu_jjIwGXNbv-5iHWio/edit?usp=sharing) at Data Engineering Singapore
+
+* 30 March 2023: [Your data is not static: Snapshots and incremental models for change data capture](https://bit.ly/dbtsg2023-change-aware-data) at [Singapore dbt Meetup](https://www.meetup.com/singapore-dbt-meetup/events/291951191/)
 
 * 11 June 2021: [MAE Alumni Sharing on Transition to the Data Sciences Industry](https://docs.google.com/presentation/d/12l9GI6V6kHdhYY2wsItm8_44oabTg1f_whgCQF28-zU/edit#slide=id.gc6f9544c1_0_0)
 
