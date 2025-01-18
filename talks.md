@@ -16,6 +16,8 @@ In the meantime, I would greatly appreciate it if you could:
 
 ### Upcoming talks
 
+* 13 - 15 March 2025: "Your Data is Late Again! Handling Late-Arriving Data in the Modern Data Stack" at [FOSSASIA Summit 2025](https://www.eventyay.com/e/4c0e0c27)
+
 I am currently selectively available for discussion on potential talks and collaborations on the following topics:
 
 1. Change-Aware Dimensional Data Modeling in the Modern Data Stack
