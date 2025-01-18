@@ -22,15 +22,15 @@ My top-priority goal in 2022 is to attain seniority and become a Senior Data Eng
 
 I stumbled into public speaking when I attended Singapore Global CFP Diversity Day in March 2019, and subsequently got my first CFP submission accepted a few months later. Since then, I have spoken at various meetups and conferences locally and internationally on a variety of topics including data processing, parallel and asynchronous programming, and contributing to the open source community.
 
-One of my speaking goals in 2022 is to monetize my speaking engagements. Let's discuss how I can add value to your next event in 2022!
+One of my speaking goals in 2025 is to monetize my speaking engagements. Let's discuss how I can add value to your next event in 2025!
 
 Topics that I speak on:
 
-1. Data Processing
+1. Data Processing and Dimensional Data Modeling in the Modern Data Stack
 2. Parallel and Asynchronous Programming for Data Science
-3. Data / Machine Learning Pipelines for Time-Series Data
-4. Contributing to the Open Source Community
-5. Building Your Tech Career like a Business
+3. Machine Learning Operations in Digital Banking
+4. Building Your Tech Career like a Business
+5. Emotional Regulation for Technical Leaders
 
 More details on my speaking [here](https://hweecat.github.io/talks)
 
