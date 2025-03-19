@@ -16,7 +16,7 @@ In the meantime, I would greatly appreciate it if you could:
 
 ### Upcoming talks
 
-* 13 - 15 March 2025: "Your Data is Late Again! Handling Late-Arriving Data in the Modern Data Stack" at [FOSSASIA Summit 2025](https://www.eventyay.com/e/4c0e0c27)
+Currently in the works!
 
 I am currently selectively available for discussion on potential talks and collaborations on the following topics:
 
@@ -39,6 +39,9 @@ Please [reach out to me](mailto:hello@ongchinhwee.com?subject=Speaker%20Request)
     - Recording [courtesy of PyCode Conference](https://you.tube/uj7hHc6qYb0)
 
 #### Conference
+
+* 13 March 2025: [Your Data is Late Again! Handling Late-Arriving Data in the Modern Data Stack](https://bit.ly/fossasia-late-arriving-data) at [FOSSASIA Summit 2025](https://www.eventyay.com/e/4c0e0c27)
+    - Same-day livestream recording [courtesy of FOSSASIA](https://www.youtube.com/live/KmG1INignNo?si=-EBUXs7EcSqahggN&t=14390)
 
 * 9 September 2024: [Modeling Data Fast, Slow and Back-In-Time: Change-Aware Dimensional Data Modeling in the Modern Data Stack](https://bit.ly/pgibz-change-aware-data) at [Postgres Ibiza 2024](https://pgibz.io/schedule.html)
 
