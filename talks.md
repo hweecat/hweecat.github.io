@@ -41,7 +41,7 @@ Please [reach out to me](mailto:hello@ongchinhwee.com?subject=Speaker%20Request)
 #### Conference
 
 * 13 March 2025: [Your Data is Late Again! Handling Late-Arriving Data in the Modern Data Stack](https://bit.ly/fossasia-late-arriving-data) at [FOSSASIA Summit 2025](https://www.eventyay.com/e/4c0e0c27)
-    - Same-day livestream recording [courtesy of FOSSASIA](https://www.youtube.com/live/KmG1INignNo?si=-EBUXs7EcSqahggN&t=14390)
+    - Recording [courtesy of FOSSASIA](https://youtu.be/zZhmoGs-Biw)
 
 * 9 September 2024: [Modeling Data Fast, Slow and Back-In-Time: Change-Aware Dimensional Data Modeling in the Modern Data Stack](https://bit.ly/pgibz-change-aware-data) at [Postgres Ibiza 2024](https://pgibz.io/schedule.html)
 
