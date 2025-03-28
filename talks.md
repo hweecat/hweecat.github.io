@@ -89,6 +89,9 @@ Please [reach out to me](mailto:hello@ongchinhwee.com?subject=Speaker%20Request)
 
 #### Panel
 
+* 20 March 2025: [Let's Get Technical: Data Analytics in Every Industry](https://lu.ma/ekd18i38) with General Assembly
+    - Comment highlight from attendees: "I think getting industry leaders and experts to speak on the subject is really relevant and useful for people who don't come from the industry. Keep it up!" 
+
 * 20 November 2021: "What are the Cornerstones Every Big Data Environment Should Have to be Successful?" at [PyCon APAC 2021](https://th.pycon.org/)
 
 * 28 October 2021: [How to Get Started with Your Data Science Career](https://bit.ly/pg2021ip-ds-career) at [PyData Global 2021 Impact Program](https://pydata.org/global2021/diversity/)
