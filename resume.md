@@ -20,8 +20,10 @@ Senior Data Engineer, Digibank Engineering Indonesia
 
 Location: Singapore
 
-* Lead the requirements scoping, design and implementation of data pipelines and infrastructure to connect multiple legacy and digital banking upstream systems with downstream financial and regulatory / Anti-Money Laundering modules for regulatory reporting, ensuring compliance with regulatory requirements that is pivotal in obtaining a digital banking license to operate in Indonesia
-* Design and build Type 2 SCD data models and ELT architecture that integrate core banking transactions with payments and treasury information for banking regulatory compliance use-cases using dbt (data build tool), PostgreSQL, Apache Spark and Airflow
+* Lead the requirements scoping, design and implementation of data pipelines and infrastructure to connect legacy and digital banking upstream systems with downstream financial and regulatory / Anti-Money Laundering modules for regulatory reporting, in compliance with regulatory requirements for obtaining a digital banking license to operate in Indonesia
+* Lead the strategic design, technical roadmap, and overall implementation of Superbank's MLOps platform architecture, enabling the deployment of ML models as APIs that empower decision-making in other banking services 
+* Designed and built Type 2 SCD data models and ELT architecture that integrate core banking transactions with payments and treasury information for banking regulatory compliance use-cases using dbt (data build tool), PostgreSQL, Apache Spark and Airflow
+* Led the strategic design, planning, and implementation of a system-wide migration of Superbank's data models, data pipelines and data platform infrastructure from Postgres to Snowflake within 3 months with minimal impact on business-as-usual activities, ensuring data platform scalability and stability leading up to the Indonesia Digibank's public launch 
 * Initiated enhancements to existing CI/CD workflow through migration of Airflow Helm chart from Terraform to Argo CD, enabling automated deployment of data platform services in Kubernetes clusters
 * Assist in hiring process by conducting technical interviews to assess technical competencies and cultural fit of candidates
 
@@ -65,8 +67,11 @@ Location: Singapore
 
 ## Career Highlights
 
-* **[Modeling Data Fast, Slow and Back-In-Time: Change-Aware Dimensional Data Modeling in the Modern Data Stack](https://eventyay.com/e/7cfe0771/session/8121)**
-FOSSASIA Summit 2023, 15 Apil 2023.
+* **[Modeling Data Fast, Slow and Back-In-Time: Change-Aware Dimensional Data Modeling in the Modern Data Stack](https://bit.ly/pgibz-change-aware-data)**
+Postgres Ibiza, 9 September 2024.
+
+* **[Modeling Data Fast, Slow and Back-In-Time: Change-Aware Dimensional Data Modeling in the Modern Data Stack](https://bit.ly/fossasia-change-aware-data)**
+FOSSASIA Summit 2023, 15 April 2023.
 
 * **[Designing Functional Data Pipelines for Reproducibility and Maintainability](https://bit.ly/pg2021-design-fp-data-video)**
 PyData Global 2021, 29 October 2021.
