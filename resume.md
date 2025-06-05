@@ -28,7 +28,7 @@ Location: Singapore
 * Led the requirements scoping, design and implementation of data pipelines and infrastructure to connect upstream systems with downstream regulatory reporting / Anti-Money Laundering modules, enabling Superbank to obtain and maintain a digital banking license in Indonesia
 * Designed and built Type 2 SCD data models and ELT architecture that integrate core banking transactions with payments and treasury information for banking regulatory compliance use-cases using dbt (data build tool), PostgreSQL, Apache Spark and Airflow, contributing to the Indonesia Digibank's success in obtaining a digital banking license
 * Initiated enhancements to existing CI/CD workflow through migration of Airflow Helm chart from Terraform to Argo CD, enabling automated deployment of data platform services in Kubernetes clusters
-* Assist in hiring process by conducting technical interviews to assess technical competencies and cultural fit of candidates
+* Assist in hiring process by conducting technical interviews to assess technical competencies and cultural fit of candidates, enabling the successful hiring of 3 senior/mid-level engineers
 
 ### DT ONE (formerly known as TRANSFERTO) (Jan 2021 - Aug 2022)
 
