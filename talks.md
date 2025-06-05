@@ -44,6 +44,9 @@ Please [reach out to me](mailto:hello@ongchinhwee.com?subject=Speaker%20Request)
 
 #### Conference
 
+* 9 May 2025: [Your Data is Late Again! Handling Late-Arriving Data in the Modern Data Stack](https://bit.ly/mdsfest-late-arriving-data) at [MDS Fest 3.0](https://mds-fest.heysummit.com/talks/your-data-is-late-again-handling-late-arriving-data-in-the-modern-data-stack/)
+    - Recording [courtesy of Secoda](https://www.secoda.co/mds-fest-3-0/your-data-is-late-again-handling-late-arriving-data-in-the-modern-data-stack)
+
 * 13 March 2025: [Your Data is Late Again! Handling Late-Arriving Data in the Modern Data Stack](https://bit.ly/fossasia-late-arriving-data) at [FOSSASIA Summit 2025](https://www.eventyay.com/e/4c0e0c27)
     - Recording [courtesy of FOSSASIA](https://youtu.be/zZhmoGs-Biw)
 

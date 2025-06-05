@@ -20,10 +20,13 @@ Senior Data Engineer, Digibank Engineering Indonesia
 
 Location: Singapore
 
-* Lead the requirements scoping, design and implementation of data pipelines and infrastructure to connect legacy and digital banking upstream systems with downstream financial and regulatory / Anti-Money Laundering modules for regulatory reporting, in compliance with regulatory requirements for obtaining a digital banking license to operate in Indonesia
-* Lead the strategic design, technical roadmap, and overall implementation of Superbank's MLOps platform architecture, enabling the deployment of ML models as APIs that empower decision-making in other banking services 
-* Designed and built Type 2 SCD data models and ELT architecture that integrate core banking transactions with payments and treasury information for banking regulatory compliance use-cases using dbt (data build tool), PostgreSQL, Apache Spark and Airflow
-* Led the strategic design, planning, and implementation of a system-wide migration of Superbank's data models, data pipelines and data platform infrastructure from Postgres to Snowflake within 3 months with minimal impact on business-as-usual activities, ensuring data platform scalability and stability leading up to the Indonesia Digibank's public launch 
+* Lead technical direction on data product design, solution architecture, and implementation of dimensional data models, data infrastructure and cross-domain ELT pipelines for banking, analytics, data science feature store and reverse ETL use-cases on Superbank’s AWS EKS (Elastic Kubernetes Service) data platform using dbt (data build tool), Snowflake, PostgreSQL, Apache Spark and Airflow
+* Led cross-functional requirements analyses, design and implementation of data products that integrate customer and transactions data with payments and ecosystems data to propose customer status changes to banking systems based on customer-initiated activities across all product verticals, enabling automated account dormancy process flows to minimize the risk of fraudulent activity
+* Designed and implemented a data quality and reconciliation workflow that delivers daily data reconciliation and data quality reports to Slack, providing a unified interface for backend teams to monitor data consistency across systems and enabling data-driven tech debt prioritization across product squads
+* Lead the strategic design, technical roadmap, and overall implementation of Superbank's MLOps platform architecture with Amazon SageMaker, enabling full-cycle development and deployment of machine learning models as APIs that enhance loan underwriting decision-making and identity fraud prevention
+* Spearheaded the strategic design, planning, and implementation of a system-wide migration of Superbank's data pipelines and platform infrastructure from Postgres to Snowflake within 3 months with minimal impact on business-as-usual activities, ensuring data platform scalability and stability leading up to the Indonesia Digibank's public launch in 2024
+* Led the requirements scoping, design and implementation of data pipelines and infrastructure to connect upstream systems with downstream regulatory reporting / Anti-Money Laundering modules, enabling Superbank to obtain and maintain a digital banking license in Indonesia
+* Designed and built Type 2 SCD data models and ELT architecture that integrate core banking transactions with payments and treasury information for banking regulatory compliance use-cases using dbt (data build tool), PostgreSQL, Apache Spark and Airflow, contributing to the Indonesia Digibank's success in obtaining a digital banking license
 * Initiated enhancements to existing CI/CD workflow through migration of Airflow Helm chart from Terraform to Argo CD, enabling automated deployment of data platform services in Kubernetes clusters
 * Assist in hiring process by conducting technical interviews to assess technical competencies and cultural fit of candidates
 
@@ -67,40 +70,46 @@ Location: Singapore
 
 ## Career Highlights
 
-* **[Modeling Data Fast, Slow and Back-In-Time: Change-Aware Dimensional Data Modeling in the Modern Data Stack](https://bit.ly/pgibz-change-aware-data)**
-Postgres Ibiza, 9 September 2024.
+* **[Your Data is Late Again! Handling Late-Arriving Data in the Modern Data Stack](https://mds-fest.heysummit.com/talks/your-data-is-late-again-handling-late-arriving-data-in-the-modern-data-stack/)**
+MDS Fest 3.0, 9 May 2025, Remote.
 
-* **[Modeling Data Fast, Slow and Back-In-Time: Change-Aware Dimensional Data Modeling in the Modern Data Stack](https://bit.ly/fossasia-change-aware-data)**
-FOSSASIA Summit 2023, 15 April 2023.
+* **[Your Data is Late Again! Handling Late-Arriving Data in the Modern Data Stack](https://www.eventyay.com/e/4c0e0c27)**
+FOSSASIA Summit 2025, 13 March 2025, Bangkok, Thailand.
+
+* **[Modeling Data Fast, Slow and Back-In-Time: Change-Aware Dimensional Data Modeling in the Modern Data Stack](https://pgibz.io/schedule.html)**
+Postgres Ibiza 2024, 9 September 2024, Ibiza, Spain.
+
+* **[Modeling Data Fast, Slow and Back-In-Time: Change-Aware Dimensional Data Modeling in the Modern Data Stack](https://eventyay.com/e/7cfe0771/session/8121)**
+FOSSASIA Summit 2023, 15 Apil 2023, Singapore.
 
 * **[Designing Functional Data Pipelines for Reproducibility and Maintainability](https://bit.ly/pg2021-design-fp-data-video)**
-PyData Global 2021, 29 October 2021.
+PyData Global 2021, 29 October 2021, Remote.
 
 * **["Is Rainfall Getting Heavier? Building a Weather Forecasting Pipeline with Singapore Weather Station Data"](http://mirroronet.pl/pub/mirrors/video.fosdem.org/2021/D.python/python_weather_pipeline.webm)**
-FOSDEM 2021 Python Devroom, 21 February 2021.
+FOSDEM 2021 Python Devroom, 21 February 2021, Remote.
 
 * **["Speed Up Your Data Processing: Parallel and Asynchronous Programming in Data Science"](https://youtu.be/E9sv2B3Bb20)**
-PyData Global 2020, 15 November 2020.
+PyData Global 2020, 15 November 2020, Remote.
 
 * **[“Speed Up Your Data Processing: Parallel and Asynchronous Programming in Python.”](https://youtu.be/w2eUdxPQQ78)**
-PyCon Taiwan 2020, 6 September 2020.
+PyCon Taiwan 2020, 6 September 2020, Remote.
 
 * **["Speed Up Your Data Processing."](https://you.tube/PB7_5BQp1SU)**
-EuroPython 2020. 23 July 2020.
+EuroPython 2020. 23 July 2020, Remote.
 
 * **“Just-in-Time With Numba.”**
-Remote Python Pizza. 25 April 2020. 
+Remote Python Pizza. 25 April 2020, Remote. 
 
 * **[“Speed Up Your Data Processing: Parallel and Asynchronous Programming in Python.”](https://youtu.be/aB6f5KicM2Y)**  
-FOSSASIA Summit 2020. 20 March 2020. 
+FOSSASIA Summit 2020. 20 March 2020, Singapore. 
 
 * **[“Interview with Ong Chin Hwee.”](https://www.pandanistas.org/interview-with-ong-chin-hwee.html)** 
 Pandanistas, 7 March 2020. 
 
 * **[“Making Open Data More Accessible: Extracting Seasonal Insights from Singapore Open Weather Data.”](https://youtu.be/x8CtEtn0vsc)**
-Open UP Global Summit. 1 December 2019. 
+Open UP Global Summit. 1 December 2019, Taipei, Taiwan. 
 
-* **[“How to Make Your Data Processing Faster – Parallel Processing and JIT in Data Science.”](https://youtu.be/RX5rlt3jAt0)** Women Who Code Connect Asia. 31 August 2019. 
+* **[“How to Make Your Data Processing Faster – Parallel Processing and JIT in Data Science.”](https://youtu.be/RX5rlt3jAt0)** Women Who Code Connect Asia. 31 August 2019, Singapore.
 
 * **[“Non-traditional finishing processes for internal surfaces and passages: A review.”](https://journals.sagepub.com/doi/abs/10.1177/0954405415626087)**
 K.L., Tan, S.H., Yeo, and C.H., Ong. 
