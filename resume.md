@@ -179,7 +179,7 @@ Honours Thesis – Solar UAV: Propulsion System – Selection of Motor and Prope
 
 * Experience in mathematical modelling, data processing, machine learning, scripting and workflow automation using MATLAB, C/C++, Python, SQL and Scala. 
 * Experience in parallel implementation of numerical codes using multiprocessing and OpenMPI modules. 
-* Familiarity with cloud computing (AWS, Google Cloud Platform, OpenStack), Docker, Kubernetes, Apache Airflow, Terraform, Linux, Bash scripting, Git (GitHub, GitLab, Team Foundation Server).
+* Expertise in cloud computing (AWS, Google Cloud Platform, OpenStack), Docker, Kubernetes, Apache Airflow, Terraform, Linux, Bash scripting, GitOps (GitHub, GitLab).
 
 ### Language Skills
 
