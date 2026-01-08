@@ -117,11 +117,14 @@ Open UP Global Summit. 1 December 2019, Taipei, Taiwan.
 K.L., Tan, S.H., Yeo, and C.H., Ong. 
 Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture, 27 January 2016. doi: 10.1177/0954405415626087.
 
-# Certifications
+## Certifications
 
-* [AWS Certified Machine Learning - Specialty](https://www.credly.com/badges/cdba9398-b7a1-436b-9731-7918bdbd6817/public_url)
+* [CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/dff9619f-6847-4ad3-9a37-4541af5f2c5b)
+* [AWS Certified Solutions Architect - Professional](https://www.credly.com/badges/7d34a19c-4ffe-44a7-a64a-6ff0b4e44af5)
 * [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/e9f6885a-6abe-4616-ba67-71d52666f69f)
-* [CKAD: Certified Kubernetes Application Developer](https://www.credly.com/badges/01b47a0e-d05c-4b9b-8af0-7847bc260f55/public_url)
+* [AWS Certified Machine Learning - Specialty](https://www.credly.com/badges/cdba9398-b7a1-436b-9731-7918bdbd6817/public_url) (expired May 2025)
+* [CKAD: Certified Kubernetes Application Developer](https://www.credly.com/badges/01b47a0e-d05c-4b9b-8af0-7847bc260f55/public_url) (expired August 2024)
+
 ## Education
 
 **Quantic School of Business and Technology (2019)**
