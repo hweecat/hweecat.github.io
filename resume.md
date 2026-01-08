@@ -140,7 +140,7 @@ NUS Enterprise Summer Programme 2018
 Specialization Project – Numerical Simulation on Noise Reduction Using Bio-Inspired Propeller Designs
 * In collaboration with Temasek Laboratories @ NUS (T-Lab @ NUS) 
 
-**Nanyang Technological University (2010 – 2014)**
+**Nanyang Technological University**
 
 B.Eng. (Hons.) (Aerospace Engineering) with Minor in Business 
 
