@@ -20,10 +20,11 @@ Currently in the works!
 
 I am currently selectively available for discussion on potential talks and collaborations on the following topics:
 
-1. Change-Aware Dimensional Data Modeling in the Modern Data Stack
-2. Machine Learning Operations in Digital Banking
-3. AI + Data Engineering
-4. Emotional Regulation for Technical Leaders
+1. Data Processing and Dimensional Data Modeling in the Modern Data Stack
+2. Parallel and Asynchronous Programming for Data Science
+3. Machine Learning Operations in Digital Banking
+4. AI + Data Engineering
+5. Emotional Regulation for First-Time Technical Leaders
 
 Please [reach out to me](mailto:hello@ongchinhwee.com?subject=Speaker%20Request) if you would like to collaborate and sponsor my next conference talk.
 

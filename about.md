@@ -27,7 +27,7 @@ My top-priority goal in 2026 is to become a Lead/Staff Data and Machine Learning
 
 I stumbled into public speaking when I attended Singapore Global CFP Diversity Day in March 2019, and subsequently got my first CFP submission accepted a few months later. Since then, I have spoken at various meetups and conferences locally and internationally on a variety of topics including data processing, parallel and asynchronous programming, and contributing to the open source community.
 
-One of my speaking goals in 2025 is to monetize my speaking engagements. Let's discuss how I can add value to your next event in 2025!
+One of my speaking goals in 2026 is to monetize my speaking engagements. Let's discuss how I can add value to your next event in 2026!
 
 Topics that I speak on:
 
@@ -35,7 +35,7 @@ Topics that I speak on:
 2. Parallel and Asynchronous Programming for Data Science
 3. Machine Learning Operations in Digital Banking
 4. Building Your Tech Career like a Business
-5. Emotional Regulation for Technical Leaders
+5. Emotional Regulation for First-Time Technical Leaders
 
 More details on my speaking [here](https://hweecat.github.io/talks)
 
