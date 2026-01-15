@@ -16,19 +16,16 @@ In the meantime, I would greatly appreciate it if you could:
 
 ### Upcoming talks
 
-<<<<<<< HEAD
-No talks planned yet, but do look out for future talks!
-=======
 Currently in the works!
 
 I am currently selectively available for discussion on potential talks and collaborations on the following topics:
 
 1. Change-Aware Dimensional Data Modeling in the Modern Data Stack
 2. Machine Learning Operations in Digital Banking
-3. Emotional Regulation for Technical Leaders
+3. AI + Data Engineering
+4. Emotional Regulation for Technical Leaders
 
 Please [reach out to me](mailto:hello@ongchinhwee.com?subject=Speaker%20Request) if you would like to collaborate and sponsor my next conference talk.
->>>>>>> 217197fb7582a890dcfad9048da4dcc565ba1bbb
 
 ### Past talks
 
