@@ -156,11 +156,11 @@ Honours Thesis – Solar UAV: Propulsion System – Selection of Motor and Prope
 ## Community Activities
 
 * STEM Circle Founding Member and Co-Lead, Member Engagement Sub-committee, Young Women's Leadership Connection (Jun 2022 - present)
-* Female & Fearless 2025 Committee Member, Social Impact Sub-committee, Young Women's Leadership Connection (Jul 2025 - Dec 2025)
 * Curriculum Mentor with BigDataX (Jan 2019 – present) 
+* Female & Fearless 2025 Committee Member, Social Impact Sub-committee, Young Women's Leadership Connection (Jul 2025 - Dec 2025)
+* Member Journey and Data Innovation Sub-committees, Young Women’s Leadership Connection (Aug 2021 – June 2025) 
 * Analytics and Research Contributor with CoronaTracker (Feb 2020 – May 2020) 
 * Mentor for “Beginners Data Workshop for Minorities” at PyCon 2020 (May 2020) 
-* Member Journey and Data Innovation Sub-committees, Young Women’s Leadership Connection (Aug 2021 – June 2025) 
 * Regular performer with Raffles Alumni Chinese Orchestra (Jun 2010 – Aug 2018) 
 
 ## Skills
