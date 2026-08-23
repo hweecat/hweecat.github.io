@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello! My name is Chin Hwee, and my day job is a Senior Data Engineer at a <s>government-linked corporation in Singapore (so technically ah-gong keeps me off the streets)</s> <s>fintech company that helps migrant workers stay in touch with their loved ones back home (so technically my work can potentially make the world a better place for them to live in)</s> nascent team in a superapp company that aims to deliver financial inclusion in one of the world's fastest-growing regions.
+Hello! My name is Chin Hwee, and my day job is a Data Engineer at a sales insights team in a global hyperscaler. I previously led data engineering and machine learning operations as the first senior data engineering hire for Grab's Indonesia Digibank (before the rebranding as Superbank), scaled data products and architecture to enable service quality and inventory management at a fintech company in their hypergrowth phase, and built full-stack data products for aerospace predictive maintenance as a founding engineer in a strategic innovation team within a government-linked corporation.
 
 While my background is not in Computer Science and is an interdisciplinary blend of Computational Science, Engineering and Business (I could have switched majors, but I really love studying aerodynamics and aircraft propulsion too), I've been writing code on-and-off to get myself through coursework since more than 10 years ago. I enjoy writing code and making my codes work, 'cos bugs are common and solving bugs helps keep my potentially-dangerous perfectionistic thoughts at bay.
 
@@ -14,14 +14,15 @@ My personal interests range from aviation to music and finance (but sadly COVID-
 
 I'm currently <s>struggling with</s> learning:
 1. how to write well-functioning functional programming codes in Scala so that I can run Spark jobs in their native language
-2. how to make my Python codes run faster so that I can have more time to focus on machine learning
-3. how to design scalable, highly-resilient and reliable data and AI (including machine learning) workflows that supercharge my decision-making superpowers beyond work.
+2. how to make my Spark and Python codes run faster so that I can have more time to focus on machine learning and AI projects
+3. how to build AI harnesses, evals and LLMs from scratch
+4. how to design scalable, highly-resilient and reliable data and AI (including machine learning) workflows that supercharge my decision-making superpowers beyond work.
 
 I enjoy having deep-dive discussions on how to make the world a better place through technology and human intelligence. I also have a [resume](https://hweecat.github.io/resume), if you're looking to hire someone for data science, AI, data engineering, and machine learning operations.
 
 I keep track of my tech goals every year to keep myself on track in my tech career journey, check them out [here](https://hweecat.github.io/goals).
 
-My top-priority goal in 2026 is to become a Lead/Staff Data and Machine Learning Operations Engineer, after a turbulent career journey as a Senior Data Engineer for the past 3+ years. Leveling matters a lot for me as a data professional who takes my career progression seriously, as ["titles make a world of difference in establishing credibility" in my tech career](https://blog.pragmaticengineer.com/the-seniority-roller-coaster/) and are directly tied to future compensation, financial outcomes and scope of autonomy. If you are a data professional who would like a candid discussion on career progression in tech, let's connect!
+My top-priority goal in 2026 is to strengthen my engineering leadership capabilities and work towards becoming a Lead/Staff Data and Machine Learning Operations Engineer, after a turbulent career journey as a Senior Data Engineer leading data engineering and machine learning operations in regional fintech for the past 3+ years. Leveling matters a lot for me as a data professional who takes my career progression seriously, as ["titles make a world of difference in establishing credibility" in my tech career](https://blog.pragmaticengineer.com/the-seniority-roller-coaster/) and are directly tied to future compensation, financial outcomes and scope of autonomy. If you are a data professional who would like a candid discussion on career progression in tech, let's connect!
 
 ### Talks
 

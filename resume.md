@@ -14,7 +14,7 @@ GitHub: [https://github.com/hweecat](https://github.com/hweecat)
 
 ## Experience
 
-### GRAB (Aug 2022 - Present)
+### GRAB (Aug 2022 - 2026)
 
 Senior Data Engineer, Digibank Engineering Indonesia
 
